@@ -700,7 +700,7 @@
     "type": "color"
   },
   "input-default-shadow-inner-color": {
-    "value": "ffffff00",
+    "value": "#ffffff00",
     "type": "color"
   },
   "market-depth-row-position-bg-color": {
@@ -878,6 +878,132 @@
   },
   "watchlist-gtrap-table-cell-true-bg": {
     "value": "ffffff00",
+    "type": "color"
+  },
+  "account-label-inactive-bg": {
+    "value": "ced4ecff",
+    "type": "color"
+  },
+  "account-label-inactive-text": {
+    "value": "b6bddcff",
+    "type": "color"
+  },
+  "table_row-button-buy-hovered-border-outside": {
+    "value": "46b993ff",
+    "type": "color"
+  },
+  "table_row-button-sell-hovered-border-outside": {
+    "value": "ff6464ff",
+    "type": "color"
+  },
+  "candle-bear-body-color": {
+    "value": "ff6464ff",
+    "type": "color"
+  },
+  "candle-bear-wick-color": {
+    "value": "ff6464ff",
+    "type": "color"
+  },
+  "candle-bull-body-color": {
+    "value": "46b993ff",
+    "type": "color"
+  },
+  "candle-bull-wick-color": {
+    "value": "46b993ff",
+    "type": "color"
+  },
+  "chart-crosshair-line-color": {
+    "value": "c6c9ec4d",
+    "type": "color"
+  },
+  "chart-down-line-color": {
+    "value": "b9464eff",
+    "type": "color"
+  },
+  "chart-info-bg-color": {
+    "value": "0f1023cc",
+    "type": "color"
+  },
+  "order_group-number-bg": {
+    "value": "0f102380",
+    "type": "color"
+  },
+  "drag-and-drop-area-bg-color": {
+    "value": "c5c9eb0f",
+    "type": "color"
+  },
+  "drawing-settings-dropbox-line-color": {
+    "value": "c6c9eccc",
+    "type": "color",
+    "description": "???"
+  },
+  "notification-corner-neutral-bg-color": {
+    "value": "c0c7e4ff",
+    "type": "color"
+  },
+  "option-chain-in-the-money-table-area-bg-color-1": {
+    "value": "c5c9eb0f",
+    "type": "color"
+  },
+  "order-entry-header-top-shadow-color": {
+    "value": "0f10231f",
+    "type": "color"
+  },
+  "button-primary-hover": {
+    "value": "2a81f4ff",
+    "type": "color"
+  },
+  "button-primary-pressed": {
+    "value": "0c6ff1ff",
+    "type": "color"
+  },
+  "button-secondary-hover": {
+    "value": "6a6f9cff",
+    "type": "color"
+  },
+  "button-secondary-pressed": {
+    "value": "5f6495ff",
+    "type": "color"
+  },
+  "button-tertiary-hover": {
+    "value": "535882ff",
+    "type": "color"
+  },
+  "button-tertiary-pressed": {
+    "value": "444873ff",
+    "type": "color"
+  },
+  "modal-window-blocking-bg-color": {
+    "value": "0f10234d",
+    "type": "color",
+    "description": "??"
+  },
+  "table--filtered-bg-color": {
+    "value": "c5c9eb0f",
+    "type": "color"
+  },
+  "filter-table-bg-color": {
+    "value": "c5c9eb0f",
+    "type": "color"
+  },
+  "event-dividend-text": {
+    "value": "00b624ff",
+    "type": "color"
+  },
+  "watchlist-grid-progressbar-rounded-empty-bg-color": {
+    "value": "0f102333",
+    "type": "color"
+  },
+  "widget-bg-overlay-dark": {
+    "value": "0f10234d",
+    "type": "color"
+  },
+  "widget-overlay-color": {
+    "value": "0f102380",
+    "type": "color"
+  },
+  "chart-volume-top-color": {
+    "value": "#7177a8ff",
     "type": "color"
   },
   "dashboard-widget-item-shadow-color": {
@@ -1500,10 +1626,6 @@
   },
   "notification-corner-critical-vertical-line-color": {
     "value": "b9464eff",
-    "type": "color"
-  },
-  "notification-corner-neutral-bg-color": {
-    "value": "c0c7e4ff",
     "type": "color"
   },
   "notification-corner-order-bg-color": {
@@ -2566,12 +2688,16 @@
     "value": "b2b6cbff",
     "type": "color"
   },
+  "filter-panel-bg-grad-color-2": {
+    "value": "ece2faff",
+    "type": "color"
+  },
   "option-chain-in-the-money-table-area-bg-color-2": {
     "value": "ffffff00",
     "type": "color"
   },
-  "filter-panel-bg-grad-color-2": {
-    "value": "ece2faff",
+  "dropdown-list-shadow-color": {
+    "value": "#0f102333",
     "type": "color"
   },
   "hint-tooltip-shadow": {
@@ -2619,7 +2745,7 @@
     "type": "color"
   },
   "order-entry-horizontal-divider-color": {
-    "value": "ced4ecff",
+    "value": "#7177a8ff",
     "type": "color"
   },
   "order-entry-switcher-bubble-color": {
@@ -3424,6 +3550,10 @@
   },
   "segmented_control-sell-default-bg": {
     "value": "b9464eff",
+    "type": "color"
+  },
+  "overlay-box-shadow-color": {
+    "value": "#0f10234d",
     "type": "color"
   },
   "market-depth-row-limit-bg-color": {
