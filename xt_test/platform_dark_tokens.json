@@ -881,11 +881,11 @@
     "type": "color"
   },
   "account-label-inactive-bg": {
-    "value": "#cad1ebff",
+    "value": "#ced4ecff",
     "type": "color"
   },
   "account-label-inactive-text": {
-    "value": "#b3badaff",
+    "value": "#b6bddcff",
     "type": "color"
   },
   "table_row-button-buy-hovered-border-outside": {
@@ -938,7 +938,7 @@
     "description": "???"
   },
   "notification-corner-neutral-bg-color": {
-    "value": "#424670ff",
+    "value": "#444873ff",
     "type": "color"
   },
   "option-chain-in-the-money-table-area-bg-color-1": {
@@ -958,19 +958,19 @@
     "type": "color"
   },
   "button-secondary-hover": {
-    "value": "#696e9bff",
+    "value": "#6a6f9cff",
     "type": "color"
   },
   "button-secondary-pressed": {
-    "value": "#5d6292ff",
+    "value": "#5f6495ff",
     "type": "color"
   },
   "button-tertiary-hover": {
-    "value": "#51567fff",
+    "value": "#535882ff",
     "type": "color"
   },
   "button-tertiary-pressed": {
-    "value": "#424670ff",
+    "value": "#444873ff",
     "type": "color"
   },
   "modal-window-blocking-bg-color": {
@@ -1003,7 +1003,7 @@
     "type": "color"
   },
   "chart-volume-top-color": {
-    "value": "#6d73a5ff",
+    "value": "#7177a8ff",
     "type": "color"
   },
   "dashboard-widget-item-shadow-color": {
@@ -1023,15 +1023,15 @@
     "type": "color"
   },
   "account-switcher-bg-color": {
-    "value": "#252945ff",
+    "value": "#272a47ff",
     "type": "color"
   },
   "admin-notification-acknowledgement-tag-accepted-multiparts": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "admin_notification-acknowledgement_tag-not_accepted-bg": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "admin_notification-acknowledgement_tag-not_accepted-text": {
@@ -1043,11 +1043,11 @@
     "type": "color"
   },
   "admin_notification-priority-low-multiparts": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "app-bg-grad-top-color": {
-    "value": "#0b0b13ff",
+    "value": "#0d0e17ff",
     "type": "color"
   },
   "app-header-divider-vertical-color": {
@@ -1055,7 +1055,7 @@
     "type": "color"
   },
   "app-bg-color": {
-    "value": "#0b0b13ff",
+    "value": "#0d0e17ff",
     "type": "color"
   },
   "app-header-button-dragged-bg-color": {
@@ -1087,7 +1087,7 @@
     "type": "color"
   },
   "calendar-current-day-border": {
-    "value": "#5d6292ff",
+    "value": "#5f6495ff",
     "type": "color"
   },
   "calendar-month-border-line-color": {
@@ -1095,15 +1095,15 @@
     "type": "color"
   },
   "calendar-month-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "calendar-option_expiration_day-bg": {
-    "value": "#1c1e35ff",
+    "value": "#1e2038ff",
     "type": "color"
   },
   "calendar-weekend_name-text": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "chart-alert-editable-line-color": {
@@ -1145,7 +1145,7 @@
     "type": "color"
   },
   "chart-high-low-indicator": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "chart-info-hover-bg-color": {
@@ -1234,7 +1234,7 @@
     "type": "color"
   },
   "line-dotted-color": {
-    "value": "#f8f8fbff",
+    "value": "#fdfdfeff",
     "type": "color"
   },
   "link-default-multiparts": {
@@ -1288,23 +1288,19 @@
     "type": "color"
   },
   "dashboard-highlighted-line": {
-    "value": "#424670ff",
+    "value": "#444873ff",
     "type": "color"
   },
   "dashboard-spread-bg-color": {
-    "value": "#252945ff",
+    "value": "#272a47ff",
     "type": "color"
   },
   "depth-of-market-bid-ask-additional-hover-bg-color": {
-    "value": "#2d3052ff",
+    "value": "#2f3256ff",
     "type": "color"
   },
   "depth-of-market-collapse-box-border-color": {
-    "value": "#373b61ff",
-    "type": "color"
-  },
-  "depth-of-market-market-order-row-bg-color": {
-    "value": "#1c1e35ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "depth-of-market-market-order-row-divider-color": {
@@ -1319,12 +1315,8 @@
     "value": "#46b9931f",
     "type": "color"
   },
-  "depth-of-market-order-template-bg-color": {
-    "value": "#1c1e35ff",
-    "type": "color"
-  },
   "depth-of-market-volume-bg-color-1": {
-    "value": "#1c1e35ff",
+    "value": "#1e2038ff",
     "type": "color"
   },
   "trade-builder-step-warning-color": {
@@ -1332,7 +1324,7 @@
     "type": "color"
   },
   "trade-warning-message-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "draggable-item-disabled-bg-color": {
@@ -1360,7 +1352,7 @@
     "type": "color"
   },
   "app-header-dropdown-active-bg-color": {
-    "value": "#5d6292ff",
+    "value": "#5f6495ff",
     "type": "color"
   },
   "dropdown-list-item-dragged-bg-color": {
@@ -1368,7 +1360,7 @@
     "type": "color"
   },
   "app-header-dropdown-default-border-color": {
-    "value": "#5d6292ff",
+    "value": "#5f6495ff",
     "type": "color"
   },
   "add-dashboard-border-color": {
@@ -1393,7 +1385,7 @@
     "type": "color"
   },
   "slider-bg-color": {
-    "value": "#5d6292ff",
+    "value": "#5f6495ff",
     "type": "color"
   },
   "slider-disabled-bg-color": {
@@ -1405,11 +1397,11 @@
     "type": "color"
   },
   "slider-handle-color": {
-    "value": "#f8f8fbff",
+    "value": "#fdfdfeff",
     "type": "color"
   },
   "widget-dark-bg-color": {
-    "value": "#1c1e35ff",
+    "value": "#1e2038ff",
     "type": "color"
   },
   "wrong-tooltip-bg-color": {
@@ -1417,19 +1409,19 @@
     "type": "color"
   },
   "heatmap-group-default-bg": {
-    "value": "#2d3052ff",
+    "value": "#2f3256ff",
     "type": "color"
   },
   "heatmap-group-default-text": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "heatmap-group-hovered-bg": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "heatmap-group-hovered-text": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "heatmap-tile-hovered-overlay": {
@@ -1453,7 +1445,7 @@
     "type": "color"
   },
   "add-delete-icon-color": {
-    "value": "#f8f8fbff",
+    "value": "#fdfdfeff",
     "type": "color"
   },
   "chart-trading-sell-icon": {
@@ -1461,11 +1453,11 @@
     "type": "color"
   },
   "checkbox-alt-tick": {
-    "value": "#f8f8fbff",
+    "value": "#fdfdfeff",
     "type": "color"
   },
   "checkbox-tick-color": {
-    "value": "#f8f8fbff",
+    "value": "#fdfdfeff",
     "type": "color"
   },
   "corner-warning-icon-color": {
@@ -1509,7 +1501,7 @@
     "type": "color"
   },
   "icon-primary-default-color": {
-    "value": "#f8f8fbff",
+    "value": "#fdfdfeff",
     "type": "color"
   },
   "icon-secondary-default-color": {
@@ -1525,7 +1517,7 @@
     "type": "color"
   },
   "label-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "modal-header-icon-primary-default-color": {
@@ -1609,7 +1601,7 @@
     "type": "color"
   },
   "loader-bg-color": {
-    "value": "#696e9bff",
+    "value": "#6a6f9cff",
     "type": "color"
   },
   "corner-message-highlight-color": {
@@ -1621,7 +1613,7 @@
     "type": "color"
   },
   "counter-text": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "notification-corner-critical-vertical-line-color": {
@@ -1629,19 +1621,19 @@
     "type": "color"
   },
   "notification-corner-order-bg-color": {
-    "value": "#424670ff",
+    "value": "#444873ff",
     "type": "color"
   },
   "notification-corner-order-vertical-line-color": {
-    "value": "#5d6292ff",
+    "value": "#5f6495ff",
     "type": "color"
   },
   "notification-corner-vertical-line-color": {
-    "value": "#5d6292ff",
+    "value": "#5f6495ff",
     "type": "color"
   },
   "notification-warning-blink-bg-color": {
-    "value": "#5d6292ff",
+    "value": "#5f6495ff",
     "type": "color"
   },
   "order-entry-clear-notification-progress-bar-bg-color": {
@@ -1649,19 +1641,19 @@
     "type": "color"
   },
   "toast-notification-default-border-color": {
-    "value": "#424670ff",
+    "value": "#444873ff",
     "type": "color"
   },
   "toast-notification-hover-bg-color": {
-    "value": "#51567fff",
+    "value": "#535882ff",
     "type": "color"
   },
   "toast-notification-hovered-border-color": {
-    "value": "#51567fff",
+    "value": "#535882ff",
     "type": "color"
   },
   "option-chain-strategies-support-bg-color": {
-    "value": "#1c1e35ff",
+    "value": "#1e2038ff",
     "type": "color"
   },
   "NM-handle-bg-color": {
@@ -1673,11 +1665,11 @@
     "type": "color"
   },
   "order-entry-alert-bubble-bg-color": {
-    "value": "#424670ff",
+    "value": "#444873ff",
     "type": "color"
   },
   "order-entry-bottom-panel-bg-color": {
-    "value": "#2d3052ff",
+    "value": "#2f3256ff",
     "type": "color"
   },
   "order-entry-switcher-focused-outside-border-color": {
@@ -1685,15 +1677,15 @@
     "type": "color"
   },
   "order-entry-switcher-off-bg-color-1": {
-    "value": "#6d73a5ff",
+    "value": "#7177a8ff",
     "type": "color"
   },
   "order-entry-switcher-off-hover-bg-color": {
-    "value": "#878cb4ff",
+    "value": "#8a8fb6ff",
     "type": "color"
   },
   "order-entry-switcher-off-hover-bg-color-1": {
-    "value": "#878cb4ff",
+    "value": "#8a8fb6ff",
     "type": "color"
   },
   "order-entry-switcher-on-bg-color": {
@@ -1705,7 +1697,7 @@
     "type": "color"
   },
   "order-entry-table-bg-color": {
-    "value": "#1c1e35ff",
+    "value": "#1e2038ff",
     "type": "color"
   },
   "order-entry-table-cell-disabled": {
@@ -1713,7 +1705,7 @@
     "type": "color"
   },
   "order-entry-table-cell-selected-bg-color": {
-    "value": "#2d3052ff",
+    "value": "#2f3256ff",
     "type": "color"
   },
   "order-entry-table-cell-selected-outside-border-color": {
@@ -1725,19 +1717,19 @@
     "type": "color"
   },
   "order_entry-footer-live-bg": {
-    "value": "#2d3052ff",
+    "value": "#2f3256ff",
     "type": "color"
   },
   "order_entry-footer-live_mode-bg": {
-    "value": "#2d3052ff",
+    "value": "#2f3256ff",
     "type": "color"
   },
   "order_entry-header-live-bg": {
-    "value": "#2d3052ff",
+    "value": "#2f3256ff",
     "type": "color"
   },
   "order_entry-header-live_mode-bg": {
-    "value": "#2d3052ff",
+    "value": "#2f3256ff",
     "type": "color"
   },
   "app-header-button-pressed-bg-color": {
@@ -1745,15 +1737,15 @@
     "type": "color"
   },
   "app-header-dropdown-active-border-color": {
-    "value": "#5d6292ff",
+    "value": "#5f6495ff",
     "type": "color"
   },
   "application-header-add-widgets-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "application-header-dragging-hint-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "application-header-item-hover-color": {
@@ -1769,7 +1761,7 @@
     "type": "color"
   },
   "button-hover-bg-color": {
-    "value": "#5d6292ff",
+    "value": "#5f6495ff",
     "type": "color"
   },
   "button-outside-focused-border-color": {
@@ -1785,15 +1777,15 @@
     "type": "color"
   },
   "calendar-prev-next-month-text-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "calendar-year-text-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "checkbox-alt-default-text": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "checkbox-border-default": {
@@ -1809,15 +1801,15 @@
     "type": "color"
   },
   "checkbox-default-text": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "color-picker-item-frame": {
-    "value": "#f8f8fbff",
+    "value": "#fdfdfeff",
     "type": "color"
   },
   "control-panel-label-default-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "dbl-click-trading-bg-color": {
@@ -1829,7 +1821,7 @@
     "type": "color"
   },
   "drawing-text-tool-light-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "drop-area-background-deny-color": {
@@ -1847,7 +1839,7 @@
     "description": "???"
   },
   "dropdown-description-text": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "dropdown-list-bg-pressed-color": {
@@ -1855,11 +1847,11 @@
     "type": "color"
   },
   "email-verification-container-bg-color": {
-    "value": "#252945ff",
+    "value": "#272a47ff",
     "type": "color"
   },
   "email-verification-container-border-color": {
-    "value": "#252945ff",
+    "value": "#272a47ff",
     "type": "color"
   },
   "focus-border-color": {
@@ -1867,19 +1859,19 @@
     "type": "color"
   },
   "form-hint-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "form-label-alt-text": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "group-bg-color": {
-    "value": "#2d3052ff",
+    "value": "#2f3256ff",
     "type": "color"
   },
   "highlight-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "icon-active-bg": {
@@ -1908,7 +1900,7 @@
     "type": "color"
   },
   "input-default-text": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "input-focused-border": {
@@ -1944,11 +1936,11 @@
     "type": "color"
   },
   "locate_monitor-header-bg": {
-    "value": "#1c1e35ff",
+    "value": "#1e2038ff",
     "type": "color"
   },
   "modal-window-header-bg-color": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "modal-window-warning-bg-color": {
@@ -1965,27 +1957,27 @@
     "type": "color"
   },
   "nm-axis-hover-line-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "nm-axis-line-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "nm-handle-hover-outside-border-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "option-chain-non-standard-option-group-bg-color": {
-    "value": "#2d3052ff",
+    "value": "#2f3256ff",
     "type": "color"
   },
   "primary-tab-hover-bg-color": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "radiobutton-default-dot": {
-    "value": "#f8f8fbff",
+    "value": "#fdfdfeff",
     "type": "color"
   },
   "repeated-text-color": {
@@ -2006,7 +1998,7 @@
     "type": "color"
   },
   "simulated-column-bg-color": {
-    "value": "#1c1e35ff",
+    "value": "#1e2038ff",
     "type": "color"
   },
   "status-new-text-color": {
@@ -2014,7 +2006,7 @@
     "type": "color"
   },
   "sub-additional-text-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "switcher-disabled-bg-color": {
@@ -2030,11 +2022,11 @@
     "type": "color"
   },
   "table-column-sim-text-header-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "table-row-highlighted-bg": {
-    "value": "#252945ff",
+    "value": "#272a47ff",
     "type": "color"
   },
   "text-tool-default-black-color": {
@@ -2042,7 +2034,7 @@
     "type": "color"
   },
   "text-tool-default-primary-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "text-tool-default-secondary-color": {
@@ -2050,11 +2042,11 @@
     "type": "color"
   },
   "tick-icon-hover-alt": {
-    "value": "#f8f8fbff",
+    "value": "#fdfdfeff",
     "type": "color"
   },
   "trade-builder-step-hint-tooltip-border-color": {
-    "value": "#424670ff",
+    "value": "#444873ff",
     "type": "color"
   },
   "wrong-bg-color": {
@@ -2078,11 +2070,11 @@
     "type": "color"
   },
   "common-switcher-off-default-bg-color": {
-    "value": "#6d73a5ff",
+    "value": "#7177a8ff",
     "type": "color"
   },
   "common-switcher-off-hovered-bg-color": {
-    "value": "#878cb4ff",
+    "value": "#8a8fb6ff",
     "type": "color"
   },
   "common-switcher-on-default-bg-color": {
@@ -2102,11 +2094,11 @@
     "type": "color"
   },
   "order-entry-switcher-off-default-bg-color": {
-    "value": "#6d73a5ff",
+    "value": "#7177a8ff",
     "type": "color"
   },
   "order-entry-switcher-off-hovered-bg-color": {
-    "value": "#878cb4ff",
+    "value": "#8a8fb6ff",
     "type": "color"
   },
   "order-entry-switcher-on-default-bg-color": {
@@ -2126,7 +2118,7 @@
     "type": "color"
   },
   "row-bg-selected": {
-    "value": "#2d3052ff",
+    "value": "#2f3256ff",
     "type": "color"
   },
   "sell-order-cell-bg": {
@@ -2134,7 +2126,7 @@
     "type": "color"
   },
   "table-bg-color": {
-    "value": "#1c1e35ff",
+    "value": "#1e2038ff",
     "type": "color"
   },
   "table-cell-error-bg": {
@@ -2142,39 +2134,39 @@
     "type": "color"
   },
   "table-cell-hover-bg-color": {
-    "value": "#252945ff",
+    "value": "#272a47ff",
     "type": "color"
   },
   "table-group-bg-color": {
-    "value": "#252945ff",
+    "value": "#272a47ff",
     "type": "color"
   },
   "table-group-bg-hover-color": {
-    "value": "#2d3052ff",
+    "value": "#2f3256ff",
     "type": "color"
   },
   "table-group-bg-selected-color": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "table-row-bg-hover-color": {
-    "value": "#252945ff",
+    "value": "#272a47ff",
     "type": "color"
   },
   "table-row-selected-bg-color": {
-    "value": "#2d3052ff",
+    "value": "#2f3256ff",
     "type": "color"
   },
   "table-totals-bg-color": {
-    "value": "#2d3052ff",
+    "value": "#2f3256ff",
     "type": "color"
   },
   "time_format-label-border": {
-    "value": "#5d6292ff",
+    "value": "#5f6495ff",
     "type": "color"
   },
   "time_format-label-text": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "watchlist-futures-warning-table-line-bg-color": {
@@ -2186,7 +2178,7 @@
     "type": "color"
   },
   "primary-tab-selected-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "symbol-suggest-tab-hover-bg-color": {
@@ -2194,7 +2186,7 @@
     "type": "color"
   },
   "tab-hover-bg-color": {
-    "value": "#51567fff",
+    "value": "#535882ff",
     "type": "color"
   },
   "tab-selected-line-color": {
@@ -2202,32 +2194,32 @@
     "type": "color"
   },
   "widget_header-tab-selected-bg": {
-    "value": "#424670ff",
+    "value": "#444873ff",
     "type": "color"
   },
   "workspace-tabs-bg-color": {
-    "value": "#1c1e35ff",
+    "value": "#1e2038ff",
     "type": "color"
   },
   "workspace-tabs-demo_mode-bg": {
-    "value": "#1c1e35ff",
+    "value": "#1e2038ff",
     "type": "color"
   },
   "workspace-tabs-live_mode-bg": {
-    "value": "#1c1e35ff",
+    "value": "#1e2038ff",
     "type": "color"
   },
   "tag-selected-border-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "account-info-data-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color",
     "description": "I don't think we need it"
   },
   "account-info-label-text-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "account-label-text-color": {
@@ -2235,11 +2227,11 @@
     "type": "color"
   },
   "additional-text-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "additional-text-color-2": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "app-header-button-default-text-color": {
@@ -2247,15 +2239,15 @@
     "type": "color"
   },
   "application-header-section-text-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "at-text-color-1": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "at-text-color-2": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "buy-text-color": {
@@ -2267,23 +2259,23 @@
     "type": "color"
   },
   "chart-axis-value-text-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "chart-cross-data-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "chart-cross-label-text-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "chart-current-price-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "chart-high-low-label-text": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "chart-placeholder-text-color": {
@@ -2291,19 +2283,19 @@
     "type": "color"
   },
   "checkbox-alt-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "checkbox-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "common-secondary-text-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "common-text-default": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "common-text-selected": {
@@ -2311,23 +2303,23 @@
     "type": "color"
   },
   "context-menu-list-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "corner-notification-description-text-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "crosshair-box-value-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "dashboard-side-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "description-text-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "down-text-color": {
@@ -2335,28 +2327,28 @@
     "type": "color"
   },
   "dropdown-default-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "dropdown-header-text-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "dropdown-list-description-text-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "dropdown-list-header-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color",
     "description": "Or secondary text?"
   },
   "dropdown-list-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "empty-widget-hint-text-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "error-description-text-color": {
@@ -2364,27 +2356,27 @@
     "type": "color"
   },
   "error-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "form-label-text-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "form-subtitle-text-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "form-title-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "hint-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "hint-tooltip-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "input-alt-placeholder-text": {
@@ -2412,7 +2404,7 @@
     "type": "color"
   },
   "loading-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "matched-color": {
@@ -2424,15 +2416,15 @@
     "type": "color"
   },
   "message-sbj-trading-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "message-sbj-warning-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "message-time-text-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "messages-reject-reason-text-color": {
@@ -2440,19 +2432,19 @@
     "type": "color"
   },
   "modal-window-header-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "modal-window-tab-default-text-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "modal-window-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "multiline-text-tool-tex-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "negative-text-color": {
@@ -2460,19 +2452,19 @@
     "type": "color"
   },
   "NM-label-text-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "NM-value-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "notification-additional-text-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "notification-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "option-param-additional-text-color": {
@@ -2496,7 +2488,7 @@
     "type": "color"
   },
   "order-entry-order-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "order-entry-sell-text-color": {
@@ -2504,7 +2496,7 @@
     "type": "color"
   },
   "order-entry-show-hide-text-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "positive-text-color": {
@@ -2512,24 +2504,24 @@
     "type": "color"
   },
   "primary-tab-hover-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "primary-tab-text-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "risk-profile-underlying-price-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color",
     "description": "What is this"
   },
   "risk_profile-price_slice-box-text": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "selected-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "sell-text-color": {
@@ -2545,36 +2537,36 @@
     "type": "color"
   },
   "studies-parameters-text": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color",
     "description": "What is this"
   },
   "suggest-tab-selected-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "suggest-tab-unactive-text-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "symbol-suggest-secondary-text-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "tab-hover-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "tab-selected-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "tab-text-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "table-column-text-header-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "table-error-text-color": {
@@ -2582,11 +2574,11 @@
     "type": "color"
   },
   "table-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "table-totals-title-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "toast-notification-text-color-1": {
@@ -2602,40 +2594,40 @@
     "type": "color"
   },
   "watchlist-grid-title-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "watchlist-list-type-active-header": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "watchlist-list-type-passive-header": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color",
     "description": "What is this"
   },
   "widget-header-hint-label-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "widget-header-hint-value-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "widget-header-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "widget_tab-default-text": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "widget_tab-hovered-text": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "widget_tab-selected-text": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "dashboard-area-bg-color": {
@@ -2643,7 +2635,7 @@
     "type": "color"
   },
   "dashboard-header-bg-color": {
-    "value": "#2d3052ff",
+    "value": "#2f3256ff",
     "type": "color"
   },
   "watchlist-futures-warning-icon-color": {
@@ -2657,7 +2649,7 @@
     "description": "???"
   },
   "watchlist-gtrap-table-cell-accented-text": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "watchlist-gtrap-table-cell-symbol-bg": {
@@ -2665,27 +2657,27 @@
     "type": "color"
   },
   "watchlist-gtrap-table-cell-text": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "watchlist-gtrap-table-header-bg": {
-    "value": "#2d3052ff",
+    "value": "#2f3256ff",
     "type": "color"
   },
   "watchlist-gtrap-table-header-parent-bg": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "watchlist-gtrap-table-header-text": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "watchlist-mini-chart-area-fill-color": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "watchlist-mini-chart-area-line-color": {
-    "value": "#5d6292ff",
+    "value": "#5f6495ff",
     "type": "color"
   },
   "filter-panel-bg-grad-color-2": {
@@ -2733,27 +2725,27 @@
     "type": "color"
   },
   "chart-time-stamp-line-color": {
-    "value": "#5d6292ff",
+    "value": "#5f6495ff",
     "type": "color"
   },
   "news-article-vertical-border": {
-    "value": "#5d6292ff",
+    "value": "#5f6495ff",
     "type": "color"
   },
   "order-entry-drag-divider-bg-color": {
-    "value": "#5d6292ff",
+    "value": "#5f6495ff",
     "type": "color"
   },
   "order-entry-horizontal-divider-color": {
-    "value": "#6d73a5ff",
+    "value": "#7177a8ff",
     "type": "color"
   },
   "order-entry-switcher-bubble-color": {
-    "value": "#f8f8fbff",
+    "value": "#fdfdfeff",
     "type": "color"
   },
   "order_entry-header-shadow-top": {
-    "value": "#5d6292ff",
+    "value": "#5f6495ff",
     "type": "color"
   },
   "active-switcher-outside-border-color": {
@@ -2765,15 +2757,15 @@
     "type": "color"
   },
   "common-switcher-knob-bg-color": {
-    "value": "#f8f8fbff",
+    "value": "#fdfdfeff",
     "type": "color"
   },
   "order-entry-switcher-knob-bg-color": {
-    "value": "#f8f8fbff",
+    "value": "#fdfdfeff",
     "type": "color"
   },
   "symbol-suggest-tab-unactive-bg-color": {
-    "value": "#2d3052ff",
+    "value": "#2f3256ff",
     "type": "color"
   },
   "admin_notification-priority-critical-multiparts": {
@@ -2781,31 +2773,31 @@
     "type": "color"
   },
   "app-header-bg-color": {
-    "value": "#2d3052ff",
+    "value": "#2f3256ff",
     "type": "color"
   },
   "app-header-bg-live-mode-color": {
-    "value": "#2d3052ff",
+    "value": "#2f3256ff",
     "type": "color"
   },
   "app-header-demo_mode-bg": {
-    "value": "#2d3052ff",
+    "value": "#2f3256ff",
     "type": "color"
   },
   "app-header-live_mode-bg": {
-    "value": "#2d3052ff",
+    "value": "#2f3256ff",
     "type": "color"
   },
   "tab-background-color": {
-    "value": "#1c1e35ff",
+    "value": "#1e2038ff",
     "type": "color"
   },
   "app-header-button-default-bg-color": {
-    "value": "#424670ff",
+    "value": "#444873ff",
     "type": "color"
   },
   "button-bg-color": {
-    "value": "#424670ff",
+    "value": "#444873ff",
     "type": "color"
   },
   "button-disabled-bg-color": {
@@ -2837,7 +2829,7 @@
     "type": "color"
   },
   "calendar-popup-bg-color": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "calendar-weekend_date-text": {
@@ -2845,83 +2837,83 @@
     "type": "color"
   },
   "chart-alert-bg": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "chart-alert-box-bg": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "chart-alert-line-color": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "chart-order-bg-color-1": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "chart-order-single-border-color": {
-    "value": "#424670ff",
+    "value": "#444873ff",
     "type": "color"
   },
   "chart-order-single-price-line-color": {
-    "value": "#51567fff",
+    "value": "#535882ff",
     "type": "color"
   },
   "chart-trading-order-position-bg-color": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "chart-trading-price-box-bg": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "chart-bg-color": {
-    "value": "#1c1e35ff",
+    "value": "#1e2038ff",
     "type": "color"
   },
   "chart-bg-grad-1": {
-    "value": "#1c1e35ff",
+    "value": "#1e2038ff",
     "type": "color"
   },
   "chart-crosshair-value-bg-color": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "chart-drawing-management-panel-bg-color-1": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "chart-high-low-label-bg-color": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "chart-neutral-line-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "chart-session-name-text-color": {
-    "value": "#a2a6c2ff",
+    "value": "#a4a9c4ff",
     "type": "color"
   },
   "chart-trading-block-bg-color": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "chart-volume-main-color": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "chart-widget-toolbar-bg-color-1": {
-    "value": "#1c1e35ff",
+    "value": "#1e2038ff",
     "type": "color"
   },
   "chart-current-price-bg-color": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "chart-point-default-line": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "status-negative-multiparts": {
@@ -2930,7 +2922,7 @@
     "description": "text, icons"
   },
   "status-neutral-multiparts": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color",
     "description": "text, icons"
   },
@@ -2940,23 +2932,31 @@
     "description": "text, icons"
   },
   "application-header-context-menu-bg-color": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "context-menu-bg-color": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "context-menu-border-color": {
-    "value": "#424670ff",
+    "value": "#444873ff",
     "type": "color"
   },
   "control-panel-drag-line-color": {
-    "value": "#51567fff",
+    "value": "#535882ff",
+    "type": "color"
+  },
+  "depth-of-market-market-order-row-bg-color": {
+    "value": "#1e2038ff",
+    "type": "color"
+  },
+  "depth-of-market-order-template-bg-color": {
+    "value": "#1e2038ff",
     "type": "color"
   },
   "draggable-item-hover-color": {
-    "value": "#51567fff",
+    "value": "#535882ff",
     "type": "color"
   },
   "dropdown-alt-disabled-bg": {
@@ -2968,11 +2968,11 @@
     "type": "color"
   },
   "dropdown-list-bg-color": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "dropdown-list-bg-hover-color": {
-    "value": "#51567fff",
+    "value": "#535882ff",
     "type": "color"
   },
   "dropdown-alt-disabled-border-outside": {
@@ -2984,35 +2984,35 @@
     "type": "color"
   },
   "hint-tooltip-bg-color": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "modal-window-bg-grad-1": {
-    "value": "#252945ff",
+    "value": "#272a47ff",
     "type": "color"
   },
   "modal-window-border-color": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "modal-window-header-bg-color-1": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "symbol-suggest-bg-color": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "symbol-suggest-line-hover-bg-color": {
-    "value": "#51567fff",
+    "value": "#535882ff",
     "type": "color"
   },
   "widget-header-border-color": {
-    "value": "#1c1e35ff",
+    "value": "#1e2038ff",
     "type": "color"
   },
   "widget-outside-border": {
-    "value": "#1c1e35ff",
+    "value": "#1e2038ff",
     "type": "color"
   },
   "corner-canceled-icon-color": {
@@ -3024,11 +3024,11 @@
     "type": "color"
   },
   "corner-modified-icon-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "corner-placed-icon-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "disabled-symbol-color": {
@@ -3040,7 +3040,7 @@
     "type": "color"
   },
   "status-active-icon-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "status-cancelled-icon-color": {
@@ -3076,19 +3076,19 @@
     "type": "color"
   },
   "list-item-hovered-bg": {
-    "value": "#51567fff",
+    "value": "#535882ff",
     "type": "color"
   },
   "list-item-hovered-bg-color": {
-    "value": "#51567fff",
+    "value": "#535882ff",
     "type": "color"
   },
   "list-item-selected-bg": {
-    "value": "#5d6292ff",
+    "value": "#5f6495ff",
     "type": "color"
   },
   "list-item-selected-bg-color": {
-    "value": "#5d6292ff",
+    "value": "#5f6495ff",
     "type": "color"
   },
   "notification-corner-critical-bg-color": {
@@ -3096,23 +3096,23 @@
     "type": "color"
   },
   "order-entry-clear-notification-bg-color": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "order-entry-clear-notification-border-color": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "toast-notification-default-bg-color": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "NM-handle-inside-border-color": {
-    "value": "#1c1e35ff",
+    "value": "#1e2038ff",
     "type": "color"
   },
   "order-entry-header-background-color": {
-    "value": "#2d3052ff",
+    "value": "#2f3256ff",
     "type": "color"
   },
   "button-primary-disabled-text": {
@@ -3136,7 +3136,7 @@
     "type": "color"
   },
   "dropdown-list-border-color": {
-    "value": "#424670ff",
+    "value": "#444873ff",
     "type": "color"
   },
   "expired-text-color": {
@@ -3152,7 +3152,7 @@
     "type": "color"
   },
   "modal-window-bg-color": {
-    "value": "#252945ff",
+    "value": "#272a47ff",
     "type": "color"
   },
   "segmented_control-disabled-bg": {
@@ -3164,43 +3164,43 @@
     "type": "color"
   },
   "table-header-bg-color": {
-    "value": "#2d3052ff",
+    "value": "#2f3256ff",
     "type": "color"
   },
   "suggest-tab-divider-line-color": {
-    "value": "#1c1e35ff",
+    "value": "#1e2038ff",
     "type": "color"
   },
   "symbol-suggest-tab-active-bg-color": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "tab-background-shadow-color": {
-    "value": "#2d3052ff",
+    "value": "#2f3256ff",
     "type": "color"
   },
   "tab-hover-line-color": {
-    "value": "#51567fff",
+    "value": "#535882ff",
     "type": "color"
   },
   "tab-hovered-line-color": {
-    "value": "#51567fff",
+    "value": "#535882ff",
     "type": "color"
   },
   "tab-selected-bg-color": {
-    "value": "#2d3052ff",
+    "value": "#2f3256ff",
     "type": "color"
   },
   "widget-header-tab-bg-color": {
-    "value": "#2d3052ff",
+    "value": "#2f3256ff",
     "type": "color"
   },
   "widget-header-tab-divider-color": {
-    "value": "#1c1e35ff",
+    "value": "#1e2038ff",
     "type": "color"
   },
   "widget-header-tab-hovered-line-color": {
-    "value": "#51567fff",
+    "value": "#535882ff",
     "type": "color"
   },
   "app-header-dropdown-default-text-color": {
@@ -3244,7 +3244,7 @@
     "type": "color"
   },
   "input-alt-default-text": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "input-alt-disabled-text": {
@@ -3252,7 +3252,7 @@
     "type": "color"
   },
   "input-default-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "input-disabled-text-color": {
@@ -3276,7 +3276,7 @@
     "type": "color"
   },
   "status-active-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "status-canceled-text-color": {
@@ -3288,7 +3288,7 @@
     "type": "color"
   },
   "status-cancelling-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "status-filled-text-color": {
@@ -3304,7 +3304,7 @@
     "type": "color"
   },
   "status-sending-text-color": {
-    "value": "#dde2f2ff",
+    "value": "#e1e5f3ff",
     "type": "color"
   },
   "status-triggered-text-color": {
@@ -3316,27 +3316,27 @@
     "type": "color"
   },
   "symbol-area-bg-color": {
-    "value": "#1c1e35ff",
+    "value": "#1e2038ff",
     "type": "color"
   },
   "watchlist-mini-chart-area-background": {
-    "value": "#1c1e35ff",
+    "value": "#1e2038ff",
     "type": "color"
   },
   "widget-bg-color": {
-    "value": "#1c1e35ff",
+    "value": "#1e2038ff",
     "type": "color"
   },
   "widget-bg-top-color": {
-    "value": "#1c1e35ff",
+    "value": "#1e2038ff",
     "type": "color"
   },
   "widget-header-bg-color": {
-    "value": "#2d3052ff",
+    "value": "#2f3256ff",
     "type": "color"
   },
   "widget-header-grad-color-1": {
-    "value": "#2d3052ff",
+    "value": "#2f3256ff",
     "type": "color"
   },
   "item-dragged-shadow-color": {
@@ -3368,7 +3368,7 @@
     "type": "color"
   },
   "app-bg-grad-bottom-color": {
-    "value": "#0b0b13ff",
+    "value": "#0d0e17ff",
     "type": "color"
   },
   "chart-timeline-full-period-bg-color-2": {
@@ -3376,11 +3376,11 @@
     "type": "color"
   },
   "depth-of-market-volume-bg-color-2": {
-    "value": "#2d3052ff",
+    "value": "#2f3256ff",
     "type": "color"
   },
   "button-secondary-default-bg-color": {
-    "value": "#424670ff",
+    "value": "#444873ff",
     "type": "color"
   },
   "button-separator-line-color": {
@@ -3424,7 +3424,7 @@
     "type": "color"
   },
   "button-secondary-default": {
-    "value": "#424670ff",
+    "value": "#444873ff",
     "type": "color"
   },
   "dropdown-default-border": {
@@ -3468,76 +3468,76 @@
     "type": "color"
   },
   "add-delete-icon-bg-color": {
-    "value": "#424670ff",
+    "value": "#444873ff",
     "type": "color"
   },
   "button-tertiary-default-bg-color": {
-    "value": "#424670ff",
+    "value": "#444873ff",
     "type": "color"
   },
   "chart-button-bg-color": {
-    "value": "#424670ff",
+    "value": "#444873ff",
     "type": "color"
   },
   "neutral-dashboard-bg-color": {
-    "value": "#424670ff",
+    "value": "#444873ff",
     "type": "color"
   },
   "order-entry-add-table-position-expanded-bg-color": {
-    "value": "#424670ff",
+    "value": "#444873ff",
     "type": "color"
   },
   "small-button-bg-color": {
-    "value": "#424670ff",
+    "value": "#444873ff",
     "type": "color"
   },
   "table-trading-button-bg-color": {
-    "value": "#424670ff",
+    "value": "#444873ff",
     "type": "color"
   },
   "widget-header-button-bg-color": {
-    "value": "#424670ff",
+    "value": "#444873ff",
     "type": "color"
   },
   "draggable-item-bg-color": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "dropdown-alt-default-bg": {
-    "value": "#424670ff",
+    "value": "#444873ff",
     "type": "color",
     "description": "For widget header dropdown"
   },
   "dropdown-default-bg-color": {
-    "value": "#424670ff",
+    "value": "#444873ff",
     "type": "color"
   },
   "list-item-default-bg": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "list-item-draggable-bg": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "button-tertiary-default": {
-    "value": "#424670ff",
+    "value": "#444873ff",
     "type": "color"
   },
   "cell-button-bg-color": {
-    "value": "#424670ff",
+    "value": "#444873ff",
     "type": "color"
   },
   "draggable-item-expanded-bg-color": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "dropdown-default-bg": {
-    "value": "#424670ff",
+    "value": "#444873ff",
     "type": "color"
   },
   "segmented_control-alt-default-bg": {
-    "value": "#424670ff",
+    "value": "#444873ff",
     "type": "color"
   },
   "segmented_control-buy-default-bg": {
@@ -3545,7 +3545,7 @@
     "type": "color"
   },
   "segmented_control-default-bg": {
-    "value": "#424670ff",
+    "value": "#444873ff",
     "type": "color"
   },
   "segmented_control-sell-default-bg": {
@@ -3557,39 +3557,39 @@
     "type": "color"
   },
   "market-depth-row-limit-bg-color": {
-    "value": "#424670ff",
+    "value": "#444873ff",
     "type": "color"
   },
   "chart-order-bg-color-2": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "chart-bg-grad-2": {
-    "value": "#1c1e35ff",
+    "value": "#1e2038ff",
     "type": "color"
   },
   "chart-drawing-management-panel-bg-color-2": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "chart-widget-toolbar-bg-color-2": {
-    "value": "#1c1e35ff",
+    "value": "#1e2038ff",
     "type": "color"
   },
   "modal-window-bg-grad-2": {
-    "value": "#252945ff",
+    "value": "#272a47ff",
     "type": "color"
   },
   "modal-window-header-bg-color-2": {
-    "value": "#373b61ff",
+    "value": "#383d65ff",
     "type": "color"
   },
   "widget-bg-bottom-color": {
-    "value": "#1c1e35ff",
+    "value": "#1e2038ff",
     "type": "color"
   },
   "widget-header-grad-color-2": {
-    "value": "#2d3052ff",
+    "value": "#2f3256ff",
     "type": "color"
   },
   "table-header-shadow-color": {
@@ -3617,7 +3617,7 @@
     "type": "color"
   },
   "widget-header-shadow-color": {
-    "value": "#1c1e35ff",
+    "value": "#1e2038ff",
     "type": "color",
     "description": "Widget Border"
   },
