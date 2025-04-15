@@ -5,87 +5,87 @@
       "type": "color"
     },
     "base-50": {
-      "value": "#f8f8fbff",
+      "value": "#fdfdfeff",
       "type": "color"
     },
     "base-75": {
-      "value": "#eaeef9ff",
+      "value": "#edf0faff",
       "type": "color"
     },
     "base-100": {
-      "value": "#dde2f2ff",
+      "value": "#e1e5f3ff",
       "type": "color"
     },
     "base-150": {
-      "value": "#cad1ebff",
+      "value": "#ced4ecff",
       "type": "color"
     },
     "base-200": {
-      "value": "#bec6e3ff",
+      "value": "#c0c7e4ff",
       "type": "color"
     },
     "base-250": {
-      "value": "#b3badaff",
+      "value": "#b6bddcff",
       "type": "color"
     },
     "base-300": {
-      "value": "#afb3c9ff",
+      "value": "#b2b6cbff",
       "type": "color"
     },
     "base-350": {
-      "value": "#a2a6c2ff",
+      "value": "#a4a9c4ff",
       "type": "color"
     },
     "base-400": {
-      "value": "#9599bbff",
+      "value": "#979bbdff",
       "type": "color"
     },
     "base-450": {
-      "value": "#878cb4ff",
+      "value": "#8a8fb6ff",
       "type": "color"
     },
     "base-500": {
-      "value": "#6d73a5ff",
+      "value": "#7177a8ff",
       "type": "color"
     },
     "base-550": {
-      "value": "#696e9bff",
+      "value": "#6a6f9cff",
       "type": "color"
     },
     "base-600": {
-      "value": "#5d6292ff",
+      "value": "#5f6495ff",
       "type": "color"
     },
     "base-650": {
-      "value": "#51567fff",
+      "value": "#535882ff",
       "type": "color"
     },
     "base-700": {
-      "value": "#424670ff",
+      "value": "#444873ff",
       "type": "color"
     },
     "base-750": {
-      "value": "#373b61ff",
+      "value": "#383d65ff",
       "type": "color"
     },
     "base-800": {
-      "value": "#2d3052ff",
+      "value": "#2f3256ff",
       "type": "color"
     },
     "base-850": {
-      "value": "#252945ff",
+      "value": "#272a47ff",
       "type": "color"
     },
     "base-900": {
-      "value": "#1c1e35ff",
+      "value": "#1e2038ff",
       "type": "color"
     },
     "base-950": {
-      "value": "#131524ff",
+      "value": "#161728ff",
       "type": "color"
     },
     "base-1000": {
-      "value": "#0b0b13ff",
+      "value": "#0d0e17ff",
       "type": "color"
     }
   },
