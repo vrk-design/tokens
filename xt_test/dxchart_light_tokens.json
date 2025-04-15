@@ -98,15 +98,15 @@
     },
     "Crosshair": {
       "main_chart-crosshair-tag-text": {
-        "value": "#424670ff",
+        "value": "#444873ff",
         "type": "color"
       },
       "main_chart-crosshair-label-bg": {
-        "value": "#bec6e3ff",
+        "value": "#c0c7e4ff",
         "type": "color"
       },
       "main_chart-crosshair-tag-bg": {
-        "value": "#bec6e3ff",
+        "value": "#c0c7e4ff",
         "type": "color"
       },
       "main_chart-crosshair-tag-inverted-text": {
@@ -138,7 +138,7 @@
         "type": "color"
       },
       "main_chart-scale-handle-bg": {
-        "value": "#afb3c9ff",
+        "value": "#b2b6cbff",
         "type": "color"
       },
       "main_chart-scale-visible-bg": {
@@ -178,15 +178,15 @@
     },
     "Text": {
       "main_chart-value-text": {
-        "value": "#6d73a5ff",
+        "value": "#7177a8ff",
         "type": "color"
       },
       "main_chart-high-low-indicator": {
-        "value": "#6d73a5ff",
+        "value": "#7177a8ff",
         "type": "color"
       },
       "main_chart-label-text": {
-        "value": "#424670ff",
+        "value": "#444873ff",
         "type": "color"
       },
       "main_chart-label-inverted-text": {
@@ -204,15 +204,15 @@
     },
     "Volume": {
       "main_chart-volume_top-bg": {
-        "value": "#cad1ebff",
+        "value": "#ced4ecff",
         "type": "color"
       },
       "main_chart-volume-bg": {
-        "value": "#cad1ebff",
+        "value": "#ced4ecff",
         "type": "color"
       },
       "main_chart-volume-bg-v2": {
-        "value": "#cad1ebff",
+        "value": "#ced4ecff",
         "type": "color"
       },
       "main_chart-volume_top-buy": {
@@ -234,7 +234,7 @@
     },
     "Unsorted": {
       "main_chart-bg": {
-        "value": "#f8f8fbff",
+        "value": "#fdfdfeff",
         "type": "color"
       },
       "main_chart-border-active": {
@@ -242,7 +242,7 @@
         "type": "color"
       },
       "main_chart-progress_bar_bg": {
-        "value": "#cad1ebff",
+        "value": "#ced4ecff",
         "type": "color"
       },
       "main_chart-resize_bar-hover-bg": {
@@ -254,7 +254,7 @@
         "type": "color"
       },
       "main_chart-area": {
-        "value": "#afb3c9ff",
+        "value": "#b2b6cbff",
         "type": "color"
       },
       "main_chart-scatter-default-bg": {
@@ -262,11 +262,11 @@
         "type": "color"
       },
       "modal_window-header-bg": {
-        "value": "#eaeef9ff",
+        "value": "#edf0faff",
         "type": "color"
       },
       "mini_toolbar-default-bg": {
-        "value": "#eaeef9ff",
+        "value": "#edf0faff",
         "type": "color"
       }
     }
@@ -292,33 +292,33 @@
     },
     "Secondary": {
       "button-secondary-bg": {
-        "value": "#eaeef9ff",
+        "value": "#edf0faff",
         "type": "color"
       },
       "button-secondary-default": {
-        "value": "#eaeef9ff",
+        "value": "#edf0faff",
         "type": "color"
       },
       "button-secondary-default-text": {
-        "value": "#0b0b13ff",
+        "value": "#0d0e17ff",
         "type": "color"
       }
     },
     "Tertiary": {
       "button-tertiary-default": {
-        "value": "#eaeef9ff",
+        "value": "#edf0faff",
         "type": "color"
       },
       "button-tertiary-border-default": {
-        "value": "#bec6e3ff",
+        "value": "#c0c7e4ff",
         "type": "color"
       },
       "button-tertiary-hover": {
-        "value": "#b3badaff",
+        "value": "#b6bddcff",
         "type": "color"
       },
       "button-tertiaty-default-text": {
-        "value": "#0b0b13ff",
+        "value": "#0d0e17ff",
         "type": "color"
       },
       "button-tertiaty-disabled-text": {
@@ -356,19 +356,19 @@
     },
     "Dropdown": {
       "dropdown-default-bg": {
-        "value": "#eaeef9ff",
+        "value": "#edf0faff",
         "type": "color"
       },
       "dropdown-default-border": {
-        "value": "#bec6e3ff",
+        "value": "#c0c7e4ff",
         "type": "color"
       },
       "dropdown-hovered-bg": {
-        "value": "#dde2f2ff",
+        "value": "#e1e5f3ff",
         "type": "color"
       },
       "dropdown_secondary-bg": {
-        "value": "#eaeef9ff",
+        "value": "#edf0faff",
         "type": "color"
       }
     }
@@ -376,27 +376,27 @@
   "Trading": {
     "Order": {
       "order-default-bg": {
-        "value": "#dde2f2ff",
+        "value": "#e1e5f3ff",
         "type": "color"
       },
       "order-selected-bg": {
-        "value": "#cad1ebff",
+        "value": "#ced4ecff",
         "type": "color"
       },
       "order-border-default-bg": {
-        "value": "#cad1ebff",
+        "value": "#ced4ecff",
         "type": "color"
       },
       "order-border-hover-bg": {
-        "value": "#bec6e3ff",
+        "value": "#c0c7e4ff",
         "type": "color"
       },
       "order-wick-default-bg": {
-        "value": "#cad1ebff",
+        "value": "#ced4ecff",
         "type": "color"
       },
       "order-wick-hover-bg": {
-        "value": "#bec6e3ff",
+        "value": "#c0c7e4ff",
         "type": "color"
       },
       "order-divider-default-bg": {
@@ -410,31 +410,31 @@
     },
     "Order Button": {
       "order-button-default-bg": {
-        "value": "#eaeef9ff",
+        "value": "#edf0faff",
         "type": "color"
       },
       "order-button-hover-bg": {
-        "value": "#b3badaff",
+        "value": "#b6bddcff",
         "type": "color"
       }
     },
     "Order Close Btn": {
       "order-close_button-default-bg": {
-        "value": "#eaeef9ff",
+        "value": "#edf0faff",
         "type": "color"
       },
       "order-close_button-hover-bg": {
-        "value": "#b3badaff",
+        "value": "#b6bddcff",
         "type": "color"
       }
     },
     "Position": {
       "position-icon-default-bg": {
-        "value": "#878cb4ff",
+        "value": "#8a8fb6ff",
         "type": "color"
       },
       "position-icon-hover-bg": {
-        "value": "#5d6292ff",
+        "value": "#5f6495ff",
         "type": "color"
       },
       "position_positive-default-bg": {
@@ -502,19 +502,19 @@
     },
     "Icon": {
       "icon-primary-default-bg": {
-        "value": "#5d6292ff",
+        "value": "#5f6495ff",
         "type": "color"
       },
       "icon-secondary-default": {
-        "value": "#878cb4ff",
+        "value": "#8a8fb6ff",
         "type": "color"
       },
       "icon-secondary-default-bg": {
-        "value": "#878cb4ff",
+        "value": "#8a8fb6ff",
         "type": "color"
       },
       "icon-hovered-bg": {
-        "value": "#5d6292ff",
+        "value": "#5f6495ff",
         "type": "color"
       },
       "icon-active-bg": {
@@ -603,11 +603,11 @@
       "type": "color"
     },
     "databox-time-hover": {
-      "value": "#424670ff",
+      "value": "#444873ff",
       "type": "color"
     },
     "databox-text-default": {
-      "value": "#424670ff",
+      "value": "#444873ff",
       "type": "color"
     },
     "databox-text-disabled": {
@@ -618,29 +618,29 @@
   "Dropdown List": {
     "As Selector": {
       "dropdown-selector-default-bg": {
-        "value": "#eaeef9ff",
+        "value": "#edf0faff",
         "type": "color"
       },
       "dropdown-selector-hovered-bg": {
-        "value": "#eaeef9ff",
+        "value": "#edf0faff",
         "type": "color"
       }
     },
     "List Item": {
       "dropdown-list_item-default-text": {
-        "value": "#424670ff",
+        "value": "#444873ff",
         "type": "color"
       },
       "dropdown-list-item-default-text": {
-        "value": "#424670ff",
+        "value": "#444873ff",
         "type": "color"
       },
       "dropdown-list_item-hovered-bg": {
-        "value": "#dde2f2ff",
+        "value": "#e1e5f3ff",
         "type": "color"
       },
       "dropdown_secondary-list_item_hovered-bg": {
-        "value": "#dde2f2ff",
+        "value": "#e1e5f3ff",
         "type": "color"
       },
       "dropdown-list_item-selected-text": {
@@ -652,7 +652,7 @@
         "type": "color"
       },
       "dropdown-description-text": {
-        "value": "#6d73a5ff",
+        "value": "#7177a8ff",
         "type": "color"
       },
       "dropdown-list_item-divider-bg": {
@@ -660,14 +660,14 @@
         "type": "color"
       },
       "list-item-disabled-bg": {
-        "value": "#cad1ebff",
+        "value": "#ced4ecff",
         "type": "color"
       }
     }
   },
   "Form": {
     "form-title-text": {
-      "value": "#6d73a5ff",
+      "value": "#7177a8ff",
       "type": "color"
     },
     "form-subtitle-text": {
@@ -675,15 +675,15 @@
       "type": "color"
     },
     "form-label-text": {
-      "value": "#424670ff",
+      "value": "#444873ff",
       "type": "color"
     },
     "input-label-text": {
-      "value": "#6d73a5ff",
+      "value": "#7177a8ff",
       "type": "color"
     },
     "form-parameters-text": {
-      "value": "#6d73a5ff",
+      "value": "#7177a8ff",
       "type": "color"
     }
   },
@@ -705,11 +705,11 @@
       "type": "color"
     },
     "input-default-text": {
-      "value": "#424670ff",
+      "value": "#444873ff",
       "type": "color"
     },
     "input-label-text": {
-      "value": "#6d73a5ff",
+      "value": "#7177a8ff",
       "type": "color"
     },
     "input-disabled-text": {
@@ -719,11 +719,11 @@
   },
   "Switcher": {
     "switcher-default-bg": {
-      "value": "#b3badaff",
+      "value": "#b6bddcff",
       "type": "color"
     },
     "switcher-hovered-bg": {
-      "value": "#a2a6c2ff",
+      "value": "#a4a9c4ff",
       "type": "color"
     },
     "switcher-active-bg": {
@@ -1032,7 +1032,7 @@
   "Other Controls": {
     "Slider": {
       "slider-bg": {
-        "value": "#bec6e3ff",
+        "value": "#c0c7e4ff",
         "type": "color"
       },
       "dragging_area-bg": {
@@ -1040,11 +1040,11 @@
         "type": "color"
       },
       "dragging_slider-default-bg": {
-        "value": "#cad1ebff",
+        "value": "#ced4ecff",
         "type": "color"
       },
       "dragging_slider-hovered-bg": {
-        "value": "#bec6e3ff",
+        "value": "#c0c7e4ff",
         "type": "color"
       },
       "dragging_slider-border-default-bg": {
@@ -1070,7 +1070,7 @@
         "type": "color"
       },
       "checkbox-default-text": {
-        "value": "#424670ff",
+        "value": "#444873ff",
         "type": "color"
       },
       "checkbox-border-hover": {
@@ -1082,11 +1082,11 @@
         "type": "color"
       },
       "checkbox-default-dot": {
-        "value": "#5d6292ff",
+        "value": "#5f6495ff",
         "type": "color"
       },
       "checkbox-default-tick": {
-        "value": "#5d6292ff",
+        "value": "#5f6495ff",
         "type": "color"
       },
       "checkbox-disabled-text": {
@@ -1108,7 +1108,7 @@
         "type": "color"
       },
       "radiobutton-default-dot": {
-        "value": "#5d6292ff",
+        "value": "#5f6495ff",
         "type": "color"
       },
       "radiobutton-disabled-dot": {
@@ -1118,7 +1118,7 @@
     },
     "Color Picker": {
       "selector-default-bg": {
-        "value": "#f8f8fbff",
+        "value": "#fdfdfeff",
         "type": "color"
       },
       "color-selector-hover-bg": {
@@ -1128,11 +1128,11 @@
     },
     "Stepper": {
       "stepper-default-bg": {
-        "value": "#eaeef9ff",
+        "value": "#edf0faff",
         "type": "color"
       },
       "stepper-default-border": {
-        "value": "#bec6e3ff",
+        "value": "#c0c7e4ff",
         "type": "color"
       }
     }
