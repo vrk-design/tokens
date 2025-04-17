@@ -1,7 +1,8 @@
 {
   "chart-up-line-color": {
     "$value": "#28a37aff",
-    "$type": "color"
+    "$type": "color",
+    "$description": "Test description export"
   },
   "main_chart-candle-bull-wick-bg": {
     "$value": "#28a37aff",
