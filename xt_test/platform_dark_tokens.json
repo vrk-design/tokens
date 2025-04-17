@@ -1,3628 +1,3628 @@
 {
   "account-label-sb-bg-color": {
-    "value": "#d773b7ff",
-    "type": "color"
+    "$value": "#d773b7ff",
+    "$type": "color"
   },
   "close-widget-button-bg-color": {
-    "value": "#2e3256ff",
-    "type": "color"
+    "$value": "#2e3256ff",
+    "$type": "color"
   },
   "table_row-button-buy-default-bg": {
-    "value": "#113529ff",
-    "type": "color"
+    "$value": "#113529ff",
+    "$type": "color"
   },
   "table_row-button-sell-default-bg": {
-    "value": "#7e1a1aff",
-    "type": "color"
+    "$value": "#7e1a1aff",
+    "$type": "color"
   },
   "calendar-selected-day-bg-color": {
-    "value": "#ff853433",
-    "type": "color"
+    "$value": "#ff853433",
+    "$type": "color"
   },
   "calendar-selected-day-border-color": {
-    "value": "#ffc97399",
-    "type": "color"
+    "$value": "#ffc97399",
+    "$type": "color"
   },
   "event-conference_call-multiparts": {
-    "value": "#ea1717ff",
-    "type": "color"
+    "$value": "#ea1717ff",
+    "$type": "color"
   },
   "event-dividends-multiparts": {
-    "value": "#00b624ff",
-    "type": "color"
+    "$value": "#00b624ff",
+    "$type": "color"
   },
   "event-earnings-multiparts": {
-    "value": "#2a84ecff",
-    "type": "color"
+    "$value": "#2a84ecff",
+    "$type": "color"
   },
   "event-econoday_event-multiparts": {
-    "value": "#8346fdff",
-    "type": "color"
+    "$value": "#8346fdff",
+    "$type": "color"
   },
   "event-split-multiparts": {
-    "value": "#ad2397ff",
-    "type": "color"
+    "$value": "#ad2397ff",
+    "$type": "color"
   },
   "icon-chart-alert": {
-    "value": "#497cabff",
-    "type": "color"
+    "$value": "#497cabff",
+    "$type": "color"
   },
   "chart-default-line-color": {
-    "value": "#8ebcd4a6",
-    "type": "color"
+    "$value": "#8ebcd4a6",
+    "$type": "color"
   },
   "chart-order-bracket-border-color": {
-    "value": "#ae80ffff",
-    "type": "color"
+    "$value": "#ae80ffff",
+    "$type": "color"
   },
   "chart-order-bracket-index-bg-color": {
-    "value": "#ae80ffff",
-    "type": "color"
+    "$value": "#ae80ffff",
+    "$type": "color"
   },
   "chart-order-bracket-price-line-color": {
-    "value": "#896fb6ff",
-    "type": "color"
+    "$value": "#896fb6ff",
+    "$type": "color"
   },
   "chart-order-index-text-color": {
-    "value": "#171928ff",
-    "type": "color"
+    "$value": "#171928ff",
+    "$type": "color"
   },
   "chart-point-active-fill": {
-    "value": "#000000ff",
-    "type": "color"
+    "$value": "#000000ff",
+    "$type": "color"
   },
   "chart-point-active-line": {
-    "value": "#ffffffff",
-    "type": "color"
+    "$value": "#ffffffff",
+    "$type": "color"
   },
   "chart-point-default-fill": {
-    "value": "#000000ff",
-    "type": "color"
+    "$value": "#000000ff",
+    "$type": "color"
   },
   "chart-time-stamp-dot-color": {
-    "value": "#ffc973ff",
-    "type": "color"
+    "$value": "#ffc973ff",
+    "$type": "color"
   },
   "main_chart-session_break-bg": {
-    "value": "#9041ffff",
-    "type": "color"
+    "$value": "#9041ffff",
+    "$type": "color"
   },
   "main_chart-crosshair-tag-text": {
-    "value": "#ffffffff",
-    "type": "color"
+    "$value": "#ffffffff",
+    "$type": "color"
   },
   "widget-link-group-bg-color-1": {
-    "value": "#ea2e2eff",
-    "type": "color"
+    "$value": "#ea2e2eff",
+    "$type": "color"
   },
   "widget-link-group-bg-color-2": {
-    "value": "#ff6a08ff",
-    "type": "color"
+    "$value": "#ff6a08ff",
+    "$type": "color"
   },
   "widget-link-group-bg-color-3": {
-    "value": "#fdd400ff",
-    "type": "color"
+    "$value": "#fdd400ff",
+    "$type": "color"
   },
   "widget-link-group-bg-color-4": {
-    "value": "#24dd00ff",
-    "type": "color"
+    "$value": "#24dd00ff",
+    "$type": "color"
   },
   "widget-link-group-bg-color-5": {
-    "value": "#08e6e6ff",
-    "type": "color"
+    "$value": "#08e6e6ff",
+    "$type": "color"
   },
   "widget-link-group-bg-color-6": {
-    "value": "#3679ffff",
-    "type": "color"
+    "$value": "#3679ffff",
+    "$type": "color"
   },
   "widget-link-group-bg-color-7": {
-    "value": "#ff69b4ff",
-    "type": "color"
+    "$value": "#ff69b4ff",
+    "$type": "color"
   },
   "depth-of-market-price-additional-bg-color": {
-    "value": "#1d1d24ff",
-    "type": "color"
+    "$value": "#1d1d24ff",
+    "$type": "color"
   },
   "drop-area-bg-color": {
-    "value": "#5bb5d81a",
-    "type": "color"
+    "$value": "#5bb5d81a",
+    "$type": "color"
   },
   "heatmap-tile-negative-bg-max": {
-    "value": "#d11400ff",
-    "type": "color"
+    "$value": "#d11400ff",
+    "$type": "color"
   },
   "heatmap-tile-negative-bg-min": {
-    "value": "#380500ff",
-    "type": "color"
+    "$value": "#380500ff",
+    "$type": "color"
   },
   "heatmap-tile-positive-bg-max": {
-    "value": "#038203ff",
-    "type": "color"
+    "$value": "#038203ff",
+    "$type": "color"
   },
   "heatmap-tile-positive-bg-min": {
-    "value": "#013701ff",
-    "type": "color"
+    "$value": "#013701ff",
+    "$type": "color"
   },
   "order_protection-triggered_on-mark": {
-    "value": "#ffc466ff",
-    "type": "color",
-    "description": "???"
+    "$value": "#ffc466ff",
+    "$type": "color",
+    "$description": "???"
   },
   "planned-marker-bg": {
-    "value": "#ffba04ff",
-    "type": "color",
-    "description": "???"
+    "$value": "#ffba04ff",
+    "$type": "color",
+    "$description": "???"
   },
   "market-depth-row-bg-color-01": {
-    "value": "#a8afef03",
-    "type": "color"
+    "$value": "#a8afef03",
+    "$type": "color"
   },
   "market-depth-row-bg-color-02": {
-    "value": "#a8aff005",
-    "type": "color"
+    "$value": "#a8aff005",
+    "$type": "color"
   },
   "market-depth-row-bg-color-03": {
-    "value": "#a8aff008",
-    "type": "color"
+    "$value": "#a8aff008",
+    "$type": "color"
   },
   "market-depth-row-bg-color-04": {
-    "value": "#a8aff00a",
-    "type": "color"
+    "$value": "#a8aff00a",
+    "$type": "color"
   },
   "market-depth-row-bg-color-05": {
-    "value": "#a8aff00d",
-    "type": "color"
+    "$value": "#a8aff00d",
+    "$type": "color"
   },
   "market-depth-row-bg-color-06": {
-    "value": "#a8aff00f",
-    "type": "color"
+    "$value": "#a8aff00f",
+    "$type": "color"
   },
   "market-depth-row-bg-color-07": {
-    "value": "#a8aff012",
-    "type": "color"
+    "$value": "#a8aff012",
+    "$type": "color"
   },
   "market-depth-row-bg-color-08": {
-    "value": "#a8aff014",
-    "type": "color"
+    "$value": "#a8aff014",
+    "$type": "color"
   },
   "message-wrong-bg-color": {
-    "value": "#4d1a1dff",
-    "type": "color"
+    "$value": "#4d1a1dff",
+    "$type": "color"
   },
   "order-entry-group-bracket-cell-bg-color": {
-    "value": "#2e2046ff",
-    "type": "color"
+    "$value": "#2e2046ff",
+    "$type": "color"
   },
   "order-entry-group-order-connection-bubble-bracket": {
-    "value": "#5e00ffff",
-    "type": "color"
+    "$value": "#5e00ffff",
+    "$type": "color"
   },
   "order-entry-group-order-connection-line-bracket": {
-    "value": "#ae80ffff",
-    "type": "color"
+    "$value": "#ae80ffff",
+    "$type": "color"
   },
   "bin-switcher-color": {
-    "value": "#ff00d0ff",
-    "type": "color"
+    "$value": "#ff00d0ff",
+    "$type": "color"
   },
   "bin-switcher-shadow-line": {
-    "value": "#ff00d0ff",
-    "type": "color"
+    "$value": "#ff00d0ff",
+    "$type": "color"
   },
   "bin-switcher-text-color": {
-    "value": "#ff00d0ff",
-    "type": "color"
+    "$value": "#ff00d0ff",
+    "$type": "color"
   },
   "bin-title-text-color": {
-    "value": "#ff00d0ff",
-    "type": "color"
+    "$value": "#ff00d0ff",
+    "$type": "color"
   },
   "complex-list-dragged-item-bg-color": {
-    "value": "#efbd6dff",
-    "type": "color",
-    "description": "???"
+    "$value": "#efbd6dff",
+    "$type": "color",
+    "$description": "???"
   },
   "complex-list-dragged-item-border-color": {
-    "value": "#457d99ff",
-    "type": "color"
+    "$value": "#457d99ff",
+    "$type": "color"
   },
   "draggable-item-dragging-bg-color": {
-    "value": "#32333be6",
-    "type": "color",
-    "description": "????"
+    "$value": "#32333be6",
+    "$type": "color",
+    "$description": "????"
   },
   "filtered-column-text-color": {
-    "value": "#ffb361ff",
-    "type": "color",
-    "description": "???"
+    "$value": "#ffb361ff",
+    "$type": "color",
+    "$description": "???"
   },
   "logo-brand-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "logo-brand-secondary-color": {
-    "value": "#ffffffff",
-    "type": "color"
+    "$value": "#ffffffff",
+    "$type": "color"
   },
   "market-depth-scale-delimiter-bg": {
-    "value": "#66ffff1a",
-    "type": "color",
-    "description": "???"
+    "$value": "#66ffff1a",
+    "$type": "color",
+    "$description": "???"
   },
   "one-click-trading-bg-color": {
-    "value": "#a64b00ff",
-    "type": "color"
+    "$value": "#a64b00ff",
+    "$type": "color"
   },
   "order-modify-sl-tp-changes-text-color": {
-    "value": "#ffc973ff",
-    "type": "color"
+    "$value": "#ffc973ff",
+    "$type": "color"
   },
   "selected-dashboard-border-color": {
-    "value": "#457d99ff",
-    "type": "color",
-    "description": "???"
+    "$value": "#457d99ff",
+    "$type": "color",
+    "$description": "???"
   },
   "suggestion-tooltip-bg-color": {
-    "value": "#ff00d0ff",
-    "type": "color"
+    "$value": "#ff00d0ff",
+    "$type": "color"
   },
   "suggestion-tooltip-border-color": {
-    "value": "#ff00d0ff",
-    "type": "color"
+    "$value": "#ff00d0ff",
+    "$type": "color"
   },
   "table-header-updating-highlight-text-color": {
-    "value": "#907f52ff",
-    "type": "color"
+    "$value": "#907f52ff",
+    "$type": "color"
   },
   "widget-frozen-border-color": {
-    "value": "#8ebcd4ff",
-    "type": "color"
+    "$value": "#8ebcd4ff",
+    "$type": "color"
   },
   "risk-profile-chart-line-color-1": {
-    "value": "#f38800ff",
-    "type": "color"
+    "$value": "#f38800ff",
+    "$type": "color"
   },
   "risk-profile-chart-line-color-2": {
-    "value": "#ff5eb6ff",
-    "type": "color"
+    "$value": "#ff5eb6ff",
+    "$type": "color"
   },
   "risk-profile-chart-line-color-3": {
-    "value": "#00d8ffff",
-    "type": "color"
+    "$value": "#00d8ffff",
+    "$type": "color"
   },
   "risk-profile-underlying-price-divider-line-color": {
-    "value": "#ffffff1f",
-    "type": "color"
+    "$value": "#ffffff1f",
+    "$type": "color"
   },
   "risk_profile-chart_zone-negative": {
-    "value": "#c80b0b29",
-    "type": "color"
+    "$value": "#c80b0b29",
+    "$type": "color"
   },
   "risk_profile-chart_zone-positive": {
-    "value": "#12860029",
-    "type": "color"
+    "$value": "#12860029",
+    "$type": "color"
   },
   "risk_profile-current_price-box-bg": {
-    "value": "#276327ff",
-    "type": "color"
+    "$value": "#276327ff",
+    "$type": "color"
   },
   "risk_profile-current_price-dot-bg": {
-    "value": "#2f992fff",
-    "type": "color"
+    "$value": "#2f992fff",
+    "$type": "color"
   },
   "risk_profile-current_price-line": {
-    "value": "#28b828ff",
-    "type": "color"
+    "$value": "#28b828ff",
+    "$type": "color"
   },
   "risk_profile-price_slice-box-bg-01": {
-    "value": "#283aa0ff",
-    "type": "color"
+    "$value": "#283aa0ff",
+    "$type": "color"
   },
   "risk_profile-price_slice-box-bg-02": {
-    "value": "#8c430eff",
-    "type": "color"
+    "$value": "#8c430eff",
+    "$type": "color"
   },
   "risk_profile-price_slice-box-bg-03": {
-    "value": "#64238dff",
-    "type": "color"
+    "$value": "#64238dff",
+    "$type": "color"
   },
   "risk_profile-price_slice-box-bg-04": {
-    "value": "#cc2400ff",
-    "type": "color"
+    "$value": "#cc2400ff",
+    "$type": "color"
   },
   "risk_profile-price_slice-box-bg-05": {
-    "value": "#5c6dd1ff",
-    "type": "color"
+    "$value": "#5c6dd1ff",
+    "$type": "color"
   },
   "risk_profile-price_slice-box-bg-06": {
-    "value": "#4a680bff",
-    "type": "color"
+    "$value": "#4a680bff",
+    "$type": "color"
   },
   "risk_profile-price_slice-box-bg-07": {
-    "value": "#9b284aff",
-    "type": "color"
+    "$value": "#9b284aff",
+    "$type": "color"
   },
   "risk_profile-price_slice-box-bg-08": {
-    "value": "#3f4a6aff",
-    "type": "color"
+    "$value": "#3f4a6aff",
+    "$type": "color"
   },
   "risk_profile-price_slice-box-bg-09": {
-    "value": "#5a14ccff",
-    "type": "color"
+    "$value": "#5a14ccff",
+    "$type": "color"
   },
   "risk_profile-price_slice-box-bg-10": {
-    "value": "#117473ff",
-    "type": "color"
+    "$value": "#117473ff",
+    "$type": "color"
   },
   "risk_profile-price_slice-line-01": {
-    "value": "#2443adff",
-    "type": "color"
+    "$value": "#2443adff",
+    "$type": "color"
   },
   "risk_profile-price_slice-line-02": {
-    "value": "#61371aff",
-    "type": "color"
+    "$value": "#61371aff",
+    "$type": "color"
   },
   "risk_profile-price_slice-line-03": {
-    "value": "#582670ff",
-    "type": "color"
+    "$value": "#582670ff",
+    "$type": "color"
   },
   "risk_profile-price_slice-line-04": {
-    "value": "#712718ff",
-    "type": "color"
+    "$value": "#712718ff",
+    "$type": "color"
   },
   "risk_profile-price_slice-line-05": {
-    "value": "#465086ff",
-    "type": "color"
+    "$value": "#465086ff",
+    "$type": "color"
   },
   "risk_profile-price_slice-line-06": {
-    "value": "#4e590fff",
-    "type": "color"
+    "$value": "#4e590fff",
+    "$type": "color"
   },
   "risk_profile-price_slice-line-07": {
-    "value": "#892f4eff",
-    "type": "color"
+    "$value": "#892f4eff",
+    "$type": "color"
   },
   "risk_profile-price_slice-line-08": {
-    "value": "#445176ff",
-    "type": "color"
+    "$value": "#445176ff",
+    "$type": "color"
   },
   "risk_profile-price_slice-line-09": {
-    "value": "#43179fff",
-    "type": "color"
+    "$value": "#43179fff",
+    "$type": "color"
   },
   "risk_profile-price_slice-line-10": {
-    "value": "#0e5547ff",
-    "type": "color"
+    "$value": "#0e5547ff",
+    "$type": "color"
   },
   "risk_profile-price_slice-price-text-01": {
-    "value": "#5670fdff",
-    "type": "color"
+    "$value": "#5670fdff",
+    "$type": "color"
   },
   "risk_profile-price_slice-price-text-02": {
-    "value": "#f06e26ff",
-    "type": "color"
+    "$value": "#f06e26ff",
+    "$type": "color"
   },
   "risk_profile-price_slice-price-text-03": {
-    "value": "#c04ce9ff",
-    "type": "color"
+    "$value": "#c04ce9ff",
+    "$type": "color"
   },
   "risk_profile-price_slice-price-text-04": {
-    "value": "#e92800ff",
-    "type": "color"
+    "$value": "#e92800ff",
+    "$type": "color"
   },
   "risk_profile-price_slice-price-text-05": {
-    "value": "#4ca6e5ff",
-    "type": "color"
+    "$value": "#4ca6e5ff",
+    "$type": "color"
   },
   "risk_profile-price_slice-price-text-06": {
-    "value": "#88a415ff",
-    "type": "color"
+    "$value": "#88a415ff",
+    "$type": "color"
   },
   "risk_profile-price_slice-price-text-07": {
-    "value": "#e51975ff",
-    "type": "color"
+    "$value": "#e51975ff",
+    "$type": "color"
   },
   "risk_profile-price_slice-price-text-08": {
-    "value": "#8390b7ff",
-    "type": "color"
+    "$value": "#8390b7ff",
+    "$type": "color"
   },
   "risk_profile-price_slice-price-text-09": {
-    "value": "#985bffff",
-    "type": "color"
+    "$value": "#985bffff",
+    "$type": "color"
   },
   "risk_profile-price_slice-price-text-10": {
-    "value": "#3bbd86ff",
-    "type": "color"
+    "$value": "#3bbd86ff",
+    "$type": "color"
   },
   "risk_profile-zero-line": {
-    "value": "#ffffffff",
-    "type": "color"
+    "$value": "#ffffffff",
+    "$type": "color"
   },
   "risk-profile-underlying-price-bg-color": {
-    "value": "#b9f4ffff",
-    "type": "color"
+    "$value": "#b9f4ffff",
+    "$type": "color"
   },
   "divider-line-column-shadow": {
-    "value": "#6cb5d933",
-    "type": "color",
-    "description": "???"
+    "$value": "#6cb5d933",
+    "$type": "color",
+    "$description": "???"
   },
   "table-cell-updating-highlight-bg-color": {
-    "value": "#4d452fff",
-    "type": "color"
+    "$value": "#4d452fff",
+    "$type": "color"
   },
   "application-header-item-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
+    "$value": "#e1e5f3ff",
+    "$type": "color"
   },
   "depth-of-market-table-additional-text-color": {
-    "value": "#f7bf2bff",
-    "type": "color"
+    "$value": "#f7bf2bff",
+    "$type": "color"
   },
   "negative-disabled-text-color": {
-    "value": "#ff646499",
-    "type": "color"
+    "$value": "#ff646499",
+    "$type": "color"
   },
   "option-chain-aggregation-deliverable-text-color": {
-    "value": "#ffa67aff",
-    "type": "color",
-    "description": "??"
+    "$value": "#ffa67aff",
+    "$type": "color",
+    "$description": "??"
   },
   "option-chain-aggregation-multiplier-text-color": {
-    "value": "#5bb5d8ff",
-    "type": "color",
-    "description": "??"
+    "$value": "#5bb5d8ff",
+    "$type": "color",
+    "$description": "??"
   },
   "order-book-status-sending-text-color": {
-    "value": "#148eb9ff",
-    "type": "color"
+    "$value": "#148eb9ff",
+    "$type": "color"
   },
   "positive-disabed-text-color": {
-    "value": "#46b99399",
-    "type": "color",
-    "description": "Doesn't look like its used"
+    "$value": "#46b99399",
+    "$type": "color",
+    "$description": "Doesn't look like its used"
   },
   "positive-disabled-text-color": {
-    "value": "#46b99399",
-    "type": "color",
-    "description": "Doesn't look like its used"
+    "$value": "#46b99399",
+    "$type": "color",
+    "$description": "Doesn't look like its used"
   },
   "risk-profile-chart-text-color-1": {
-    "value": "#f7bf2bff",
-    "type": "color"
+    "$value": "#f7bf2bff",
+    "$type": "color"
   },
   "risk-profile-chart-text-color-2": {
-    "value": "#ff5eb6ff",
-    "type": "color"
+    "$value": "#ff5eb6ff",
+    "$type": "color"
   },
   "risk-profile-chart-text-color-3": {
-    "value": "#00d8ffff",
-    "type": "color"
+    "$value": "#00d8ffff",
+    "$type": "color"
   },
   "watchlist-grid-progressbar-trend-up-grad-1": {
-    "value": "#ffc975ff",
-    "type": "color"
+    "$value": "#ffc975ff",
+    "$type": "color"
   },
   "watchlist-grid-progressbar-trend-up-grad-2": {
-    "value": "#ffa538ff",
-    "type": "color"
+    "$value": "#ffa538ff",
+    "$type": "color"
   },
   "watchlist-grid-progressbar-trend-up-grad-3": {
-    "value": "#ff8400ff",
-    "type": "color"
+    "$value": "#ff8400ff",
+    "$type": "color"
   },
   "account-label-shadow-color": {
-    "value": "#00000033",
-    "type": "color"
+    "$value": "#00000033",
+    "$type": "color"
   },
   "label-master-bg": {
-    "value": "#d9d9d9ff",
-    "type": "color"
+    "$value": "#d9d9d9ff",
+    "$type": "color"
   },
   "account-label-demo-bg-color": {
-    "value": "#faaf19ff",
-    "type": "color"
+    "$value": "#faaf19ff",
+    "$type": "color"
   },
   "account-label-fx-bg-color": {
-    "value": "#7bc6e5ff",
-    "type": "color"
+    "$value": "#7bc6e5ff",
+    "$type": "color"
   },
   "account-label-live-bg-color": {
-    "value": "#00db7cff",
-    "type": "color"
+    "$value": "#00db7cff",
+    "$type": "color"
   },
   "label-cash-bg": {
-    "value": "#a8abccff",
-    "type": "color"
+    "$value": "#a8abccff",
+    "$type": "color"
   },
   "label-cfd-bg": {
-    "value": "#7b9ae5ff",
-    "type": "color"
+    "$value": "#7b9ae5ff",
+    "$type": "color"
   },
   "label-eq-bg": {
-    "value": "#7be5ccff",
-    "type": "color"
+    "$value": "#7be5ccff",
+    "$type": "color"
   },
   "label-eqo-bg": {
-    "value": "#7bc6e5ff",
-    "type": "color"
+    "$value": "#7bc6e5ff",
+    "$type": "color"
   },
   "label-fut-bg": {
-    "value": "#9093e9ff",
-    "type": "color"
+    "$value": "#9093e9ff",
+    "$type": "color"
   },
   "label-margin-bg": {
-    "value": "#a8abccff",
-    "type": "color"
+    "$value": "#a8abccff",
+    "$type": "color"
   },
   "label-mul-bg": {
-    "value": "#d96767ff",
-    "type": "color"
+    "$value": "#d96767ff",
+    "$type": "color"
   },
   "button-primary-border-inside-bottom-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "button-primary-border-inside-side-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "button-primary-border-inside-top-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "button-secondary-border-inside-bottom-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "button-secondary-border-inside-side-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "button-secondary-border-inside-top-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "button-tertiary-border-inside-bottom-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "button-tertiary-border-inside-side-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "button-tertiary-border-inside-top-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "down-dashboard-button-outside-border-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "small-button-inside-border-bot-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "small-button-inside-border-side-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "small-button-inside-border-top-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "up-dashboard-button-outside-border-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "widget-header-button-inside-border-bot-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "widget-header-button-inside-border-side-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "widget-header-button-inside-border-top-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "chart-order-oco-price-line-color": {
-    "value": "#0099e0ff",
-    "type": "color"
+    "$value": "#0099e0ff",
+    "$type": "color"
   },
   "chart-order-oso-child-price-line-color": {
-    "value": "#cc7700ff",
-    "type": "color"
+    "$value": "#cc7700ff",
+    "$type": "color"
   },
   "chart-order-oso-price-line-color": {
-    "value": "#f4663dff",
-    "type": "color"
+    "$value": "#f4663dff",
+    "$type": "color"
   },
   "candle-bear-border-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "candle-bull-border-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "chart-order-oco-border-color": {
-    "value": "#0099e0ff",
-    "type": "color"
+    "$value": "#0099e0ff",
+    "$type": "color"
   },
   "chart-order-oso-border-color": {
-    "value": "#f4663dff",
-    "type": "color"
+    "$value": "#f4663dff",
+    "$type": "color"
   },
   "chart-order-oso-child-border-color": {
-    "value": "#cc7700ff",
-    "type": "color"
+    "$value": "#cc7700ff",
+    "$type": "color"
   },
   "demo-mode-application-header-section-text-color": {
-    "value": "#fab732ff",
-    "type": "color"
+    "$value": "#fab732ff",
+    "$type": "color"
   },
   "demo-mode-order-entry-horizontal-divider-color": {
-    "value": "#faaf19ff",
-    "type": "color"
+    "$value": "#faaf19ff",
+    "$type": "color"
   },
   "demo-mode-tab-selected-line-color": {
-    "value": "#faaf19ff",
-    "type": "color"
+    "$value": "#faaf19ff",
+    "$type": "color"
   },
   "demo-mode-text-color": {
-    "value": "#fab732ff",
-    "type": "color"
+    "$value": "#fab732ff",
+    "$type": "color"
   },
   "depth-of-market-collapse-box-shadow-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "app-header-dropdown-default-bg-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "hint-tooltip-border-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "table-trading-button-inside-top-bottom-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "table-trading-button-inside-top-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "wrong-tooltip-border-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "input-default-shadow-inner-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "market-depth-row-position-bg-color": {
-    "value": "#344464ff",
-    "type": "color"
+    "$value": "#344464ff",
+    "$type": "color"
   },
   "market-depth-scale-bg": {
-    "value": "#4c9fff29",
-    "type": "color"
+    "$value": "#4c9fff29",
+    "$type": "color"
   },
   "alerts-form-fill-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "order-entry-add-asset-border-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "order-entry-group-order-connection-bubble-oco": {
-    "value": "#0099e0ff",
-    "type": "color"
+    "$value": "#0099e0ff",
+    "$type": "color"
   },
   "order-entry-group-order-connection-bubble-oso": {
-    "value": "#cc7700ff",
-    "type": "color"
+    "$value": "#cc7700ff",
+    "$type": "color"
   },
   "chart-order-oco-index-bg-color": {
-    "value": "#0099e0ff",
-    "type": "color"
+    "$value": "#0099e0ff",
+    "$type": "color"
   },
   "chart-order-oso-child-index-bg-color": {
-    "value": "#cc7700ff",
-    "type": "color"
+    "$value": "#cc7700ff",
+    "$type": "color"
   },
   "chart-order-oso-index-bg-color": {
-    "value": "#f4663dff",
-    "type": "color"
+    "$value": "#f4663dff",
+    "$type": "color"
   },
   "order-entry-group-oco-cell-bg-color": {
-    "value": "#2f486aff",
-    "type": "color"
+    "$value": "#2f486aff",
+    "$type": "color"
   },
   "order-entry-group-order-connection-line-oco": {
-    "value": "#0099e0ff",
-    "type": "color"
+    "$value": "#0099e0ff",
+    "$type": "color"
   },
   "order-entry-group-order-connection-line-oso": {
-    "value": "#cc7700ff",
-    "type": "color"
+    "$value": "#cc7700ff",
+    "$type": "color"
   },
   "order-entry-group-oso-cell-bg-color": {
-    "value": "#4e342bff",
-    "type": "color"
+    "$value": "#4e342bff",
+    "$type": "color"
   },
   "order-entry-group-oso-child-cell-bg-color": {
-    "value": "#4e342bff",
-    "type": "color"
+    "$value": "#4e342bff",
+    "$type": "color"
   },
   "alerts-create-alert-on-bg-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "button-inside-border-bot-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "button-inside-border-side-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "button-inside-border-top-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "dropdown-border-inside-bottom-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "dropdown-border-inside-side-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "dropdown-border-inside-top-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "iframe-bg-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "radiobutton-default-bg": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "tab-border-color": {
-    "value": "#ffffff00",
-    "type": "color",
-    "description": "???"
+    "$value": "#ffffff00",
+    "$type": "color",
+    "$description": "???"
   },
   "table-trading-button-inside-border-top-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "switcher-live-button-bg-color": {
-    "value": "#00db7cff",
-    "type": "color"
+    "$value": "#00db7cff",
+    "$type": "color"
   },
   "segmented_control-alt-border-inside-bottom": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "segmented_control-alt-border-inside-side": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "segmented_control-alt-border-inside-top": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "filter-panel-bg-grad-color-1": {
-    "value": "#393046ff",
-    "type": "color"
+    "$value": "#393046ff",
+    "$type": "color"
   },
   "tab-bg-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "workspace-tab-divider": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "workspace-tabs-shadow": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "tag-error-default-bg-color": {
-    "value": "#992525ff",
-    "type": "color"
+    "$value": "#992525ff",
+    "$type": "color"
   },
   "tag-impulse-default-bg-color": {
-    "value": "#7d308dff",
-    "type": "color"
+    "$value": "#7d308dff",
+    "$type": "color"
   },
   "tag-market-event-default-bg-color": {
-    "value": "#8a4600ff",
-    "type": "color"
+    "$value": "#8a4600ff",
+    "$type": "color"
   },
   "tag-news-default-bg-color": {
-    "value": "#0067b0ff",
-    "type": "color"
+    "$value": "#0067b0ff",
+    "$type": "color"
   },
   "tag-strategy-default-bg-color": {
-    "value": "#306b1aff",
-    "type": "color"
+    "$value": "#306b1aff",
+    "$type": "color"
   },
   "tag-name-text-color": {
-    "value": "#ffffffff",
-    "type": "color"
+    "$value": "#ffffffff",
+    "$type": "color"
   },
   "tag-value-text-color": {
-    "value": "#ffffffff",
-    "type": "color"
+    "$value": "#ffffffff",
+    "$type": "color"
   },
   "watchlist-gtrap-table-cell-bg": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "watchlist-gtrap-table-cell-false-bg": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "watchlist-gtrap-table-cell-pending-bg": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "watchlist-gtrap-table-cell-true-bg": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "account-label-inactive-bg": {
-    "value": "#ced4ecff",
-    "type": "color"
+    "$value": "#cad1ebff",
+    "$type": "color"
   },
   "account-label-inactive-text": {
-    "value": "#b6bddcff",
-    "type": "color"
+    "$value": "#b3badaff",
+    "$type": "color"
   },
   "table_row-button-buy-hovered-border-outside": {
-    "value": "#46b993ff",
-    "type": "color"
+    "$value": "#46b993ff",
+    "$type": "color"
   },
   "table_row-button-sell-hovered-border-outside": {
-    "value": "#ff6464ff",
-    "type": "color"
+    "$value": "#ff6464ff",
+    "$type": "color"
   },
   "candle-bear-body-color": {
-    "value": "#ff6464ff",
-    "type": "color"
+    "$value": "#ff6464ff",
+    "$type": "color"
   },
   "candle-bear-wick-color": {
-    "value": "#ff6464ff",
-    "type": "color"
+    "$value": "#ff6464ff",
+    "$type": "color"
   },
   "candle-bull-body-color": {
-    "value": "#46b993ff",
-    "type": "color"
+    "$value": "#46b993ff",
+    "$type": "color"
   },
   "candle-bull-wick-color": {
-    "value": "#46b993ff",
-    "type": "color"
+    "$value": "#46b993ff",
+    "$type": "color"
   },
   "chart-crosshair-line-color": {
-    "value": "#c6c9ec4d",
-    "type": "color"
+    "$value": "#c6c9ec4d",
+    "$type": "color"
   },
   "chart-down-line-color": {
-    "value": "#b9464eff",
-    "type": "color"
+    "$value": "#b9464eff",
+    "$type": "color"
   },
   "chart-info-bg-color": {
-    "value": "#0f1023cc",
-    "type": "color"
+    "$value": "#0f1023cc",
+    "$type": "color"
   },
   "order_group-number-bg": {
-    "value": "#0f102380",
-    "type": "color"
+    "$value": "#0f102380",
+    "$type": "color"
   },
   "drag-and-drop-area-bg-color": {
-    "value": "#c5c9eb0f",
-    "type": "color"
+    "$value": "#c5c9eb0f",
+    "$type": "color"
   },
   "drawing-settings-dropbox-line-color": {
-    "value": "#c6c9eccc",
-    "type": "color",
-    "description": "???"
+    "$value": "#c6c9eccc",
+    "$type": "color",
+    "$description": "???"
   },
   "notification-corner-neutral-bg-color": {
-    "value": "#444873ff",
-    "type": "color"
+    "$value": "#424670ff",
+    "$type": "color"
   },
   "option-chain-in-the-money-table-area-bg-color-1": {
-    "value": "#c5c9eb0f",
-    "type": "color"
+    "$value": "#c5c9eb0f",
+    "$type": "color"
   },
   "order-entry-header-top-shadow-color": {
-    "value": "#0f10231f",
-    "type": "color"
+    "$value": "#0f10231f",
+    "$type": "color"
   },
   "button-primary-hover": {
-    "value": "#2a81f4ff",
-    "type": "color"
+    "$value": "#2a81f4ff",
+    "$type": "color"
   },
   "button-primary-pressed": {
-    "value": "#0c6ff1ff",
-    "type": "color"
+    "$value": "#0c6ff1ff",
+    "$type": "color"
   },
   "button-secondary-hover": {
-    "value": "#6a6f9cff",
-    "type": "color"
+    "$value": "#696e9bff",
+    "$type": "color"
   },
   "button-secondary-pressed": {
-    "value": "#5f6495ff",
-    "type": "color"
+    "$value": "#5d6292ff",
+    "$type": "color"
   },
   "button-tertiary-hover": {
-    "value": "#535882ff",
-    "type": "color"
+    "$value": "#51567fff",
+    "$type": "color"
   },
   "button-tertiary-pressed": {
-    "value": "#444873ff",
-    "type": "color"
+    "$value": "#424670ff",
+    "$type": "color"
   },
   "modal-window-blocking-bg-color": {
-    "value": "#0f10234d",
-    "type": "color",
-    "description": "??"
+    "$value": "#0f10234d",
+    "$type": "color",
+    "$description": "??"
   },
   "table--filtered-bg-color": {
-    "value": "#c5c9eb0f",
-    "type": "color"
+    "$value": "#c5c9eb0f",
+    "$type": "color"
   },
   "filter-table-bg-color": {
-    "value": "#c5c9eb0f",
-    "type": "color"
+    "$value": "#c5c9eb0f",
+    "$type": "color"
   },
   "event-dividend-text": {
-    "value": "#00b624ff",
-    "type": "color"
+    "$value": "#00b624ff",
+    "$type": "color"
   },
   "watchlist-grid-progressbar-rounded-empty-bg-color": {
-    "value": "#0f102333",
-    "type": "color"
+    "$value": "#0f102333",
+    "$type": "color"
   },
   "widget-bg-overlay-dark": {
-    "value": "#0f10234d",
-    "type": "color"
+    "$value": "#0f10234d",
+    "$type": "color"
   },
   "widget-overlay-color": {
-    "value": "#0f102380",
-    "type": "color"
+    "$value": "#0f102380",
+    "$type": "color"
   },
   "chart-volume-top-color": {
-    "value": "#7177a8ff",
-    "type": "color"
+    "$value": "#6d73a5ff",
+    "$type": "color"
   },
   "dashboard-widget-item-shadow-color": {
-    "value": "#00000040",
-    "type": "color"
+    "$value": "#00000040",
+    "$type": "color"
   },
   "drop-area-inner-shadow-color": {
-    "value": "#00000080",
-    "type": "color"
+    "$value": "#00000080",
+    "$type": "color"
   },
   "dropdown-list-item-dragged-shadow-color": {
-    "value": "#0000004d",
-    "type": "color"
+    "$value": "#0000004d",
+    "$type": "color"
   },
   "account-info-hover-bg-color": {
-    "value": "#c6c9ec1f",
-    "type": "color"
+    "$value": "#c6c9ec1f",
+    "$type": "color"
   },
   "account-switcher-bg-color": {
-    "value": "#272a47ff",
-    "type": "color"
+    "$value": "#252945ff",
+    "$type": "color"
   },
   "admin-notification-acknowledgement-tag-accepted-multiparts": {
-    "value": "#a4a9c4ff",
-    "type": "color"
+    "$value": "#a2a6c2ff",
+    "$type": "color"
   },
   "admin_notification-acknowledgement_tag-not_accepted-bg": {
-    "value": "#a4a9c4ff",
-    "type": "color"
+    "$value": "#a2a6c2ff",
+    "$type": "color"
   },
   "admin_notification-acknowledgement_tag-not_accepted-text": {
-    "value": "#000000ff",
-    "type": "color"
+    "$value": "#000000ff",
+    "$type": "color"
   },
   "admin_notification-priority-high-multiparts": {
-    "value": "#ff8333ff",
-    "type": "color"
+    "$value": "#ff8333ff",
+    "$type": "color"
   },
   "admin_notification-priority-low-multiparts": {
-    "value": "#a4a9c4ff",
-    "type": "color"
+    "$value": "#a2a6c2ff",
+    "$type": "color"
   },
   "app-bg-grad-top-color": {
-    "value": "#0d0e17ff",
-    "type": "color"
+    "$value": "#0b0b13ff",
+    "$type": "color"
   },
   "app-header-divider-vertical-color": {
-    "value": "#c6c9ec1f",
-    "type": "color"
+    "$value": "#c6c9ec1f",
+    "$type": "color"
   },
   "app-bg-color": {
-    "value": "#0d0e17ff",
-    "type": "color"
+    "$value": "#0b0b13ff",
+    "$type": "color"
   },
   "app-header-button-dragged-bg-color": {
-    "value": "#262a3fff",
-    "type": "color"
+    "$value": "#262a3fff",
+    "$type": "color"
   },
   "button-hovered-overlay-color": {
-    "value": "#c6c9ec1f",
-    "type": "color"
+    "$value": "#c6c9ec1f",
+    "$type": "color"
   },
   "button-pressed-overlay-color": {
-    "value": "#0f10231f",
-    "type": "color"
+    "$value": "#0f10231f",
+    "$type": "color"
   },
   "button-primary-default-bg-color": {
-    "value": "#0c6ff1ff",
-    "type": "color"
+    "$value": "#0c6ff1ff",
+    "$type": "color"
   },
   "down-dashboard-bg-color": {
-    "value": "#b9464eff",
-    "type": "color"
+    "$value": "#b9464eff",
+    "$type": "color"
   },
   "up-dashboard-bg-color": {
-    "value": "#17825eff",
-    "type": "color"
+    "$value": "#17825eff",
+    "$type": "color"
   },
   "close-widget-button-border-color": {
-    "value": "#c6c9ecb2",
-    "type": "color"
+    "$value": "#c6c9ecb2",
+    "$type": "color"
   },
   "calendar-current-day-border": {
-    "value": "#5f6495ff",
-    "type": "color"
+    "$value": "#5d6292ff",
+    "$type": "color"
   },
   "calendar-month-border-line-color": {
-    "value": "#c6c9ec1f",
-    "type": "color"
+    "$value": "#c6c9ec1f",
+    "$type": "color"
   },
   "calendar-month-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
+    "$value": "#dde2f2ff",
+    "$type": "color"
   },
   "calendar-option_expiration_day-bg": {
-    "value": "#1e2038ff",
-    "type": "color"
+    "$value": "#1c1e35ff",
+    "$type": "color"
   },
   "calendar-weekend_name-text": {
-    "value": "#e1e5f3ff",
-    "type": "color"
+    "$value": "#dde2f2ff",
+    "$type": "color"
   },
   "chart-alert-editable-line-color": {
-    "value": "#ffa266ff",
-    "type": "color"
+    "$value": "#ffa266ff",
+    "$type": "color"
   },
   "chart-order-buy-icon-color": {
-    "value": "#28a37aff",
-    "type": "color"
+    "$value": "#28a37aff",
+    "$type": "color"
   },
   "chart-order-sell-icon-color": {
-    "value": "#b9464eff",
-    "type": "color"
+    "$value": "#b9464eff",
+    "$type": "color"
   },
   "chart-trading-buy-icon-color": {
-    "value": "#28a37aff",
-    "type": "color"
+    "$value": "#28a37aff",
+    "$type": "color"
   },
   "chart-trading-editable-line-color": {
-    "value": "#ffa266ff",
-    "type": "color",
-    "description": "???"
+    "$value": "#ffa266ff",
+    "$type": "color",
+    "$description": "???"
   },
   "chart-trading-sell-icon-color": {
-    "value": "#b9464eff",
-    "type": "color"
+    "$value": "#b9464eff",
+    "$type": "color"
   },
   "main_chart-non-trading-hours-bg": {
-    "value": "#c6c9ec1f",
-    "type": "color",
-    "description": "???"
+    "$value": "#c6c9ec1f",
+    "$type": "color",
+    "$description": "???"
   },
   "chart-divider-color": {
-    "value": "#c6c9ec1f",
-    "type": "color"
+    "$value": "#c6c9ec1f",
+    "$type": "color"
   },
   "chart-grid-color": {
-    "value": "#c6c9ec1f",
-    "type": "color"
+    "$value": "#c6c9ec1f",
+    "$type": "color"
   },
   "chart-high-low-indicator": {
-    "value": "#e1e5f3ff",
-    "type": "color"
+    "$value": "#dde2f2ff",
+    "$type": "color"
   },
   "chart-info-hover-bg-color": {
-    "value": "#c6c9ec1f",
-    "type": "color"
+    "$value": "#c6c9ec1f",
+    "$type": "color"
   },
   "chart-order-clear-notification-progress-bar-bg-color": {
-    "value": "#0c6ff1ff",
-    "type": "color"
+    "$value": "#0c6ff1ff",
+    "$type": "color"
   },
   "chart-order-highlight-column-hover-bg-color": {
-    "value": "#c6c9ec1f",
-    "type": "color"
+    "$value": "#c6c9ec1f",
+    "$type": "color"
   },
   "chart-scale-control-bg-color": {
-    "value": "#c6c9ec1f",
-    "type": "color"
+    "$value": "#c6c9ec1f",
+    "$type": "color"
   },
   "chart-timeline-full-period-bg-color-1": {
-    "value": "#c6c9ec1f",
-    "type": "color"
+    "$value": "#c6c9ec1f",
+    "$type": "color"
   },
   "chart-trading-current-price-line-color": {
-    "value": "#0955b8ff",
-    "type": "color"
+    "$value": "#0955b8ff",
+    "$type": "color"
   },
   "chart-trading-down-line-color": {
-    "value": "#b9464eff",
-    "type": "color"
+    "$value": "#b9464eff",
+    "$type": "color"
   },
   "chart-trading-draggable-area": {
-    "value": "#c6c9ec1f",
-    "type": "color"
+    "$value": "#c6c9ec1f",
+    "$type": "color"
   },
   "chart-trading-up-line-color": {
-    "value": "#28a37aff",
-    "type": "color"
+    "$value": "#28a37aff",
+    "$type": "color"
   },
   "chart-up-line-color": {
-    "value": "#28a37aff",
-    "type": "color"
+    "$value": "#28a37aff",
+    "$type": "color"
   },
   "chart-y-axis-last-price-container-negative": {
-    "value": "#b9464eff",
-    "type": "color"
+    "$value": "#b9464eff",
+    "$type": "color"
   },
   "chart-y-axis-last-price-container-positive": {
-    "value": "#17825eff",
-    "type": "color"
+    "$value": "#17825eff",
+    "$type": "color"
   },
   "main_chart-extended_hours-bg": {
-    "value": "#c5c9eb0f",
-    "type": "color"
+    "$value": "#c5c9eb0f",
+    "$type": "color"
   },
   "common-negative-bg-color": {
-    "value": "#b9464eff",
-    "type": "color"
+    "$value": "#b9464eff",
+    "$type": "color"
   },
   "common-neutral-bg-color": {
-    "value": "#262a3fff",
-    "type": "color",
-    "description": "????"
+    "$value": "#262a3fff",
+    "$type": "color",
+    "$description": "????"
   },
   "common-positive-bg-color": {
-    "value": "#17825eff",
-    "type": "color"
+    "$value": "#17825eff",
+    "$type": "color"
   },
   "error-description-multiparts": {
-    "value": "#ff6464ff",
-    "type": "color"
+    "$value": "#ff6464ff",
+    "$type": "color"
   },
   "form-control-focused-border-outside-color": {
-    "value": "#6680ffff",
-    "type": "color"
+    "$value": "#6680ffff",
+    "$type": "color"
   },
   "line-color": {
-    "value": "#c6c9ec1f",
-    "type": "color"
+    "$value": "#c6c9ec1f",
+    "$type": "color"
   },
   "line-color-2": {
-    "value": "#c6c9ec1f",
-    "type": "color"
+    "$value": "#c6c9ec1f",
+    "$type": "color"
   },
   "line-color-4": {
-    "value": "#c6c9ec1f",
-    "type": "color"
+    "$value": "#c6c9ec1f",
+    "$type": "color"
   },
   "line-dotted-color": {
-    "value": "#fdfdfeff",
-    "type": "color"
+    "$value": "#f8f8fbff",
+    "$type": "color"
   },
   "link-default-multiparts": {
-    "value": "#66a8ffff",
-    "type": "color"
+    "$value": "#66a8ffff",
+    "$type": "color"
   },
   "link-disabled-multiparts": {
-    "value": "#7a7e8eff",
-    "type": "color"
+    "$value": "#7a7e8eff",
+    "$type": "color"
   },
   "link-hovered-multiparts": {
-    "value": "#ffa266ff",
-    "type": "color"
+    "$value": "#ffa266ff",
+    "$type": "color"
   },
   "link-pressed-multiparts": {
-    "value": "#ff924cff",
-    "type": "color"
+    "$value": "#ff924cff",
+    "$type": "color"
   },
   "metrics-negative-bg-color": {
-    "value": "#ff64641f",
-    "type": "color"
+    "$value": "#ff64641f",
+    "$type": "color"
   },
   "metrics-positive-bg-color": {
-    "value": "#46b9931f",
-    "type": "color"
+    "$value": "#46b9931f",
+    "$type": "color"
   },
   "resize-line-color": {
-    "value": "#66a8ffff",
-    "type": "color"
+    "$value": "#66a8ffff",
+    "$type": "color"
   },
   "status-nonfinal-multiparts": {
-    "value": "#ff8333ff",
-    "type": "color",
-    "description": "text, icons"
+    "$value": "#ff8333ff",
+    "$type": "color",
+    "$description": "text, icons"
   },
   "status-temporary-multiparts": {
-    "value": "#f4b73dff",
-    "type": "color",
-    "description": "text, icons"
+    "$value": "#f4b73dff",
+    "$type": "color",
+    "$description": "text, icons"
   },
   "warning-description-multiparts": {
-    "value": "#ff8333ff",
-    "type": "color"
+    "$value": "#ff8333ff",
+    "$type": "color"
   },
   "buy-index-bg-color": {
-    "value": "#46b9931f",
-    "type": "color"
+    "$value": "#46b9931f",
+    "$type": "color"
   },
   "sell-index-bg-color": {
-    "value": "#ff64641f",
-    "type": "color"
+    "$value": "#ff64641f",
+    "$type": "color"
   },
   "dashboard-highlighted-line": {
-    "value": "#444873ff",
-    "type": "color"
+    "$value": "#424670ff",
+    "$type": "color"
   },
   "dashboard-spread-bg-color": {
-    "value": "#272a47ff",
-    "type": "color"
+    "$value": "#252945ff",
+    "$type": "color"
   },
   "depth-of-market-bid-ask-additional-hover-bg-color": {
-    "value": "#2f3256ff",
-    "type": "color"
+    "$value": "#2d3052ff",
+    "$type": "color"
   },
   "depth-of-market-collapse-box-border-color": {
-    "value": "#383d65ff",
-    "type": "color"
-  },
-  "depth-of-market-market-order-row-divider-color": {
-    "value": "#c6c9ec1f",
-    "type": "color"
-  },
-  "depth-of-market-open-pl-negative-bg-color": {
-    "value": "#ff64641f",
-    "type": "color"
-  },
-  "depth-of-market-open-pl-positive-bg-color": {
-    "value": "#46b9931f",
-    "type": "color"
-  },
-  "depth-of-market-volume-bg-color-1": {
-    "value": "#1e2038ff",
-    "type": "color"
-  },
-  "trade-builder-step-warning-color": {
-    "value": "#954612ff",
-    "type": "color"
-  },
-  "trade-warning-message-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "draggable-item-disabled-bg-color": {
-    "value": "#262a3fff",
-    "type": "color"
-  },
-  "drag-and-drop-area-border-color": {
-    "value": "#c6c9ec1f",
-    "type": "color"
-  },
-  "drop-area-border-color": {
-    "value": "#c6c9ec66",
-    "type": "color"
-  },
-  "drop-area-border-deny-color": {
-    "value": "#ff6464ff",
-    "type": "color"
-  },
-  "drop-area-highlight-color": {
-    "value": "#0f10231f",
-    "type": "color"
-  },
-  "drop-area-highlight-deny-color": {
-    "value": "#ff64641f",
-    "type": "color"
-  },
-  "app-header-dropdown-active-bg-color": {
-    "value": "#5f6495ff",
-    "type": "color"
-  },
-  "dropdown-list-item-dragged-bg-color": {
-    "value": "#0c6ff1ff",
-    "type": "color"
-  },
-  "app-header-dropdown-default-border-color": {
-    "value": "#5f6495ff",
-    "type": "color"
-  },
-  "add-dashboard-border-color": {
-    "value": "#c6c9ecb2",
-    "type": "color"
-  },
-  "modal-window-expanded-area-bg-color": {
-    "value": "#0f10231f",
-    "type": "color",
-    "description": "???"
-  },
-  "modal-window-warning-border-color": {
-    "value": "#ff6464ff",
-    "type": "color"
-  },
-  "scrollbar-bg-default-color": {
-    "value": "#c6c9ec1f",
-    "type": "color"
-  },
-  "scrollbar-bg-selected-color": {
-    "value": "#c6c9ec4d",
-    "type": "color"
-  },
-  "slider-bg-color": {
-    "value": "#5f6495ff",
-    "type": "color"
-  },
-  "slider-disabled-bg-color": {
-    "value": "#7a7e8eff",
-    "type": "color"
-  },
-  "slider-disabled-handle-color": {
-    "value": "#7a7e8eff",
-    "type": "color"
-  },
-  "slider-handle-color": {
-    "value": "#fdfdfeff",
-    "type": "color"
-  },
-  "widget-dark-bg-color": {
-    "value": "#1e2038ff",
-    "type": "color"
-  },
-  "wrong-tooltip-bg-color": {
-    "value": "#94373eff",
-    "type": "color"
-  },
-  "heatmap-group-default-bg": {
-    "value": "#2f3256ff",
-    "type": "color"
-  },
-  "heatmap-group-default-text": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "heatmap-group-hovered-bg": {
-    "value": "#383d65ff",
-    "type": "color"
-  },
-  "heatmap-group-hovered-text": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "heatmap-tile-hovered-overlay": {
-    "value": "#c6c9ec1f",
-    "type": "color"
-  },
-  "heatmap-tile-neutral-bg": {
-    "value": "#262a3fff",
-    "type": "color"
-  },
-  "heatmap-tile-pressed-overlay": {
-    "value": "#0f10231f",
-    "type": "color"
-  },
-  "icon-primary-default-bg": {
-    "value": "#c6c9ecb2",
-    "type": "color"
-  },
-  "Overlay": {
-    "value": "#c6c9ec1f",
-    "type": "color"
-  },
-  "add-delete-icon-color": {
-    "value": "#fdfdfeff",
-    "type": "color"
-  },
-  "chart-trading-sell-icon": {
-    "value": "#ff7f7fff",
-    "type": "color"
-  },
-  "checkbox-alt-tick": {
-    "value": "#fdfdfeff",
-    "type": "color"
-  },
-  "checkbox-tick-color": {
-    "value": "#fdfdfeff",
-    "type": "color"
-  },
-  "corner-warning-icon-color": {
-    "value": "#ff7f7fff",
-    "type": "color"
-  },
-  "delete-icon-hover-color": {
-    "value": "#ff7f7fff",
-    "type": "color"
-  },
-  "icon-additional-default-color": {
-    "value": "#c6c9ecb2",
-    "type": "color"
-  },
-  "icon-contextual-primary-default-color": {
-    "value": "#c6c9ecb2",
-    "type": "color"
-  },
-  "icon-contextual-secondary-default-color": {
-    "value": "#c6c9ecb2",
-    "type": "color"
-  },
-  "icon-drop-area-denied-color": {
-    "value": "#94373eff",
-    "type": "color"
-  },
-  "icon-hovered-color": {
-    "value": "#ffa266ff",
-    "type": "color"
-  },
-  "icon-link-default-color": {
-    "value": "#66a8ffff",
-    "type": "color"
-  },
-  "icon-link-pressed-color": {
-    "value": "#ff924cff",
-    "type": "color"
-  },
-  "icon-pressed-color": {
-    "value": "#ff924cff",
-    "type": "color"
-  },
-  "icon-primary-default-color": {
-    "value": "#fdfdfeff",
-    "type": "color"
-  },
-  "icon-secondary-default-color": {
-    "value": "#c6c9ecb2",
-    "type": "color"
-  },
-  "icon-secondary-hovered-color": {
-    "value": "#ffa266ff",
-    "type": "color"
-  },
-  "icon-selected-color": {
-    "value": "#ff924cff",
-    "type": "color"
-  },
-  "label-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "modal-header-icon-primary-default-color": {
-    "value": "#c6c9ecb2",
-    "type": "color"
-  },
-  "order-entry-add-alert-icon-color": {
-    "value": "#c6c9ecb2",
-    "type": "color"
-  },
-  "order-entry-show-hide-icon-color": {
-    "value": "#c6c9ecb2",
-    "type": "color"
-  },
-  "planned-marker-text": {
-    "value": "#000000ff",
-    "type": "color"
-  },
-  "table-header-icon": {
-    "value": "#c6c9ec80",
-    "type": "color"
-  },
-  "table-icon-default-color": {
-    "value": "#c6c9ec80",
-    "type": "color"
-  },
-  "table-icon-dimmed-color": {
-    "value": "#c6c9ec66",
-    "type": "color"
-  },
-  "tick-icon-color": {
-    "value": "#ff924cff",
-    "type": "color"
-  },
-  "input-alt-default-bg": {
-    "value": "#0f102366",
-    "type": "color"
-  },
-  "input-autofilled-bg-color": {
-    "value": "#0f102366",
-    "type": "color"
-  },
-  "input-default-bg-color": {
-    "value": "#0f102366",
-    "type": "color"
-  },
-  "selected-input-bg-color": {
-    "value": "#0f10234d",
-    "type": "color"
-  },
-  "input-alt-default-border-outside": {
-    "value": "#c6c9ec33",
-    "type": "color"
-  },
-  "input-alt-hovered-border-outside": {
-    "value": "#c6c9ec66",
-    "type": "color"
-  },
-  "input-autofilled-border": {
-    "value": "#c6c9ec33",
-    "type": "color"
-  },
-  "input-default-border-outside-color": {
-    "value": "#c6c9ec33",
-    "type": "color"
-  },
-  "input-hovered-border-outside-color": {
-    "value": "#c6c9ec66",
-    "type": "color"
-  },
-  "input-wrong-border-outside-color": {
-    "value": "#ff6464ff",
-    "type": "color"
-  },
-  "list-item-disabled-bg": {
-    "value": "#262a3fff",
-    "type": "color"
-  },
-  "list-parent_item-selected-bg": {
-    "value": "#0f10231f",
-    "type": "color"
-  },
-  "loader-bg-color": {
-    "value": "#6a6f9cff",
-    "type": "color"
-  },
-  "corner-message-highlight-color": {
-    "value": "#c6c9ec1f",
-    "type": "color"
-  },
-  "counter-bg": {
-    "value": "#17825eff",
-    "type": "color"
-  },
-  "counter-text": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "notification-corner-critical-vertical-line-color": {
-    "value": "#ff7f7fff",
-    "type": "color"
-  },
-  "notification-corner-order-bg-color": {
-    "value": "#444873ff",
-    "type": "color"
-  },
-  "notification-corner-order-vertical-line-color": {
-    "value": "#5f6495ff",
-    "type": "color"
-  },
-  "notification-corner-vertical-line-color": {
-    "value": "#5f6495ff",
-    "type": "color"
-  },
-  "notification-warning-blink-bg-color": {
-    "value": "#5f6495ff",
-    "type": "color"
-  },
-  "order-entry-clear-notification-progress-bar-bg-color": {
-    "value": "#66a8ffff",
-    "type": "color"
-  },
-  "toast-notification-default-border-color": {
-    "value": "#444873ff",
-    "type": "color"
-  },
-  "toast-notification-hover-bg-color": {
-    "value": "#535882ff",
-    "type": "color"
-  },
-  "toast-notification-hovered-border-color": {
-    "value": "#535882ff",
-    "type": "color"
-  },
-  "option-chain-strategies-support-bg-color": {
-    "value": "#1e2038ff",
-    "type": "color"
-  },
-  "NM-handle-bg-color": {
-    "value": "#c6c9ecb2",
-    "type": "color"
-  },
-  "NM-handle-outside-border-color": {
-    "value": "#c6c9ecb2",
-    "type": "color"
-  },
-  "order-entry-alert-bubble-bg-color": {
-    "value": "#444873ff",
-    "type": "color"
-  },
-  "order-entry-bottom-panel-bg-color": {
-    "value": "#2f3256ff",
-    "type": "color"
-  },
-  "order-entry-switcher-focused-outside-border-color": {
-    "value": "#6680ffff",
-    "type": "color"
-  },
-  "order-entry-switcher-off-bg-color-1": {
-    "value": "#7177a8ff",
-    "type": "color"
-  },
-  "order-entry-switcher-off-hover-bg-color": {
-    "value": "#8a8fb6ff",
-    "type": "color"
-  },
-  "order-entry-switcher-off-hover-bg-color-1": {
-    "value": "#8a8fb6ff",
-    "type": "color"
-  },
-  "order-entry-switcher-on-bg-color": {
-    "value": "#2a81f4ff",
-    "type": "color"
-  },
-  "order-entry-switcher-on-hover-bg-color": {
-    "value": "#4293ffff",
-    "type": "color"
-  },
-  "order-entry-table-bg-color": {
-    "value": "#1e2038ff",
-    "type": "color"
-  },
-  "order-entry-table-cell-disabled": {
-    "value": "#262a3fff",
-    "type": "color"
-  },
-  "order-entry-table-cell-selected-bg-color": {
-    "value": "#2f3256ff",
-    "type": "color"
-  },
-  "order-entry-table-cell-selected-outside-border-color": {
-    "value": "#6680ffff",
-    "type": "color"
-  },
-  "order-entry-triggered-alert-bubble-bg-color": {
-    "value": "#17825eff",
-    "type": "color"
-  },
-  "order_entry-footer-live-bg": {
-    "value": "#2f3256ff",
-    "type": "color"
-  },
-  "order_entry-footer-live_mode-bg": {
-    "value": "#2f3256ff",
-    "type": "color"
-  },
-  "order_entry-header-live-bg": {
-    "value": "#2f3256ff",
-    "type": "color"
-  },
-  "order_entry-header-live_mode-bg": {
-    "value": "#2f3256ff",
-    "type": "color"
-  },
-  "app-header-button-pressed-bg-color": {
-    "value": "#0f10231f",
-    "type": "color"
-  },
-  "app-header-dropdown-active-border-color": {
-    "value": "#5f6495ff",
-    "type": "color"
-  },
-  "application-header-add-widgets-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "application-header-dragging-hint-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "application-header-item-hover-color": {
-    "value": "#c6c9ec1f",
-    "type": "color"
-  },
-  "base-isolation-tool-warning-border-color": {
-    "value": "#ff8333ff",
-    "type": "color"
-  },
-  "base-isolation-tool-warning-color": {
-    "value": "#ff8333ff",
-    "type": "color"
-  },
-  "button-hover-bg-color": {
-    "value": "#5f6495ff",
-    "type": "color"
-  },
-  "button-outside-focused-border-color": {
-    "value": "#6680ffff",
-    "type": "color"
-  },
-  "button-primary-default": {
-    "value": "#0c6ff1ff",
-    "type": "color"
-  },
-  "buy-order-disabled-cell-bg": {
-    "value": "#262a3fff",
-    "type": "color"
-  },
-  "calendar-prev-next-month-text-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "calendar-year-text-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "checkbox-alt-default-text": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "checkbox-border-default": {
-    "value": "#c6c9ec33",
-    "type": "color"
-  },
-  "checkbox-border-hover": {
-    "value": "#c6c9ec66",
-    "type": "color"
-  },
-  "checkbox-border-pressed": {
-    "value": "#c6c9ec33",
-    "type": "color"
-  },
-  "checkbox-default-text": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "color-picker-item-frame": {
-    "value": "#fdfdfeff",
-    "type": "color"
-  },
-  "control-panel-label-default-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "dbl-click-trading-bg-color": {
-    "value": "#ff7f7fff",
-    "type": "color"
-  },
-  "disabled-bg-color": {
-    "value": "#262a3fff",
-    "type": "color"
-  },
-  "drawing-text-tool-light-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "drop-area-background-deny-color": {
-    "value": "#ff64641f",
-    "type": "color",
-    "description": "???"
-  },
-  "drop-area-chart-maximized-border-color": {
-    "value": "#ff6464ff",
-    "type": "color"
-  },
-  "drop-area-chart-maximized-highlight-color": {
-    "value": "#c6c9ec1f",
-    "type": "color",
-    "description": "???"
-  },
-  "dropdown-description-text": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "dropdown-list-bg-pressed-color": {
-    "value": "#0f10231f",
-    "type": "color"
-  },
-  "email-verification-container-bg-color": {
-    "value": "#272a47ff",
-    "type": "color"
-  },
-  "email-verification-container-border-color": {
-    "value": "#272a47ff",
-    "type": "color"
-  },
-  "focus-border-color": {
-    "value": "#6680ffff",
-    "type": "color"
-  },
-  "form-hint-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "form-label-alt-text": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "group-bg-color": {
-    "value": "#2f3256ff",
-    "type": "color"
-  },
-  "highlight-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "icon-active-bg": {
-    "value": "#ff924cff",
-    "type": "color"
-  },
-  "icon-numeric-stepper-bg-color": {
-    "value": "#c6c9ecb2",
-    "type": "color",
-    "description": "???"
-  },
-  "icon-secondary-default-bg": {
-    "value": "#c6c9ecb2",
-    "type": "color"
-  },
-  "input-autofilled-border-color": {
-    "value": "#c6c9ec33",
-    "type": "color"
-  },
-  "input-default-bg": {
-    "value": "#0f102366",
-    "type": "color"
-  },
-  "input-default-border": {
-    "value": "#c6c9ec33",
-    "type": "color"
-  },
-  "input-default-text": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "input-focused-border": {
-    "value": "#6680ffff",
-    "type": "color"
-  },
-  "input-hovered-bg-color": {
-    "value": "#0f10234d",
-    "type": "color"
-  },
-  "input-hovered-border": {
-    "value": "#c6c9ec66",
-    "type": "color"
-  },
-  "layout-line-color": {
-    "value": "#c6c9ec1f",
-    "type": "color"
-  },
-  "line-color-3": {
-    "value": "#c6c9ec1f",
-    "type": "color"
-  },
-  "line-color-5": {
-    "value": "#c6c9ec1f",
-    "type": "color"
-  },
-  "link-default-text": {
-    "value": "#66a8ffff",
-    "type": "color"
-  },
-  "link-hovered-text": {
-    "value": "#ffa266ff",
-    "type": "color"
-  },
-  "locate_monitor-header-bg": {
-    "value": "#1e2038ff",
-    "type": "color"
-  },
-  "modal-window-header-bg-color": {
-    "value": "#383d65ff",
-    "type": "color"
-  },
-  "modal-window-warning-bg-color": {
-    "value": "#94373eff",
-    "type": "color"
-  },
-  "na-selected-text-color": {
-    "value": "#ff924cff",
-    "type": "color",
-    "description": "?"
-  },
-  "na-text-color": {
-    "value": "#c6c9ec80",
-    "type": "color"
-  },
-  "nm-axis-hover-line-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "nm-axis-line-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "nm-handle-hover-outside-border-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "option-chain-non-standard-option-group-bg-color": {
-    "value": "#2f3256ff",
-    "type": "color"
-  },
-  "primary-tab-hover-bg-color": {
-    "value": "#383d65ff",
-    "type": "color"
-  },
-  "radiobutton-default-dot": {
-    "value": "#fdfdfeff",
-    "type": "color"
-  },
-  "repeated-text-color": {
-    "value": "#c6c9ec80",
-    "type": "color",
-    "description": "???"
-  },
-  "secondary-link-button-text-color": {
-    "value": "#66a8ffff",
-    "type": "color"
-  },
-  "selected-input-border-color": {
-    "value": "#6680ffff",
-    "type": "color"
-  },
-  "sell-order-disabled-cell-bg": {
-    "value": "#262a3fff",
-    "type": "color"
-  },
-  "simulated-column-bg-color": {
-    "value": "#1e2038ff",
-    "type": "color"
-  },
-  "status-new-text-color": {
-    "value": "#66a8ffff",
-    "type": "color"
-  },
-  "sub-additional-text-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "switcher-disabled-bg-color": {
-    "value": "#262a3fff",
-    "type": "color"
-  },
-  "tab-close-icon-color": {
-    "value": "#c6c9ecb2",
-    "type": "color"
-  },
-  "tab-hover-color": {
-    "value": "#c6c9ec1f",
-    "type": "color"
-  },
-  "table-column-sim-text-header-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "table-row-highlighted-bg": {
-    "value": "#272a47ff",
-    "type": "color"
-  },
-  "text-tool-default-black-color": {
-    "value": "#000000ff",
-    "type": "color"
-  },
-  "text-tool-default-primary-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "text-tool-default-secondary-color": {
-    "value": "#000000ff",
-    "type": "color"
-  },
-  "tick-icon-hover-alt": {
-    "value": "#fdfdfeff",
-    "type": "color"
-  },
-  "trade-builder-step-hint-tooltip-border-color": {
-    "value": "#444873ff",
-    "type": "color"
-  },
-  "wrong-bg-color": {
-    "value": "#94373eff",
-    "type": "color"
-  },
-  "segmented_control-alt-selected-bg": {
-    "value": "#0955b8ff",
-    "type": "color"
-  },
-  "segmented_control-selected-bg": {
-    "value": "#0955b8ff",
-    "type": "color"
-  },
-  "active-switcher-bg-color": {
-    "value": "#2a81f4ff",
-    "type": "color"
-  },
-  "buy-switcher-bg-color": {
-    "value": "#17825eff",
-    "type": "color"
-  },
-  "common-switcher-off-default-bg-color": {
-    "value": "#7177a8ff",
-    "type": "color"
-  },
-  "common-switcher-off-hovered-bg-color": {
-    "value": "#8a8fb6ff",
-    "type": "color"
-  },
-  "common-switcher-on-default-bg-color": {
-    "value": "#2a81f4ff",
-    "type": "color"
-  },
-  "common-switcher-on-hovered-bg-color": {
-    "value": "#4293ffff",
-    "type": "color"
-  },
-  "control-panel-switcher-default-bg-color": {
-    "value": "#2a81f4ff",
-    "type": "color"
-  },
-  "control-panel-switcher-hover-bg-color": {
-    "value": "#4293ffff",
-    "type": "color"
-  },
-  "order-entry-switcher-off-default-bg-color": {
-    "value": "#7177a8ff",
-    "type": "color"
-  },
-  "order-entry-switcher-off-hovered-bg-color": {
-    "value": "#8a8fb6ff",
-    "type": "color"
-  },
-  "order-entry-switcher-on-default-bg-color": {
-    "value": "#2a81f4ff",
-    "type": "color"
-  },
-  "order-entry-switcher-on-hovered-bg-color": {
-    "value": "#4293ffff",
-    "type": "color"
-  },
-  "buy-order-cell-bg": {
-    "value": "#46b9931f",
-    "type": "color"
-  },
-  "divider-line-column": {
-    "value": "#ffa266ff",
-    "type": "color"
-  },
-  "row-bg-selected": {
-    "value": "#2f3256ff",
-    "type": "color"
-  },
-  "sell-order-cell-bg": {
-    "value": "#ff64641f",
-    "type": "color"
-  },
-  "table-bg-color": {
-    "value": "#1e2038ff",
-    "type": "color"
-  },
-  "table-cell-error-bg": {
-    "value": "#ff64641f",
-    "type": "color"
-  },
-  "table-cell-hover-bg-color": {
-    "value": "#272a47ff",
-    "type": "color"
-  },
-  "table-group-bg-color": {
-    "value": "#272a47ff",
-    "type": "color"
-  },
-  "table-group-bg-hover-color": {
-    "value": "#2f3256ff",
-    "type": "color"
-  },
-  "table-group-bg-selected-color": {
-    "value": "#383d65ff",
-    "type": "color"
-  },
-  "table-row-bg-hover-color": {
-    "value": "#272a47ff",
-    "type": "color"
-  },
-  "table-row-selected-bg-color": {
-    "value": "#2f3256ff",
-    "type": "color"
-  },
-  "table-totals-bg-color": {
-    "value": "#2f3256ff",
-    "type": "color"
-  },
-  "time_format-label-border": {
-    "value": "#5f6495ff",
-    "type": "color"
-  },
-  "time_format-label-text": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "watchlist-futures-warning-table-line-bg-color": {
-    "value": "#3a3e54ff",
-    "type": "color"
-  },
-  "watchlist-futures-warning-table-row-bg-color": {
-    "value": "#262a3fff",
-    "type": "color"
-  },
-  "primary-tab-selected-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "symbol-suggest-tab-hover-bg-color": {
-    "value": "#c6c9ec1f",
-    "type": "color"
-  },
-  "tab-hover-bg-color": {
-    "value": "#535882ff",
-    "type": "color"
-  },
-  "tab-selected-line-color": {
-    "value": "#66a8ffff",
-    "type": "color"
-  },
-  "widget_header-tab-selected-bg": {
-    "value": "#444873ff",
-    "type": "color"
-  },
-  "workspace-tabs-bg-color": {
-    "value": "#1e2038ff",
-    "type": "color"
-  },
-  "workspace-tabs-demo_mode-bg": {
-    "value": "#1e2038ff",
-    "type": "color"
-  },
-  "workspace-tabs-live_mode-bg": {
-    "value": "#1e2038ff",
-    "type": "color"
-  },
-  "tag-selected-border-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "account-info-data-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color",
-    "description": "I don't think we need it"
-  },
-  "account-info-label-text-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "account-label-text-color": {
-    "value": "#000000ff",
-    "type": "color"
-  },
-  "additional-text-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "additional-text-color-2": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "app-header-button-default-text-color": {
-    "value": "#ffffffff",
-    "type": "color"
-  },
-  "application-header-section-text-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "at-text-color-1": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "at-text-color-2": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "buy-text-color": {
-    "value": "#58c09dff",
-    "type": "color"
-  },
-  "chart-area-overlay-label-text-color": {
-    "value": "#c6c9ec80",
-    "type": "color"
-  },
-  "chart-axis-value-text-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "chart-cross-data-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "chart-cross-label-text-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "chart-current-price-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "chart-high-low-label-text": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "chart-placeholder-text-color": {
-    "value": "#c6c9ec80",
-    "type": "color"
-  },
-  "checkbox-alt-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "checkbox-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "common-secondary-text-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "common-text-default": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "common-text-selected": {
-    "value": "#ff924cff",
-    "type": "color"
-  },
-  "context-menu-list-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "corner-notification-description-text-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "crosshair-box-value-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "dashboard-side-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "description-text-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "down-text-color": {
-    "value": "#ff7f7fff",
-    "type": "color"
-  },
-  "dropdown-default-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "dropdown-header-text-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "dropdown-list-description-text-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "dropdown-list-header-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color",
-    "description": "Or secondary text?"
-  },
-  "dropdown-list-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "empty-widget-hint-text-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "error-description-text-color": {
-    "value": "#ff6464ff",
-    "type": "color"
-  },
-  "error-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "form-label-text-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "form-subtitle-text-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "form-title-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "hint-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "hint-tooltip-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "input-alt-placeholder-text": {
-    "value": "#c6c9ec80",
-    "type": "color"
-  },
-  "input-placeholder-text-color": {
-    "value": "#c6c9ec80",
-    "type": "color"
-  },
-  "input-text-selection-bg-color": {
-    "value": "#2a81f4ff",
-    "type": "color"
-  },
-  "link-default-text-color": {
-    "value": "#66a8ffff",
-    "type": "color"
-  },
-  "link-hovered-text-color": {
-    "value": "#ffa266ff",
-    "type": "color"
-  },
-  "link-pressed-text-color": {
-    "value": "#ff924cff",
-    "type": "color"
-  },
-  "loading-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "matched-color": {
-    "value": "#ff924cff",
-    "type": "color"
-  },
-  "message-sbj-dealer-text-color": {
-    "value": "#f4b73dff",
-    "type": "color"
-  },
-  "message-sbj-trading-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "message-sbj-warning-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "message-time-text-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "messages-reject-reason-text-color": {
-    "value": "#ffffffff",
-    "type": "color"
-  },
-  "modal-window-header-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "modal-window-tab-default-text-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "modal-window-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "multiline-text-tool-tex-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "negative-text-color": {
-    "value": "#ff7f7fff",
-    "type": "color"
-  },
-  "NM-label-text-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "NM-value-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "notification-additional-text-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "notification-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "option-param-additional-text-color": {
-    "value": "#58c09dff",
-    "type": "color"
-  },
-  "order-book-status-inactive-text-color": {
-    "value": "#f4b73dff",
-    "type": "color"
-  },
-  "order-book-status-working-text-color": {
-    "value": "#ff8333ff",
-    "type": "color"
-  },
-  "order-entry-buy-text-color": {
-    "value": "#58c09dff",
-    "type": "color"
-  },
-  "order-entry-header-target-text": {
-    "value": "#58c09dff",
-    "type": "color"
-  },
-  "order-entry-order-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "order-entry-sell-text-color": {
-    "value": "#ff7f7fff",
-    "type": "color"
-  },
-  "order-entry-show-hide-text-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "positive-text-color": {
-    "value": "#58c09dff",
-    "type": "color"
-  },
-  "primary-tab-hover-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "primary-tab-text-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "risk-profile-underlying-price-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color",
-    "description": "What is this"
-  },
-  "risk_profile-price_slice-box-text": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "selected-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "sell-text-color": {
-    "value": "#ff7f7fff",
-    "type": "color"
-  },
-  "status-pending-text-color": {
-    "value": "#f4b73dff",
-    "type": "color"
-  },
-  "status-working-text-color": {
-    "value": "#ff8333ff",
-    "type": "color"
-  },
-  "studies-parameters-text": {
-    "value": "#e1e5f3ff",
-    "type": "color",
-    "description": "What is this"
-  },
-  "suggest-tab-selected-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "suggest-tab-unactive-text-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "symbol-suggest-secondary-text-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "tab-hover-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "tab-selected-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "tab-text-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "table-column-text-header-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "table-error-text-color": {
-    "value": "#ff6464ff",
-    "type": "color"
-  },
-  "table-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "table-totals-title-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "toast-notification-text-color-1": {
-    "value": "#ff8333ff",
-    "type": "color"
-  },
-  "up-text-color": {
-    "value": "#58c09dff",
-    "type": "color"
-  },
-  "warning-description-text-color": {
-    "value": "#ff8333ff",
-    "type": "color"
-  },
-  "watchlist-grid-title-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "watchlist-list-type-active-header": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "watchlist-list-type-passive-header": {
-    "value": "#a4a9c4ff",
-    "type": "color",
-    "description": "What is this"
-  },
-  "widget-header-hint-label-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "widget-header-hint-value-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "widget-header-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "widget_tab-default-text": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "widget_tab-hovered-text": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "widget_tab-selected-text": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "dashboard-area-bg-color": {
-    "value": "#0f102366",
-    "type": "color"
-  },
-  "dashboard-header-bg-color": {
-    "value": "#2f3256ff",
-    "type": "color"
-  },
-  "watchlist-futures-warning-icon-color": {
-    "value": "#c6c9ec80",
-    "type": "color",
-    "description": "???"
-  },
-  "watchlist-futures-warning-line-color": {
-    "value": "#c6c9ec1f",
-    "type": "color",
-    "description": "???"
-  },
-  "watchlist-gtrap-table-cell-accented-text": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "watchlist-gtrap-table-cell-symbol-bg": {
-    "value": "#c6c9ec1f",
-    "type": "color"
-  },
-  "watchlist-gtrap-table-cell-text": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "watchlist-gtrap-table-header-bg": {
-    "value": "#2f3256ff",
-    "type": "color"
-  },
-  "watchlist-gtrap-table-header-parent-bg": {
-    "value": "#383d65ff",
-    "type": "color"
-  },
-  "watchlist-gtrap-table-header-text": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "watchlist-mini-chart-area-fill-color": {
-    "value": "#383d65ff",
-    "type": "color"
-  },
-  "watchlist-mini-chart-area-line-color": {
-    "value": "#5f6495ff",
-    "type": "color"
-  },
-  "filter-panel-bg-grad-color-2": {
-    "value": "#393046ff",
-    "type": "color"
-  },
-  "option-chain-in-the-money-table-area-bg-color-2": {
-    "value": "#ffffff00",
-    "type": "color"
-  },
-  "dropdown-list-shadow-color": {
-    "value": "#0f102333",
-    "type": "color"
-  },
-  "hint-tooltip-shadow": {
-    "value": "#00000066",
-    "type": "color"
-  },
-  "button-demo-default-bg-color": {
-    "value": "#faaf19ff",
-    "type": "color"
-  },
-  "switcher-demo-button-bg-color": {
-    "value": "#faaf19ff",
-    "type": "color"
-  },
-  "add-delete-icon-border-color": {
-    "value": "#0f102366",
-    "type": "color"
-  },
-  "buy-button-outside-border-color": {
-    "value": "#0f102366",
-    "type": "color"
-  },
-  "neutral-dashboard-button-outside-border-color": {
-    "value": "#0f102366",
-    "type": "color"
-  },
-  "sell-button-outside-border-color": {
-    "value": "#0f102366",
-    "type": "color"
-  },
-  "table_row-button-default-border-outside": {
-    "value": "#0f102366",
-    "type": "color"
-  },
-  "chart-time-stamp-line-color": {
-    "value": "#5f6495ff",
-    "type": "color"
-  },
-  "news-article-vertical-border": {
-    "value": "#5f6495ff",
-    "type": "color"
-  },
-  "order-entry-drag-divider-bg-color": {
-    "value": "#5f6495ff",
-    "type": "color"
-  },
-  "order-entry-horizontal-divider-color": {
-    "value": "#7177a8ff",
-    "type": "color"
-  },
-  "order-entry-switcher-bubble-color": {
-    "value": "#fdfdfeff",
-    "type": "color"
-  },
-  "order_entry-header-shadow-top": {
-    "value": "#5f6495ff",
-    "type": "color"
-  },
-  "active-switcher-outside-border-color": {
-    "value": "#0f102366",
-    "type": "color"
-  },
-  "button-tertiary-border-default": {
-    "value": "#0f102366",
-    "type": "color"
-  },
-  "common-switcher-knob-bg-color": {
-    "value": "#fdfdfeff",
-    "type": "color"
-  },
-  "order-entry-switcher-knob-bg-color": {
-    "value": "#fdfdfeff",
-    "type": "color"
-  },
-  "symbol-suggest-tab-unactive-bg-color": {
-    "value": "#2f3256ff",
-    "type": "color"
-  },
-  "admin_notification-priority-critical-multiparts": {
-    "value": "#ff7f7fff",
-    "type": "color"
-  },
-  "app-header-bg-color": {
-    "value": "#2f3256ff",
-    "type": "color"
-  },
-  "app-header-bg-live-mode-color": {
-    "value": "#2f3256ff",
-    "type": "color"
-  },
-  "app-header-demo_mode-bg": {
-    "value": "#2f3256ff",
-    "type": "color"
-  },
-  "app-header-live_mode-bg": {
-    "value": "#2f3256ff",
-    "type": "color"
-  },
-  "tab-background-color": {
-    "value": "#1e2038ff",
-    "type": "color"
-  },
-  "app-header-button-default-bg-color": {
-    "value": "#444873ff",
-    "type": "color"
-  },
-  "button-bg-color": {
-    "value": "#444873ff",
-    "type": "color"
-  },
-  "button-disabled-bg-color": {
-    "value": "#262a3fff",
-    "type": "color"
-  },
-  "buy-button-default-bg-color": {
-    "value": "#17825eff",
-    "type": "color"
-  },
-  "sell-button-default-bg-color": {
-    "value": "#b9464eff",
-    "type": "color"
-  },
-  "sell-switcher-bg-color": {
-    "value": "#b9464eff",
-    "type": "color"
-  },
-  "small-button-disabled-bg-color": {
-    "value": "#262a3fff",
-    "type": "color"
-  },
-  "widget-header-button-disabled-bg-color": {
-    "value": "#262a3fff",
-    "type": "color"
-  },
-  "button-disabled-border-outside-color": {
-    "value": "#3a3e54ff",
-    "type": "color"
-  },
-  "calendar-popup-bg-color": {
-    "value": "#383d65ff",
-    "type": "color"
-  },
-  "calendar-weekend_date-text": {
-    "value": "#7a7e8eff",
-    "type": "color"
-  },
-  "chart-alert-bg": {
-    "value": "#383d65ff",
-    "type": "color"
-  },
-  "chart-alert-box-bg": {
-    "value": "#383d65ff",
-    "type": "color"
-  },
-  "chart-alert-line-color": {
-    "value": "#383d65ff",
-    "type": "color"
-  },
-  "chart-order-bg-color-1": {
-    "value": "#383d65ff",
-    "type": "color"
-  },
-  "chart-order-single-border-color": {
-    "value": "#444873ff",
-    "type": "color"
-  },
-  "chart-order-single-price-line-color": {
-    "value": "#535882ff",
-    "type": "color"
-  },
-  "chart-trading-order-position-bg-color": {
-    "value": "#383d65ff",
-    "type": "color"
-  },
-  "chart-trading-price-box-bg": {
-    "value": "#383d65ff",
-    "type": "color"
-  },
-  "chart-bg-color": {
-    "value": "#1e2038ff",
-    "type": "color"
-  },
-  "chart-bg-grad-1": {
-    "value": "#1e2038ff",
-    "type": "color"
-  },
-  "chart-crosshair-value-bg-color": {
-    "value": "#383d65ff",
-    "type": "color"
-  },
-  "chart-drawing-management-panel-bg-color-1": {
-    "value": "#383d65ff",
-    "type": "color"
-  },
-  "chart-high-low-label-bg-color": {
-    "value": "#383d65ff",
-    "type": "color"
-  },
-  "chart-neutral-line-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "chart-session-name-text-color": {
-    "value": "#a4a9c4ff",
-    "type": "color"
-  },
-  "chart-trading-block-bg-color": {
-    "value": "#383d65ff",
-    "type": "color"
-  },
-  "chart-volume-main-color": {
-    "value": "#383d65ff",
-    "type": "color"
-  },
-  "chart-widget-toolbar-bg-color-1": {
-    "value": "#1e2038ff",
-    "type": "color"
-  },
-  "chart-current-price-bg-color": {
-    "value": "#383d65ff",
-    "type": "color"
-  },
-  "chart-point-default-line": {
-    "value": "#e1e5f3ff",
-    "type": "color"
-  },
-  "status-negative-multiparts": {
-    "value": "#ff7f7fff",
-    "type": "color",
-    "description": "text, icons"
-  },
-  "status-neutral-multiparts": {
-    "value": "#e1e5f3ff",
-    "type": "color",
-    "description": "text, icons"
-  },
-  "status-positive-multiparts": {
-    "value": "#58c09dff",
-    "type": "color",
-    "description": "text, icons"
-  },
-  "application-header-context-menu-bg-color": {
-    "value": "#383d65ff",
-    "type": "color"
-  },
-  "context-menu-bg-color": {
-    "value": "#383d65ff",
-    "type": "color"
-  },
-  "context-menu-border-color": {
-    "value": "#444873ff",
-    "type": "color"
-  },
-  "control-panel-drag-line-color": {
-    "value": "#535882ff",
-    "type": "color"
+    "$value": "#373b61ff",
+    "$type": "color"
   },
   "depth-of-market-market-order-row-bg-color": {
-    "value": "#1e2038ff",
-    "type": "color"
+    "$value": "#1c1e35ff",
+    "$type": "color"
+  },
+  "depth-of-market-market-order-row-divider-color": {
+    "$value": "#c6c9ec1f",
+    "$type": "color"
+  },
+  "depth-of-market-open-pl-negative-bg-color": {
+    "$value": "#ff64641f",
+    "$type": "color"
+  },
+  "depth-of-market-open-pl-positive-bg-color": {
+    "$value": "#46b9931f",
+    "$type": "color"
   },
   "depth-of-market-order-template-bg-color": {
-    "value": "#1e2038ff",
-    "type": "color"
+    "$value": "#1c1e35ff",
+    "$type": "color"
+  },
+  "depth-of-market-volume-bg-color-1": {
+    "$value": "#1c1e35ff",
+    "$type": "color"
+  },
+  "trade-builder-step-warning-color": {
+    "$value": "#954612ff",
+    "$type": "color"
+  },
+  "trade-warning-message-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "draggable-item-disabled-bg-color": {
+    "$value": "#262a3fff",
+    "$type": "color"
+  },
+  "drag-and-drop-area-border-color": {
+    "$value": "#c6c9ec1f",
+    "$type": "color"
+  },
+  "drop-area-border-color": {
+    "$value": "#c6c9ec66",
+    "$type": "color"
+  },
+  "drop-area-border-deny-color": {
+    "$value": "#ff6464ff",
+    "$type": "color"
+  },
+  "drop-area-highlight-color": {
+    "$value": "#0f10231f",
+    "$type": "color"
+  },
+  "drop-area-highlight-deny-color": {
+    "$value": "#ff64641f",
+    "$type": "color"
+  },
+  "app-header-dropdown-active-bg-color": {
+    "$value": "#5d6292ff",
+    "$type": "color"
+  },
+  "dropdown-list-item-dragged-bg-color": {
+    "$value": "#0c6ff1ff",
+    "$type": "color"
+  },
+  "app-header-dropdown-default-border-color": {
+    "$value": "#5d6292ff",
+    "$type": "color"
+  },
+  "add-dashboard-border-color": {
+    "$value": "#c6c9ecb2",
+    "$type": "color"
+  },
+  "modal-window-expanded-area-bg-color": {
+    "$value": "#0f10231f",
+    "$type": "color",
+    "$description": "???"
+  },
+  "modal-window-warning-border-color": {
+    "$value": "#ff6464ff",
+    "$type": "color"
+  },
+  "scrollbar-bg-default-color": {
+    "$value": "#c6c9ec1f",
+    "$type": "color"
+  },
+  "scrollbar-bg-selected-color": {
+    "$value": "#c6c9ec4d",
+    "$type": "color"
+  },
+  "slider-bg-color": {
+    "$value": "#5d6292ff",
+    "$type": "color"
+  },
+  "slider-disabled-bg-color": {
+    "$value": "#7a7e8eff",
+    "$type": "color"
+  },
+  "slider-disabled-handle-color": {
+    "$value": "#7a7e8eff",
+    "$type": "color"
+  },
+  "slider-handle-color": {
+    "$value": "#f8f8fbff",
+    "$type": "color"
+  },
+  "widget-dark-bg-color": {
+    "$value": "#1c1e35ff",
+    "$type": "color"
+  },
+  "wrong-tooltip-bg-color": {
+    "$value": "#94373eff",
+    "$type": "color"
+  },
+  "heatmap-group-default-bg": {
+    "$value": "#2d3052ff",
+    "$type": "color"
+  },
+  "heatmap-group-default-text": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "heatmap-group-hovered-bg": {
+    "$value": "#373b61ff",
+    "$type": "color"
+  },
+  "heatmap-group-hovered-text": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "heatmap-tile-hovered-overlay": {
+    "$value": "#c6c9ec1f",
+    "$type": "color"
+  },
+  "heatmap-tile-neutral-bg": {
+    "$value": "#262a3fff",
+    "$type": "color"
+  },
+  "heatmap-tile-pressed-overlay": {
+    "$value": "#0f10231f",
+    "$type": "color"
+  },
+  "icon-primary-default-bg": {
+    "$value": "#c6c9ecb2",
+    "$type": "color"
+  },
+  "Overlay": {
+    "$value": "#c6c9ec1f",
+    "$type": "color"
+  },
+  "add-delete-icon-color": {
+    "$value": "#f8f8fbff",
+    "$type": "color"
+  },
+  "chart-trading-sell-icon": {
+    "$value": "#ff7f7fff",
+    "$type": "color"
+  },
+  "checkbox-alt-tick": {
+    "$value": "#f8f8fbff",
+    "$type": "color"
+  },
+  "checkbox-tick-color": {
+    "$value": "#f8f8fbff",
+    "$type": "color"
+  },
+  "corner-warning-icon-color": {
+    "$value": "#ff7f7fff",
+    "$type": "color"
+  },
+  "delete-icon-hover-color": {
+    "$value": "#ff7f7fff",
+    "$type": "color"
+  },
+  "icon-additional-default-color": {
+    "$value": "#c6c9ecb2",
+    "$type": "color"
+  },
+  "icon-contextual-primary-default-color": {
+    "$value": "#c6c9ecb2",
+    "$type": "color"
+  },
+  "icon-contextual-secondary-default-color": {
+    "$value": "#c6c9ecb2",
+    "$type": "color"
+  },
+  "icon-drop-area-denied-color": {
+    "$value": "#94373eff",
+    "$type": "color"
+  },
+  "icon-hovered-color": {
+    "$value": "#ffa266ff",
+    "$type": "color"
+  },
+  "icon-link-default-color": {
+    "$value": "#66a8ffff",
+    "$type": "color"
+  },
+  "icon-link-pressed-color": {
+    "$value": "#ff924cff",
+    "$type": "color"
+  },
+  "icon-pressed-color": {
+    "$value": "#ff924cff",
+    "$type": "color"
+  },
+  "icon-primary-default-color": {
+    "$value": "#f8f8fbff",
+    "$type": "color"
+  },
+  "icon-secondary-default-color": {
+    "$value": "#c6c9ecb2",
+    "$type": "color"
+  },
+  "icon-secondary-hovered-color": {
+    "$value": "#ffa266ff",
+    "$type": "color"
+  },
+  "icon-selected-color": {
+    "$value": "#ff924cff",
+    "$type": "color"
+  },
+  "label-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "modal-header-icon-primary-default-color": {
+    "$value": "#c6c9ecb2",
+    "$type": "color"
+  },
+  "order-entry-add-alert-icon-color": {
+    "$value": "#c6c9ecb2",
+    "$type": "color"
+  },
+  "order-entry-show-hide-icon-color": {
+    "$value": "#c6c9ecb2",
+    "$type": "color"
+  },
+  "planned-marker-text": {
+    "$value": "#000000ff",
+    "$type": "color"
+  },
+  "table-header-icon": {
+    "$value": "#c6c9ec80",
+    "$type": "color"
+  },
+  "table-icon-default-color": {
+    "$value": "#c6c9ec80",
+    "$type": "color"
+  },
+  "table-icon-dimmed-color": {
+    "$value": "#c6c9ec66",
+    "$type": "color"
+  },
+  "tick-icon-color": {
+    "$value": "#ff924cff",
+    "$type": "color"
+  },
+  "input-alt-default-bg": {
+    "$value": "#0f102366",
+    "$type": "color"
+  },
+  "input-autofilled-bg-color": {
+    "$value": "#0f102366",
+    "$type": "color"
+  },
+  "input-default-bg-color": {
+    "$value": "#0f102366",
+    "$type": "color"
+  },
+  "selected-input-bg-color": {
+    "$value": "#0f10234d",
+    "$type": "color"
+  },
+  "input-alt-default-border-outside": {
+    "$value": "#c6c9ec33",
+    "$type": "color"
+  },
+  "input-alt-hovered-border-outside": {
+    "$value": "#c6c9ec66",
+    "$type": "color"
+  },
+  "input-autofilled-border": {
+    "$value": "#c6c9ec33",
+    "$type": "color"
+  },
+  "input-default-border-outside-color": {
+    "$value": "#c6c9ec33",
+    "$type": "color"
+  },
+  "input-hovered-border-outside-color": {
+    "$value": "#c6c9ec66",
+    "$type": "color"
+  },
+  "input-wrong-border-outside-color": {
+    "$value": "#ff6464ff",
+    "$type": "color"
+  },
+  "list-item-disabled-bg": {
+    "$value": "#262a3fff",
+    "$type": "color"
+  },
+  "list-parent_item-selected-bg": {
+    "$value": "#0f10231f",
+    "$type": "color"
+  },
+  "loader-bg-color": {
+    "$value": "#696e9bff",
+    "$type": "color"
+  },
+  "corner-message-highlight-color": {
+    "$value": "#c6c9ec1f",
+    "$type": "color"
+  },
+  "counter-bg": {
+    "$value": "#17825eff",
+    "$type": "color"
+  },
+  "counter-text": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "notification-corner-critical-vertical-line-color": {
+    "$value": "#ff7f7fff",
+    "$type": "color"
+  },
+  "notification-corner-order-bg-color": {
+    "$value": "#424670ff",
+    "$type": "color"
+  },
+  "notification-corner-order-vertical-line-color": {
+    "$value": "#5d6292ff",
+    "$type": "color"
+  },
+  "notification-corner-vertical-line-color": {
+    "$value": "#5d6292ff",
+    "$type": "color"
+  },
+  "notification-warning-blink-bg-color": {
+    "$value": "#5d6292ff",
+    "$type": "color"
+  },
+  "order-entry-clear-notification-progress-bar-bg-color": {
+    "$value": "#66a8ffff",
+    "$type": "color"
+  },
+  "toast-notification-default-border-color": {
+    "$value": "#424670ff",
+    "$type": "color"
+  },
+  "toast-notification-hover-bg-color": {
+    "$value": "#51567fff",
+    "$type": "color"
+  },
+  "toast-notification-hovered-border-color": {
+    "$value": "#51567fff",
+    "$type": "color"
+  },
+  "option-chain-strategies-support-bg-color": {
+    "$value": "#1c1e35ff",
+    "$type": "color"
+  },
+  "NM-handle-bg-color": {
+    "$value": "#c6c9ecb2",
+    "$type": "color"
+  },
+  "NM-handle-outside-border-color": {
+    "$value": "#c6c9ecb2",
+    "$type": "color"
+  },
+  "order-entry-alert-bubble-bg-color": {
+    "$value": "#424670ff",
+    "$type": "color"
+  },
+  "order-entry-bottom-panel-bg-color": {
+    "$value": "#2d3052ff",
+    "$type": "color"
+  },
+  "order-entry-switcher-focused-outside-border-color": {
+    "$value": "#6680ffff",
+    "$type": "color"
+  },
+  "order-entry-switcher-off-bg-color-1": {
+    "$value": "#6d73a5ff",
+    "$type": "color"
+  },
+  "order-entry-switcher-off-hover-bg-color": {
+    "$value": "#878cb4ff",
+    "$type": "color"
+  },
+  "order-entry-switcher-off-hover-bg-color-1": {
+    "$value": "#878cb4ff",
+    "$type": "color"
+  },
+  "order-entry-switcher-on-bg-color": {
+    "$value": "#2a81f4ff",
+    "$type": "color"
+  },
+  "order-entry-switcher-on-hover-bg-color": {
+    "$value": "#4293ffff",
+    "$type": "color"
+  },
+  "order-entry-table-bg-color": {
+    "$value": "#1c1e35ff",
+    "$type": "color"
+  },
+  "order-entry-table-cell-disabled": {
+    "$value": "#262a3fff",
+    "$type": "color"
+  },
+  "order-entry-table-cell-selected-bg-color": {
+    "$value": "#2d3052ff",
+    "$type": "color"
+  },
+  "order-entry-table-cell-selected-outside-border-color": {
+    "$value": "#6680ffff",
+    "$type": "color"
+  },
+  "order-entry-triggered-alert-bubble-bg-color": {
+    "$value": "#17825eff",
+    "$type": "color"
+  },
+  "order_entry-footer-live-bg": {
+    "$value": "#2d3052ff",
+    "$type": "color"
+  },
+  "order_entry-footer-live_mode-bg": {
+    "$value": "#2d3052ff",
+    "$type": "color"
+  },
+  "order_entry-header-live-bg": {
+    "$value": "#2d3052ff",
+    "$type": "color"
+  },
+  "order_entry-header-live_mode-bg": {
+    "$value": "#2d3052ff",
+    "$type": "color"
+  },
+  "app-header-button-pressed-bg-color": {
+    "$value": "#0f10231f",
+    "$type": "color"
+  },
+  "app-header-dropdown-active-border-color": {
+    "$value": "#5d6292ff",
+    "$type": "color"
+  },
+  "application-header-add-widgets-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "application-header-dragging-hint-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "application-header-item-hover-color": {
+    "$value": "#c6c9ec1f",
+    "$type": "color"
+  },
+  "base-isolation-tool-warning-border-color": {
+    "$value": "#ff8333ff",
+    "$type": "color"
+  },
+  "base-isolation-tool-warning-color": {
+    "$value": "#ff8333ff",
+    "$type": "color"
+  },
+  "button-hover-bg-color": {
+    "$value": "#5d6292ff",
+    "$type": "color"
+  },
+  "button-outside-focused-border-color": {
+    "$value": "#6680ffff",
+    "$type": "color"
+  },
+  "button-primary-default": {
+    "$value": "#0c6ff1ff",
+    "$type": "color"
+  },
+  "buy-order-disabled-cell-bg": {
+    "$value": "#262a3fff",
+    "$type": "color"
+  },
+  "calendar-prev-next-month-text-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "calendar-year-text-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "checkbox-alt-default-text": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "checkbox-border-default": {
+    "$value": "#c6c9ec33",
+    "$type": "color"
+  },
+  "checkbox-border-hover": {
+    "$value": "#c6c9ec66",
+    "$type": "color"
+  },
+  "checkbox-border-pressed": {
+    "$value": "#c6c9ec33",
+    "$type": "color"
+  },
+  "checkbox-default-text": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "color-picker-item-frame": {
+    "$value": "#f8f8fbff",
+    "$type": "color"
+  },
+  "control-panel-label-default-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "dbl-click-trading-bg-color": {
+    "$value": "#ff7f7fff",
+    "$type": "color"
+  },
+  "disabled-bg-color": {
+    "$value": "#262a3fff",
+    "$type": "color"
+  },
+  "drawing-text-tool-light-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "drop-area-background-deny-color": {
+    "$value": "#ff64641f",
+    "$type": "color",
+    "$description": "???"
+  },
+  "drop-area-chart-maximized-border-color": {
+    "$value": "#ff6464ff",
+    "$type": "color"
+  },
+  "drop-area-chart-maximized-highlight-color": {
+    "$value": "#c6c9ec1f",
+    "$type": "color",
+    "$description": "???"
+  },
+  "dropdown-description-text": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "dropdown-list-bg-pressed-color": {
+    "$value": "#0f10231f",
+    "$type": "color"
+  },
+  "email-verification-container-bg-color": {
+    "$value": "#252945ff",
+    "$type": "color"
+  },
+  "email-verification-container-border-color": {
+    "$value": "#252945ff",
+    "$type": "color"
+  },
+  "focus-border-color": {
+    "$value": "#6680ffff",
+    "$type": "color"
+  },
+  "form-hint-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "form-label-alt-text": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "group-bg-color": {
+    "$value": "#2d3052ff",
+    "$type": "color"
+  },
+  "highlight-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "icon-active-bg": {
+    "$value": "#ff924cff",
+    "$type": "color"
+  },
+  "icon-numeric-stepper-bg-color": {
+    "$value": "#c6c9ecb2",
+    "$type": "color",
+    "$description": "???"
+  },
+  "icon-secondary-default-bg": {
+    "$value": "#c6c9ecb2",
+    "$type": "color"
+  },
+  "input-autofilled-border-color": {
+    "$value": "#c6c9ec33",
+    "$type": "color"
+  },
+  "input-default-bg": {
+    "$value": "#0f102366",
+    "$type": "color"
+  },
+  "input-default-border": {
+    "$value": "#c6c9ec33",
+    "$type": "color"
+  },
+  "input-default-text": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "input-focused-border": {
+    "$value": "#6680ffff",
+    "$type": "color"
+  },
+  "input-hovered-bg-color": {
+    "$value": "#0f10234d",
+    "$type": "color"
+  },
+  "input-hovered-border": {
+    "$value": "#c6c9ec66",
+    "$type": "color"
+  },
+  "layout-line-color": {
+    "$value": "#c6c9ec1f",
+    "$type": "color"
+  },
+  "line-color-3": {
+    "$value": "#c6c9ec1f",
+    "$type": "color"
+  },
+  "line-color-5": {
+    "$value": "#c6c9ec1f",
+    "$type": "color"
+  },
+  "link-default-text": {
+    "$value": "#66a8ffff",
+    "$type": "color"
+  },
+  "link-hovered-text": {
+    "$value": "#ffa266ff",
+    "$type": "color"
+  },
+  "locate_monitor-header-bg": {
+    "$value": "#1c1e35ff",
+    "$type": "color"
+  },
+  "modal-window-header-bg-color": {
+    "$value": "#373b61ff",
+    "$type": "color"
+  },
+  "modal-window-warning-bg-color": {
+    "$value": "#94373eff",
+    "$type": "color"
+  },
+  "na-selected-text-color": {
+    "$value": "#ff924cff",
+    "$type": "color",
+    "$description": "?"
+  },
+  "na-text-color": {
+    "$value": "#c6c9ec80",
+    "$type": "color"
+  },
+  "nm-axis-hover-line-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "nm-axis-line-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "nm-handle-hover-outside-border-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "option-chain-non-standard-option-group-bg-color": {
+    "$value": "#2d3052ff",
+    "$type": "color"
+  },
+  "primary-tab-hover-bg-color": {
+    "$value": "#373b61ff",
+    "$type": "color"
+  },
+  "radiobutton-default-dot": {
+    "$value": "#f8f8fbff",
+    "$type": "color"
+  },
+  "repeated-text-color": {
+    "$value": "#c6c9ec80",
+    "$type": "color",
+    "$description": "???"
+  },
+  "secondary-link-button-text-color": {
+    "$value": "#66a8ffff",
+    "$type": "color"
+  },
+  "selected-input-border-color": {
+    "$value": "#6680ffff",
+    "$type": "color"
+  },
+  "sell-order-disabled-cell-bg": {
+    "$value": "#262a3fff",
+    "$type": "color"
+  },
+  "simulated-column-bg-color": {
+    "$value": "#1c1e35ff",
+    "$type": "color"
+  },
+  "status-new-text-color": {
+    "$value": "#66a8ffff",
+    "$type": "color"
+  },
+  "sub-additional-text-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "switcher-disabled-bg-color": {
+    "$value": "#262a3fff",
+    "$type": "color"
+  },
+  "tab-close-icon-color": {
+    "$value": "#c6c9ecb2",
+    "$type": "color"
+  },
+  "tab-hover-color": {
+    "$value": "#c6c9ec1f",
+    "$type": "color"
+  },
+  "table-column-sim-text-header-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "table-row-highlighted-bg": {
+    "$value": "#252945ff",
+    "$type": "color"
+  },
+  "text-tool-default-black-color": {
+    "$value": "#000000ff",
+    "$type": "color"
+  },
+  "text-tool-default-primary-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "text-tool-default-secondary-color": {
+    "$value": "#000000ff",
+    "$type": "color"
+  },
+  "tick-icon-hover-alt": {
+    "$value": "#f8f8fbff",
+    "$type": "color"
+  },
+  "trade-builder-step-hint-tooltip-border-color": {
+    "$value": "#424670ff",
+    "$type": "color"
+  },
+  "wrong-bg-color": {
+    "$value": "#94373eff",
+    "$type": "color"
+  },
+  "segmented_control-alt-selected-bg": {
+    "$value": "#0955b8ff",
+    "$type": "color"
+  },
+  "segmented_control-selected-bg": {
+    "$value": "#0955b8ff",
+    "$type": "color"
+  },
+  "active-switcher-bg-color": {
+    "$value": "#2a81f4ff",
+    "$type": "color"
+  },
+  "buy-switcher-bg-color": {
+    "$value": "#17825eff",
+    "$type": "color"
+  },
+  "common-switcher-off-default-bg-color": {
+    "$value": "#6d73a5ff",
+    "$type": "color"
+  },
+  "common-switcher-off-hovered-bg-color": {
+    "$value": "#878cb4ff",
+    "$type": "color"
+  },
+  "common-switcher-on-default-bg-color": {
+    "$value": "#2a81f4ff",
+    "$type": "color"
+  },
+  "common-switcher-on-hovered-bg-color": {
+    "$value": "#4293ffff",
+    "$type": "color"
+  },
+  "control-panel-switcher-default-bg-color": {
+    "$value": "#2a81f4ff",
+    "$type": "color"
+  },
+  "control-panel-switcher-hover-bg-color": {
+    "$value": "#4293ffff",
+    "$type": "color"
+  },
+  "order-entry-switcher-off-default-bg-color": {
+    "$value": "#6d73a5ff",
+    "$type": "color"
+  },
+  "order-entry-switcher-off-hovered-bg-color": {
+    "$value": "#878cb4ff",
+    "$type": "color"
+  },
+  "order-entry-switcher-on-default-bg-color": {
+    "$value": "#2a81f4ff",
+    "$type": "color"
+  },
+  "order-entry-switcher-on-hovered-bg-color": {
+    "$value": "#4293ffff",
+    "$type": "color"
+  },
+  "buy-order-cell-bg": {
+    "$value": "#46b9931f",
+    "$type": "color"
+  },
+  "divider-line-column": {
+    "$value": "#ffa266ff",
+    "$type": "color"
+  },
+  "row-bg-selected": {
+    "$value": "#2d3052ff",
+    "$type": "color"
+  },
+  "sell-order-cell-bg": {
+    "$value": "#ff64641f",
+    "$type": "color"
+  },
+  "table-bg-color": {
+    "$value": "#1c1e35ff",
+    "$type": "color"
+  },
+  "table-cell-error-bg": {
+    "$value": "#ff64641f",
+    "$type": "color"
+  },
+  "table-cell-hover-bg-color": {
+    "$value": "#252945ff",
+    "$type": "color"
+  },
+  "table-group-bg-color": {
+    "$value": "#252945ff",
+    "$type": "color"
+  },
+  "table-group-bg-hover-color": {
+    "$value": "#2d3052ff",
+    "$type": "color"
+  },
+  "table-group-bg-selected-color": {
+    "$value": "#373b61ff",
+    "$type": "color"
+  },
+  "table-row-bg-hover-color": {
+    "$value": "#252945ff",
+    "$type": "color"
+  },
+  "table-row-selected-bg-color": {
+    "$value": "#2d3052ff",
+    "$type": "color"
+  },
+  "table-totals-bg-color": {
+    "$value": "#2d3052ff",
+    "$type": "color"
+  },
+  "time_format-label-border": {
+    "$value": "#5d6292ff",
+    "$type": "color"
+  },
+  "time_format-label-text": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "watchlist-futures-warning-table-line-bg-color": {
+    "$value": "#3a3e54ff",
+    "$type": "color"
+  },
+  "watchlist-futures-warning-table-row-bg-color": {
+    "$value": "#262a3fff",
+    "$type": "color"
+  },
+  "primary-tab-selected-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "symbol-suggest-tab-hover-bg-color": {
+    "$value": "#c6c9ec1f",
+    "$type": "color"
+  },
+  "tab-hover-bg-color": {
+    "$value": "#51567fff",
+    "$type": "color"
+  },
+  "tab-selected-line-color": {
+    "$value": "#66a8ffff",
+    "$type": "color"
+  },
+  "widget_header-tab-selected-bg": {
+    "$value": "#424670ff",
+    "$type": "color"
+  },
+  "workspace-tabs-bg-color": {
+    "$value": "#1c1e35ff",
+    "$type": "color"
+  },
+  "workspace-tabs-demo_mode-bg": {
+    "$value": "#1c1e35ff",
+    "$type": "color"
+  },
+  "workspace-tabs-live_mode-bg": {
+    "$value": "#1c1e35ff",
+    "$type": "color"
+  },
+  "tag-selected-border-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "account-info-data-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color",
+    "$description": "I don't think we need it"
+  },
+  "account-info-label-text-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "account-label-text-color": {
+    "$value": "#000000ff",
+    "$type": "color"
+  },
+  "additional-text-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "additional-text-color-2": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "app-header-button-default-text-color": {
+    "$value": "#ffffffff",
+    "$type": "color"
+  },
+  "application-header-section-text-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "at-text-color-1": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "at-text-color-2": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "buy-text-color": {
+    "$value": "#58c09dff",
+    "$type": "color"
+  },
+  "chart-area-overlay-label-text-color": {
+    "$value": "#c6c9ec80",
+    "$type": "color"
+  },
+  "chart-axis-value-text-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "chart-cross-data-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "chart-cross-label-text-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "chart-current-price-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "chart-high-low-label-text": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "chart-placeholder-text-color": {
+    "$value": "#c6c9ec80",
+    "$type": "color"
+  },
+  "checkbox-alt-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "checkbox-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "common-secondary-text-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "common-text-default": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "common-text-selected": {
+    "$value": "#ff924cff",
+    "$type": "color"
+  },
+  "context-menu-list-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "corner-notification-description-text-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "crosshair-box-value-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "dashboard-side-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "description-text-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "down-text-color": {
+    "$value": "#ff7f7fff",
+    "$type": "color"
+  },
+  "dropdown-default-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "dropdown-header-text-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "dropdown-list-description-text-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "dropdown-list-header-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color",
+    "$description": "Or secondary text?"
+  },
+  "dropdown-list-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "empty-widget-hint-text-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "error-description-text-color": {
+    "$value": "#ff6464ff",
+    "$type": "color"
+  },
+  "error-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "form-label-text-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "form-subtitle-text-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "form-title-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "hint-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "hint-tooltip-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "input-alt-placeholder-text": {
+    "$value": "#c6c9ec80",
+    "$type": "color"
+  },
+  "input-placeholder-text-color": {
+    "$value": "#c6c9ec80",
+    "$type": "color"
+  },
+  "input-text-selection-bg-color": {
+    "$value": "#2a81f4ff",
+    "$type": "color"
+  },
+  "link-default-text-color": {
+    "$value": "#66a8ffff",
+    "$type": "color"
+  },
+  "link-hovered-text-color": {
+    "$value": "#ffa266ff",
+    "$type": "color"
+  },
+  "link-pressed-text-color": {
+    "$value": "#ff924cff",
+    "$type": "color"
+  },
+  "loading-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "matched-color": {
+    "$value": "#ff924cff",
+    "$type": "color"
+  },
+  "message-sbj-dealer-text-color": {
+    "$value": "#f4b73dff",
+    "$type": "color"
+  },
+  "message-sbj-trading-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "message-sbj-warning-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "message-time-text-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "messages-reject-reason-text-color": {
+    "$value": "#ffffffff",
+    "$type": "color"
+  },
+  "modal-window-header-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "modal-window-tab-default-text-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "modal-window-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "multiline-text-tool-tex-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "negative-text-color": {
+    "$value": "#ff7f7fff",
+    "$type": "color"
+  },
+  "NM-label-text-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "NM-value-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "notification-additional-text-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "notification-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "option-param-additional-text-color": {
+    "$value": "#58c09dff",
+    "$type": "color"
+  },
+  "order-book-status-inactive-text-color": {
+    "$value": "#f4b73dff",
+    "$type": "color"
+  },
+  "order-book-status-working-text-color": {
+    "$value": "#ff8333ff",
+    "$type": "color"
+  },
+  "order-entry-buy-text-color": {
+    "$value": "#58c09dff",
+    "$type": "color"
+  },
+  "order-entry-header-target-text": {
+    "$value": "#58c09dff",
+    "$type": "color"
+  },
+  "order-entry-order-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "order-entry-sell-text-color": {
+    "$value": "#ff7f7fff",
+    "$type": "color"
+  },
+  "order-entry-show-hide-text-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "positive-text-color": {
+    "$value": "#58c09dff",
+    "$type": "color"
+  },
+  "primary-tab-hover-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "primary-tab-text-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "risk-profile-underlying-price-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color",
+    "$description": "What is this"
+  },
+  "risk_profile-price_slice-box-text": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "selected-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "sell-text-color": {
+    "$value": "#ff7f7fff",
+    "$type": "color"
+  },
+  "status-pending-text-color": {
+    "$value": "#f4b73dff",
+    "$type": "color"
+  },
+  "status-working-text-color": {
+    "$value": "#ff8333ff",
+    "$type": "color"
+  },
+  "studies-parameters-text": {
+    "$value": "#dde2f2ff",
+    "$type": "color",
+    "$description": "What is this"
+  },
+  "suggest-tab-selected-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "suggest-tab-unactive-text-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "symbol-suggest-secondary-text-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "tab-hover-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "tab-selected-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "tab-text-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "table-column-text-header-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "table-error-text-color": {
+    "$value": "#ff6464ff",
+    "$type": "color"
+  },
+  "table-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "table-totals-title-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "toast-notification-text-color-1": {
+    "$value": "#ff8333ff",
+    "$type": "color"
+  },
+  "up-text-color": {
+    "$value": "#58c09dff",
+    "$type": "color"
+  },
+  "warning-description-text-color": {
+    "$value": "#ff8333ff",
+    "$type": "color"
+  },
+  "watchlist-grid-title-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "watchlist-list-type-active-header": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "watchlist-list-type-passive-header": {
+    "$value": "#a2a6c2ff",
+    "$type": "color",
+    "$description": "What is this"
+  },
+  "widget-header-hint-label-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "widget-header-hint-value-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "widget-header-text-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "widget_tab-default-text": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "widget_tab-hovered-text": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "widget_tab-selected-text": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "dashboard-area-bg-color": {
+    "$value": "#0f102366",
+    "$type": "color"
+  },
+  "dashboard-header-bg-color": {
+    "$value": "#2d3052ff",
+    "$type": "color"
+  },
+  "watchlist-futures-warning-icon-color": {
+    "$value": "#c6c9ec80",
+    "$type": "color",
+    "$description": "???"
+  },
+  "watchlist-futures-warning-line-color": {
+    "$value": "#c6c9ec1f",
+    "$type": "color",
+    "$description": "???"
+  },
+  "watchlist-gtrap-table-cell-accented-text": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "watchlist-gtrap-table-cell-symbol-bg": {
+    "$value": "#c6c9ec1f",
+    "$type": "color"
+  },
+  "watchlist-gtrap-table-cell-text": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "watchlist-gtrap-table-header-bg": {
+    "$value": "#2d3052ff",
+    "$type": "color"
+  },
+  "watchlist-gtrap-table-header-parent-bg": {
+    "$value": "#373b61ff",
+    "$type": "color"
+  },
+  "watchlist-gtrap-table-header-text": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "watchlist-mini-chart-area-fill-color": {
+    "$value": "#373b61ff",
+    "$type": "color"
+  },
+  "watchlist-mini-chart-area-line-color": {
+    "$value": "#5d6292ff",
+    "$type": "color"
+  },
+  "filter-panel-bg-grad-color-2": {
+    "$value": "#393046ff",
+    "$type": "color"
+  },
+  "option-chain-in-the-money-table-area-bg-color-2": {
+    "$value": "#ffffff00",
+    "$type": "color"
+  },
+  "dropdown-list-shadow-color": {
+    "$value": "#0f102333",
+    "$type": "color"
+  },
+  "hint-tooltip-shadow": {
+    "$value": "#00000066",
+    "$type": "color"
+  },
+  "button-demo-default-bg-color": {
+    "$value": "#faaf19ff",
+    "$type": "color"
+  },
+  "switcher-demo-button-bg-color": {
+    "$value": "#faaf19ff",
+    "$type": "color"
+  },
+  "add-delete-icon-border-color": {
+    "$value": "#0f102366",
+    "$type": "color"
+  },
+  "buy-button-outside-border-color": {
+    "$value": "#0f102366",
+    "$type": "color"
+  },
+  "neutral-dashboard-button-outside-border-color": {
+    "$value": "#0f102366",
+    "$type": "color"
+  },
+  "sell-button-outside-border-color": {
+    "$value": "#0f102366",
+    "$type": "color"
+  },
+  "table_row-button-default-border-outside": {
+    "$value": "#0f102366",
+    "$type": "color"
+  },
+  "chart-time-stamp-line-color": {
+    "$value": "#5d6292ff",
+    "$type": "color"
+  },
+  "news-article-vertical-border": {
+    "$value": "#5d6292ff",
+    "$type": "color"
+  },
+  "order-entry-drag-divider-bg-color": {
+    "$value": "#5d6292ff",
+    "$type": "color"
+  },
+  "order-entry-horizontal-divider-color": {
+    "$value": "#6d73a5ff",
+    "$type": "color"
+  },
+  "order-entry-switcher-bubble-color": {
+    "$value": "#f8f8fbff",
+    "$type": "color"
+  },
+  "order_entry-header-shadow-top": {
+    "$value": "#5d6292ff",
+    "$type": "color"
+  },
+  "active-switcher-outside-border-color": {
+    "$value": "#0f102366",
+    "$type": "color"
+  },
+  "button-tertiary-border-default": {
+    "$value": "#0f102366",
+    "$type": "color"
+  },
+  "common-switcher-knob-bg-color": {
+    "$value": "#f8f8fbff",
+    "$type": "color"
+  },
+  "order-entry-switcher-knob-bg-color": {
+    "$value": "#f8f8fbff",
+    "$type": "color"
+  },
+  "symbol-suggest-tab-unactive-bg-color": {
+    "$value": "#2d3052ff",
+    "$type": "color"
+  },
+  "admin_notification-priority-critical-multiparts": {
+    "$value": "#ff7f7fff",
+    "$type": "color"
+  },
+  "app-header-bg-color": {
+    "$value": "#2d3052ff",
+    "$type": "color"
+  },
+  "app-header-bg-live-mode-color": {
+    "$value": "#2d3052ff",
+    "$type": "color"
+  },
+  "app-header-demo_mode-bg": {
+    "$value": "#2d3052ff",
+    "$type": "color"
+  },
+  "app-header-live_mode-bg": {
+    "$value": "#2d3052ff",
+    "$type": "color"
+  },
+  "tab-background-color": {
+    "$value": "#1c1e35ff",
+    "$type": "color"
+  },
+  "app-header-button-default-bg-color": {
+    "$value": "#424670ff",
+    "$type": "color"
+  },
+  "button-bg-color": {
+    "$value": "#424670ff",
+    "$type": "color"
+  },
+  "button-disabled-bg-color": {
+    "$value": "#262a3fff",
+    "$type": "color"
+  },
+  "buy-button-default-bg-color": {
+    "$value": "#17825eff",
+    "$type": "color"
+  },
+  "sell-button-default-bg-color": {
+    "$value": "#b9464eff",
+    "$type": "color"
+  },
+  "sell-switcher-bg-color": {
+    "$value": "#b9464eff",
+    "$type": "color"
+  },
+  "small-button-disabled-bg-color": {
+    "$value": "#262a3fff",
+    "$type": "color"
+  },
+  "widget-header-button-disabled-bg-color": {
+    "$value": "#262a3fff",
+    "$type": "color"
+  },
+  "button-disabled-border-outside-color": {
+    "$value": "#3a3e54ff",
+    "$type": "color"
+  },
+  "calendar-popup-bg-color": {
+    "$value": "#373b61ff",
+    "$type": "color"
+  },
+  "calendar-weekend_date-text": {
+    "$value": "#7a7e8eff",
+    "$type": "color"
+  },
+  "chart-alert-bg": {
+    "$value": "#373b61ff",
+    "$type": "color"
+  },
+  "chart-alert-box-bg": {
+    "$value": "#373b61ff",
+    "$type": "color"
+  },
+  "chart-alert-line-color": {
+    "$value": "#373b61ff",
+    "$type": "color"
+  },
+  "chart-order-bg-color-1": {
+    "$value": "#373b61ff",
+    "$type": "color"
+  },
+  "chart-order-single-border-color": {
+    "$value": "#424670ff",
+    "$type": "color"
+  },
+  "chart-order-single-price-line-color": {
+    "$value": "#51567fff",
+    "$type": "color"
+  },
+  "chart-trading-order-position-bg-color": {
+    "$value": "#373b61ff",
+    "$type": "color"
+  },
+  "chart-trading-price-box-bg": {
+    "$value": "#373b61ff",
+    "$type": "color"
+  },
+  "chart-bg-color": {
+    "$value": "#1c1e35ff",
+    "$type": "color"
+  },
+  "chart-bg-grad-1": {
+    "$value": "#1c1e35ff",
+    "$type": "color"
+  },
+  "chart-crosshair-value-bg-color": {
+    "$value": "#373b61ff",
+    "$type": "color"
+  },
+  "chart-drawing-management-panel-bg-color-1": {
+    "$value": "#373b61ff",
+    "$type": "color"
+  },
+  "chart-high-low-label-bg-color": {
+    "$value": "#373b61ff",
+    "$type": "color"
+  },
+  "chart-neutral-line-color": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "chart-session-name-text-color": {
+    "$value": "#a2a6c2ff",
+    "$type": "color"
+  },
+  "chart-trading-block-bg-color": {
+    "$value": "#373b61ff",
+    "$type": "color"
+  },
+  "chart-volume-main-color": {
+    "$value": "#373b61ff",
+    "$type": "color"
+  },
+  "chart-widget-toolbar-bg-color-1": {
+    "$value": "#1c1e35ff",
+    "$type": "color"
+  },
+  "chart-current-price-bg-color": {
+    "$value": "#373b61ff",
+    "$type": "color"
+  },
+  "chart-point-default-line": {
+    "$value": "#dde2f2ff",
+    "$type": "color"
+  },
+  "status-negative-multiparts": {
+    "$value": "#ff7f7fff",
+    "$type": "color",
+    "$description": "text, icons"
+  },
+  "status-neutral-multiparts": {
+    "$value": "#dde2f2ff",
+    "$type": "color",
+    "$description": "text, icons"
+  },
+  "status-positive-multiparts": {
+    "$value": "#58c09dff",
+    "$type": "color",
+    "$description": "text, icons"
+  },
+  "application-header-context-menu-bg-color": {
+    "$value": "#373b61ff",
+    "$type": "color"
+  },
+  "context-menu-bg-color": {
+    "$value": "#373b61ff",
+    "$type": "color"
+  },
+  "context-menu-border-color": {
+    "$value": "#424670ff",
+    "$type": "color"
+  },
+  "control-panel-drag-line-color": {
+    "$value": "#51567fff",
+    "$type": "color"
   },
   "draggable-item-hover-color": {
-    "value": "#535882ff",
-    "type": "color"
+    "$value": "#51567fff",
+    "$type": "color"
   },
   "dropdown-alt-disabled-bg": {
-    "value": "#262a3fff",
-    "type": "color"
+    "$value": "#262a3fff",
+    "$type": "color"
   },
   "dropdown-disabled-bg-color": {
-    "value": "#262a3fff",
-    "type": "color"
+    "$value": "#262a3fff",
+    "$type": "color"
   },
   "dropdown-list-bg-color": {
-    "value": "#383d65ff",
-    "type": "color"
+    "$value": "#373b61ff",
+    "$type": "color"
   },
   "dropdown-list-bg-hover-color": {
-    "value": "#535882ff",
-    "type": "color"
+    "$value": "#51567fff",
+    "$type": "color"
   },
   "dropdown-alt-disabled-border-outside": {
-    "value": "#3a3e54ff",
-    "type": "color"
+    "$value": "#3a3e54ff",
+    "$type": "color"
   },
   "dropdown-disabled-border-outside-color": {
-    "value": "#3a3e54ff",
-    "type": "color"
+    "$value": "#3a3e54ff",
+    "$type": "color"
   },
   "hint-tooltip-bg-color": {
-    "value": "#383d65ff",
-    "type": "color"
+    "$value": "#373b61ff",
+    "$type": "color"
   },
   "modal-window-bg-grad-1": {
-    "value": "#272a47ff",
-    "type": "color"
+    "$value": "#252945ff",
+    "$type": "color"
   },
   "modal-window-border-color": {
-    "value": "#383d65ff",
-    "type": "color"
+    "$value": "#373b61ff",
+    "$type": "color"
   },
   "modal-window-header-bg-color-1": {
-    "value": "#383d65ff",
-    "type": "color"
+    "$value": "#373b61ff",
+    "$type": "color"
   },
   "symbol-suggest-bg-color": {
-    "value": "#383d65ff",
-    "type": "color"
+    "$value": "#373b61ff",
+    "$type": "color"
   },
   "symbol-suggest-line-hover-bg-color": {
-    "value": "#535882ff",
-    "type": "color"
+    "$value": "#51567fff",
+    "$type": "color"
   },
   "widget-header-border-color": {
-    "value": "#1e2038ff",
-    "type": "color"
+    "$value": "#1c1e35ff",
+    "$type": "color"
   },
   "widget-outside-border": {
-    "value": "#1e2038ff",
-    "type": "color"
+    "$value": "#1c1e35ff",
+    "$type": "color"
   },
   "corner-canceled-icon-color": {
-    "value": "#7a7e8eff",
-    "type": "color"
+    "$value": "#7a7e8eff",
+    "$type": "color"
   },
   "corner-filled-icon-color": {
-    "value": "#58c09dff",
-    "type": "color"
+    "$value": "#58c09dff",
+    "$type": "color"
   },
   "corner-modified-icon-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
+    "$value": "#dde2f2ff",
+    "$type": "color"
   },
   "corner-placed-icon-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
+    "$value": "#dde2f2ff",
+    "$type": "color"
   },
   "disabled-symbol-color": {
-    "value": "#7a7e8eff",
-    "type": "color"
+    "$value": "#7a7e8eff",
+    "$type": "color"
   },
   "icon-disabled-color": {
-    "value": "#7a7e8eff",
-    "type": "color"
+    "$value": "#7a7e8eff",
+    "$type": "color"
   },
   "status-active-icon-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
+    "$value": "#dde2f2ff",
+    "$type": "color"
   },
   "status-cancelled-icon-color": {
-    "value": "#7a7e8eff",
-    "type": "color"
+    "$value": "#7a7e8eff",
+    "$type": "color"
   },
   "status-expired-icon-color": {
-    "value": "#7a7e8eff",
-    "type": "color"
+    "$value": "#7a7e8eff",
+    "$type": "color"
   },
   "status-filled-icon-color": {
-    "value": "#58c09dff",
-    "type": "color"
+    "$value": "#58c09dff",
+    "$type": "color"
   },
   "status-triggered-icon-color": {
-    "value": "#58c09dff",
-    "type": "color"
+    "$value": "#58c09dff",
+    "$type": "color"
   },
   "input-alt-disabled-bg": {
-    "value": "#262a3fff",
-    "type": "color"
+    "$value": "#262a3fff",
+    "$type": "color"
   },
   "input-disabled-bg-color": {
-    "value": "#262a3fff",
-    "type": "color"
+    "$value": "#262a3fff",
+    "$type": "color"
   },
   "input-alt-disabled-border-outside": {
-    "value": "#3a3e54ff",
-    "type": "color"
+    "$value": "#3a3e54ff",
+    "$type": "color"
   },
   "input-disabled-border-outside-color": {
-    "value": "#3a3e54ff",
-    "type": "color"
+    "$value": "#3a3e54ff",
+    "$type": "color"
   },
   "list-item-hovered-bg": {
-    "value": "#535882ff",
-    "type": "color"
+    "$value": "#51567fff",
+    "$type": "color"
   },
   "list-item-hovered-bg-color": {
-    "value": "#535882ff",
-    "type": "color"
+    "$value": "#51567fff",
+    "$type": "color"
   },
   "list-item-selected-bg": {
-    "value": "#5f6495ff",
-    "type": "color"
+    "$value": "#5d6292ff",
+    "$type": "color"
   },
   "list-item-selected-bg-color": {
-    "value": "#5f6495ff",
-    "type": "color"
+    "$value": "#5d6292ff",
+    "$type": "color"
   },
   "notification-corner-critical-bg-color": {
-    "value": "#94373eff",
-    "type": "color"
+    "$value": "#94373eff",
+    "$type": "color"
   },
   "order-entry-clear-notification-bg-color": {
-    "value": "#383d65ff",
-    "type": "color"
+    "$value": "#373b61ff",
+    "$type": "color"
   },
   "order-entry-clear-notification-border-color": {
-    "value": "#383d65ff",
-    "type": "color"
+    "$value": "#373b61ff",
+    "$type": "color"
   },
   "toast-notification-default-bg-color": {
-    "value": "#383d65ff",
-    "type": "color"
+    "$value": "#373b61ff",
+    "$type": "color"
   },
   "NM-handle-inside-border-color": {
-    "value": "#1e2038ff",
-    "type": "color"
+    "$value": "#1c1e35ff",
+    "$type": "color"
   },
   "order-entry-header-background-color": {
-    "value": "#2f3256ff",
-    "type": "color"
+    "$value": "#2d3052ff",
+    "$type": "color"
   },
   "button-primary-disabled-text": {
-    "value": "#7a7e8eff",
-    "type": "color"
+    "$value": "#7a7e8eff",
+    "$type": "color"
   },
   "button-secondary-disabled-text": {
-    "value": "#7a7e8eff",
-    "type": "color"
+    "$value": "#7a7e8eff",
+    "$type": "color"
   },
   "button-tertiaty-default-text": {
-    "value": "#ffffffff",
-    "type": "color"
+    "$value": "#ffffffff",
+    "$type": "color"
   },
   "checkbox-alt-disabled-text": {
-    "value": "#7a7e8eff",
-    "type": "color"
+    "$value": "#7a7e8eff",
+    "$type": "color"
   },
   "dropdown-alt-disabled-text": {
-    "value": "#7a7e8eff",
-    "type": "color"
+    "$value": "#7a7e8eff",
+    "$type": "color"
   },
   "dropdown-list-border-color": {
-    "value": "#444873ff",
-    "type": "color"
+    "$value": "#424670ff",
+    "$type": "color"
   },
   "expired-text-color": {
-    "value": "#7a7e8eff",
-    "type": "color"
+    "$value": "#7a7e8eff",
+    "$type": "color"
   },
   "icon-disabled-default-bg": {
-    "value": "#7a7e8eff",
-    "type": "color"
+    "$value": "#7a7e8eff",
+    "$type": "color"
   },
   "input-disabled-text": {
-    "value": "#7a7e8eff",
-    "type": "color"
+    "$value": "#7a7e8eff",
+    "$type": "color"
   },
   "modal-window-bg-color": {
-    "value": "#272a47ff",
-    "type": "color"
+    "$value": "#252945ff",
+    "$type": "color"
   },
   "segmented_control-disabled-bg": {
-    "value": "#262a3fff",
-    "type": "color"
+    "$value": "#262a3fff",
+    "$type": "color"
   },
   "segmented_control-disabled-border-outside": {
-    "value": "#3a3e54ff",
-    "type": "color"
+    "$value": "#3a3e54ff",
+    "$type": "color"
   },
   "table-header-bg-color": {
-    "value": "#2f3256ff",
-    "type": "color"
+    "$value": "#2d3052ff",
+    "$type": "color"
   },
   "suggest-tab-divider-line-color": {
-    "value": "#1e2038ff",
-    "type": "color"
+    "$value": "#1c1e35ff",
+    "$type": "color"
   },
   "symbol-suggest-tab-active-bg-color": {
-    "value": "#383d65ff",
-    "type": "color"
+    "$value": "#373b61ff",
+    "$type": "color"
   },
   "tab-background-shadow-color": {
-    "value": "#2f3256ff",
-    "type": "color"
+    "$value": "#2d3052ff",
+    "$type": "color"
   },
   "tab-hover-line-color": {
-    "value": "#535882ff",
-    "type": "color"
+    "$value": "#51567fff",
+    "$type": "color"
   },
   "tab-hovered-line-color": {
-    "value": "#535882ff",
-    "type": "color"
+    "$value": "#51567fff",
+    "$type": "color"
   },
   "tab-selected-bg-color": {
-    "value": "#2f3256ff",
-    "type": "color"
+    "$value": "#2d3052ff",
+    "$type": "color"
   },
   "widget-header-tab-bg-color": {
-    "value": "#2f3256ff",
-    "type": "color"
+    "$value": "#2d3052ff",
+    "$type": "color"
   },
   "widget-header-tab-divider-color": {
-    "value": "#1e2038ff",
-    "type": "color"
+    "$value": "#1c1e35ff",
+    "$type": "color"
   },
   "widget-header-tab-hovered-line-color": {
-    "value": "#535882ff",
-    "type": "color"
+    "$value": "#51567fff",
+    "$type": "color"
   },
   "app-header-dropdown-default-text-color": {
-    "value": "#ffffffff",
-    "type": "color"
+    "$value": "#ffffffff",
+    "$type": "color"
   },
   "button-disabled-text-color": {
-    "value": "#7a7e8eff",
-    "type": "color"
+    "$value": "#7a7e8eff",
+    "$type": "color"
   },
   "button-secondary-default-text-color": {
-    "value": "#ffffffff",
-    "type": "color"
+    "$value": "#ffffffff",
+    "$type": "color"
   },
   "button-secondary-text-color": {
-    "value": "#ffffffff",
-    "type": "color"
+    "$value": "#ffffffff",
+    "$type": "color"
   },
   "button-tertiary-default-text-color": {
-    "value": "#ffffffff",
-    "type": "color"
+    "$value": "#ffffffff",
+    "$type": "color"
   },
   "common-text-disabled": {
-    "value": "#7a7e8eff",
-    "type": "color"
+    "$value": "#7a7e8eff",
+    "$type": "color"
   },
   "depth-of-market-table-inactive-price-text-color": {
-    "value": "#7a7e8eff",
-    "type": "color"
+    "$value": "#7a7e8eff",
+    "$type": "color"
   },
   "disabled-link-text-color": {
-    "value": "#7a7e8eff",
-    "type": "color"
+    "$value": "#7a7e8eff",
+    "$type": "color"
   },
   "dropdown-alt-default-text": {
-    "value": "#ffffffff",
-    "type": "color"
+    "$value": "#ffffffff",
+    "$type": "color"
   },
   "dropdown-disabled-text-color": {
-    "value": "#7a7e8eff",
-    "type": "color"
+    "$value": "#7a7e8eff",
+    "$type": "color"
   },
   "input-alt-default-text": {
-    "value": "#e1e5f3ff",
-    "type": "color"
+    "$value": "#dde2f2ff",
+    "$type": "color"
   },
   "input-alt-disabled-text": {
-    "value": "#7a7e8eff",
-    "type": "color"
+    "$value": "#7a7e8eff",
+    "$type": "color"
   },
   "input-default-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
+    "$value": "#dde2f2ff",
+    "$type": "color"
   },
   "input-disabled-text-color": {
-    "value": "#7a7e8eff",
-    "type": "color"
+    "$value": "#7a7e8eff",
+    "$type": "color"
   },
   "message-sbj-triggered-text-color": {
-    "value": "#58c09dff",
-    "type": "color"
+    "$value": "#58c09dff",
+    "$type": "color"
   },
   "no-data-text-color": {
-    "value": "#7a7e8eff",
-    "type": "color"
+    "$value": "#7a7e8eff",
+    "$type": "color"
   },
   "order-cancelled-text-color": {
-    "value": "#7a7e8eff",
-    "type": "color"
+    "$value": "#7a7e8eff",
+    "$type": "color"
   },
   "segmented_control-default-text": {
-    "value": "#ffffffff",
-    "type": "color"
+    "$value": "#ffffffff",
+    "$type": "color"
   },
   "status-active-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
+    "$value": "#dde2f2ff",
+    "$type": "color"
   },
   "status-canceled-text-color": {
-    "value": "#7a7e8eff",
-    "type": "color"
+    "$value": "#7a7e8eff",
+    "$type": "color"
   },
   "status-cancelled-text-color": {
-    "value": "#7a7e8eff",
-    "type": "color"
+    "$value": "#7a7e8eff",
+    "$type": "color"
   },
   "status-cancelling-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
+    "$value": "#dde2f2ff",
+    "$type": "color"
   },
   "status-filled-text-color": {
-    "value": "#58c09dff",
-    "type": "color"
+    "$value": "#58c09dff",
+    "$type": "color"
   },
   "status-inactive-text-color": {
-    "value": "#7a7e8eff",
-    "type": "color"
+    "$value": "#7a7e8eff",
+    "$type": "color"
   },
   "status-rejected-text-color": {
-    "value": "#ff7f7fff",
-    "type": "color"
+    "$value": "#ff7f7fff",
+    "$type": "color"
   },
   "status-sending-text-color": {
-    "value": "#e1e5f3ff",
-    "type": "color"
+    "$value": "#dde2f2ff",
+    "$type": "color"
   },
   "status-triggered-text-color": {
-    "value": "#58c09dff",
-    "type": "color"
+    "$value": "#58c09dff",
+    "$type": "color"
   },
   "table-disabled-text-color": {
-    "value": "#7a7e8eff",
-    "type": "color"
+    "$value": "#7a7e8eff",
+    "$type": "color"
   },
   "symbol-area-bg-color": {
-    "value": "#1e2038ff",
-    "type": "color"
+    "$value": "#1c1e35ff",
+    "$type": "color"
   },
   "watchlist-mini-chart-area-background": {
-    "value": "#1e2038ff",
-    "type": "color"
+    "$value": "#1c1e35ff",
+    "$type": "color"
   },
   "widget-bg-color": {
-    "value": "#1e2038ff",
-    "type": "color"
+    "$value": "#1c1e35ff",
+    "$type": "color"
   },
   "widget-bg-top-color": {
-    "value": "#1e2038ff",
-    "type": "color"
+    "$value": "#1c1e35ff",
+    "$type": "color"
   },
   "widget-header-bg-color": {
-    "value": "#2f3256ff",
-    "type": "color"
+    "$value": "#2d3052ff",
+    "$type": "color"
   },
   "widget-header-grad-color-1": {
-    "value": "#2f3256ff",
-    "type": "color"
+    "$value": "#2d3052ff",
+    "$type": "color"
   },
   "item-dragged-shadow-color": {
-    "value": "#0000004d",
-    "type": "color"
+    "$value": "#0000004d",
+    "$type": "color"
   },
   "message-wrong-shadow-color": {
-    "value": "#0000004d",
-    "type": "color"
+    "$value": "#0000004d",
+    "$type": "color"
   },
   "modal-window-header-shadow-color": {
-    "value": "#0000000f",
-    "type": "color"
+    "$value": "#0000000f",
+    "$type": "color"
   },
   "modal-window-shadow-color": {
-    "value": "#00000080",
-    "type": "color"
+    "$value": "#00000080",
+    "$type": "color"
   },
   "notification-corner-critical-shadow-color": {
-    "value": "#0000001a",
-    "type": "color"
+    "$value": "#0000001a",
+    "$type": "color"
   },
   "order-entry-add-table-position-shadow-color": {
-    "value": "#00000000",
-    "type": "color"
+    "$value": "#00000000",
+    "$type": "color"
   },
   "order-entry-clear-notification-shadow-color": {
-    "value": "#00000099",
-    "type": "color"
+    "$value": "#00000099",
+    "$type": "color"
   },
   "app-bg-grad-bottom-color": {
-    "value": "#0d0e17ff",
-    "type": "color"
+    "$value": "#0b0b13ff",
+    "$type": "color"
   },
   "chart-timeline-full-period-bg-color-2": {
-    "value": "#c6c9ec1f",
-    "type": "color"
+    "$value": "#c6c9ec1f",
+    "$type": "color"
   },
   "depth-of-market-volume-bg-color-2": {
-    "value": "#2f3256ff",
-    "type": "color"
+    "$value": "#2d3052ff",
+    "$type": "color"
   },
   "button-secondary-default-bg-color": {
-    "value": "#444873ff",
-    "type": "color"
+    "$value": "#424670ff",
+    "$type": "color"
   },
   "button-separator-line-color": {
-    "value": "#0f102366",
-    "type": "color"
+    "$value": "#0f102366",
+    "$type": "color"
   },
   "button-primary-border-outside-color": {
-    "value": "#0f102366",
-    "type": "color"
+    "$value": "#0f102366",
+    "$type": "color"
   },
   "button-secondary-border-outside-color": {
-    "value": "#0f102366",
-    "type": "color"
+    "$value": "#0f102366",
+    "$type": "color"
   },
   "button-tertiary-border-outside-color": {
-    "value": "#0f102366",
-    "type": "color"
+    "$value": "#0f102366",
+    "$type": "color"
   },
   "order-entry-add-table-position-expanded-border-color": {
-    "value": "#0f102366",
-    "type": "color"
+    "$value": "#0f102366",
+    "$type": "color"
   },
   "widget-header-button-outside-border-color": {
-    "value": "#0f102366",
-    "type": "color"
+    "$value": "#0f102366",
+    "$type": "color"
   },
   "button-demo-default-text-color": {
-    "value": "#000000ff",
-    "type": "color"
+    "$value": "#000000ff",
+    "$type": "color"
   },
   "dropdown-alt-border-outside": {
-    "value": "#0f102366",
-    "type": "color"
+    "$value": "#0f102366",
+    "$type": "color"
   },
   "dropdown-border-outside-color": {
-    "value": "#0f102366",
-    "type": "color"
+    "$value": "#0f102366",
+    "$type": "color"
   },
   "button-primary-default-text": {
-    "value": "#ffffffff",
-    "type": "color"
+    "$value": "#ffffffff",
+    "$type": "color"
   },
   "button-secondary-default": {
-    "value": "#444873ff",
-    "type": "color"
+    "$value": "#424670ff",
+    "$type": "color"
   },
   "dropdown-default-border": {
-    "value": "#0f102366",
-    "type": "color"
+    "$value": "#0f102366",
+    "$type": "color"
   },
   "segmented_control-alt-border-outside": {
-    "value": "#0f102366",
-    "type": "color"
+    "$value": "#0f102366",
+    "$type": "color"
   },
   "segmented_control-border-outside": {
-    "value": "#0f102366",
-    "type": "color"
+    "$value": "#0f102366",
+    "$type": "color"
   },
   "segmented_control-buy-border-outside": {
-    "value": "#0f102366",
-    "type": "color"
+    "$value": "#0f102366",
+    "$type": "color"
   },
   "segmented_control-selected-border-outside": {
-    "value": "#0f102366",
-    "type": "color"
+    "$value": "#0f102366",
+    "$type": "color"
   },
   "segmented_control-sell-border-outside": {
-    "value": "#0f102366",
-    "type": "color"
+    "$value": "#0f102366",
+    "$type": "color"
   },
   "button-primary-default-text-color": {
-    "value": "#ffffffff",
-    "type": "color"
+    "$value": "#ffffffff",
+    "$type": "color"
   },
   "buy-button-default-text-color": {
-    "value": "#ffffffff",
-    "type": "color"
+    "$value": "#ffffffff",
+    "$type": "color"
   },
   "segmented_control-selected-text": {
-    "value": "#ffffffff",
-    "type": "color"
+    "$value": "#ffffffff",
+    "$type": "color"
   },
   "sell-button-default-text-color": {
-    "value": "#ffffffff",
-    "type": "color"
+    "$value": "#ffffffff",
+    "$type": "color"
   },
   "add-delete-icon-bg-color": {
-    "value": "#444873ff",
-    "type": "color"
+    "$value": "#424670ff",
+    "$type": "color"
   },
   "button-tertiary-default-bg-color": {
-    "value": "#444873ff",
-    "type": "color"
+    "$value": "#424670ff",
+    "$type": "color"
   },
   "chart-button-bg-color": {
-    "value": "#444873ff",
-    "type": "color"
+    "$value": "#424670ff",
+    "$type": "color"
   },
   "neutral-dashboard-bg-color": {
-    "value": "#444873ff",
-    "type": "color"
+    "$value": "#424670ff",
+    "$type": "color"
   },
   "order-entry-add-table-position-expanded-bg-color": {
-    "value": "#444873ff",
-    "type": "color"
+    "$value": "#424670ff",
+    "$type": "color"
   },
   "small-button-bg-color": {
-    "value": "#444873ff",
-    "type": "color"
+    "$value": "#424670ff",
+    "$type": "color"
   },
   "table-trading-button-bg-color": {
-    "value": "#444873ff",
-    "type": "color"
+    "$value": "#424670ff",
+    "$type": "color"
   },
   "widget-header-button-bg-color": {
-    "value": "#444873ff",
-    "type": "color"
+    "$value": "#424670ff",
+    "$type": "color"
   },
   "draggable-item-bg-color": {
-    "value": "#383d65ff",
-    "type": "color"
+    "$value": "#373b61ff",
+    "$type": "color"
   },
   "dropdown-alt-default-bg": {
-    "value": "#444873ff",
-    "type": "color",
-    "description": "For widget header dropdown"
+    "$value": "#424670ff",
+    "$type": "color",
+    "$description": "For widget header dropdown"
   },
   "dropdown-default-bg-color": {
-    "value": "#444873ff",
-    "type": "color"
+    "$value": "#424670ff",
+    "$type": "color"
   },
   "list-item-default-bg": {
-    "value": "#383d65ff",
-    "type": "color"
+    "$value": "#373b61ff",
+    "$type": "color"
   },
   "list-item-draggable-bg": {
-    "value": "#383d65ff",
-    "type": "color"
+    "$value": "#373b61ff",
+    "$type": "color"
   },
   "button-tertiary-default": {
-    "value": "#444873ff",
-    "type": "color"
+    "$value": "#424670ff",
+    "$type": "color"
   },
   "cell-button-bg-color": {
-    "value": "#444873ff",
-    "type": "color"
+    "$value": "#424670ff",
+    "$type": "color"
   },
   "draggable-item-expanded-bg-color": {
-    "value": "#383d65ff",
-    "type": "color"
+    "$value": "#373b61ff",
+    "$type": "color"
   },
   "dropdown-default-bg": {
-    "value": "#444873ff",
-    "type": "color"
+    "$value": "#424670ff",
+    "$type": "color"
   },
   "segmented_control-alt-default-bg": {
-    "value": "#444873ff",
-    "type": "color"
+    "$value": "#424670ff",
+    "$type": "color"
   },
   "segmented_control-buy-default-bg": {
-    "value": "#17825eff",
-    "type": "color"
+    "$value": "#17825eff",
+    "$type": "color"
   },
   "segmented_control-default-bg": {
-    "value": "#444873ff",
-    "type": "color"
+    "$value": "#424670ff",
+    "$type": "color"
   },
   "segmented_control-sell-default-bg": {
-    "value": "#b9464eff",
-    "type": "color"
+    "$value": "#b9464eff",
+    "$type": "color"
   },
   "overlay-box-shadow-color": {
-    "value": "#0f10234d",
-    "type": "color"
+    "$value": "#0f10234d",
+    "$type": "color"
   },
   "market-depth-row-limit-bg-color": {
-    "value": "#444873ff",
-    "type": "color"
+    "$value": "#424670ff",
+    "$type": "color"
   },
   "chart-order-bg-color-2": {
-    "value": "#383d65ff",
-    "type": "color"
+    "$value": "#373b61ff",
+    "$type": "color"
   },
   "chart-bg-grad-2": {
-    "value": "#1e2038ff",
-    "type": "color"
+    "$value": "#1c1e35ff",
+    "$type": "color"
   },
   "chart-drawing-management-panel-bg-color-2": {
-    "value": "#383d65ff",
-    "type": "color"
+    "$value": "#373b61ff",
+    "$type": "color"
   },
   "chart-widget-toolbar-bg-color-2": {
-    "value": "#1e2038ff",
-    "type": "color"
+    "$value": "#1c1e35ff",
+    "$type": "color"
   },
   "modal-window-bg-grad-2": {
-    "value": "#272a47ff",
-    "type": "color"
+    "$value": "#252945ff",
+    "$type": "color"
   },
   "modal-window-header-bg-color-2": {
-    "value": "#383d65ff",
-    "type": "color"
+    "$value": "#373b61ff",
+    "$type": "color"
   },
   "widget-bg-bottom-color": {
-    "value": "#1e2038ff",
-    "type": "color"
+    "$value": "#1c1e35ff",
+    "$type": "color"
   },
   "widget-header-grad-color-2": {
-    "value": "#2f3256ff",
-    "type": "color"
+    "$value": "#2d3052ff",
+    "$type": "color"
   },
   "table-header-shadow-color": {
-    "value": "#ffffff00",
-    "type": "color"
+    "$value": "#ffffff00",
+    "$type": "color"
   },
   "table-totals-divider-line-color": {
-    "value": "#ffffff14",
-    "type": "color"
+    "$value": "#ffffff14",
+    "$type": "color"
   },
   "table-trading-button-inside-border-bottom-color": {
-    "value": "#ffffff05",
-    "type": "color"
+    "$value": "#ffffff05",
+    "$type": "color"
   },
   "tag-selected-shadow-inside-color": {
-    "value": "#000000d9",
-    "type": "color"
+    "$value": "#000000d9",
+    "$type": "color"
   },
   "toast-notification-default-shadow-color": {
-    "value": "#00000099",
-    "type": "color"
+    "$value": "#00000099",
+    "$type": "color"
   },
   "toast-notification-hover-shadow-color": {
-    "value": "#00000080",
-    "type": "color"
+    "$value": "#00000080",
+    "$type": "color"
   },
   "widget-header-shadow-color": {
-    "value": "#1e2038ff",
-    "type": "color",
-    "description": "Widget Border"
+    "$value": "#1c1e35ff",
+    "$type": "color",
+    "$description": "Widget Border"
   },
   "shadow-color": {
-    "value": "#00000066",
-    "type": "color"
+    "$value": "#00000066",
+    "$type": "color"
   }
 }
