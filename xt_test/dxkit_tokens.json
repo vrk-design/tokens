@@ -874,7 +874,7 @@
         "type": "color",
         "description": "Empty color: use as an alias in component tokens when a null value is desired."
       },
-      "base": {
+      "main": {
         "0": {
           "value": "#fdfdfe",
           "type": "color"
@@ -1404,6 +1404,92 @@
       "focused-border": {
         "value": "#6680ff",
         "type": "color"
+      },
+      "main-light-mode": {
+        "0": {
+          "value": "#fdfdfe",
+          "type": "color"
+        },
+        "50": {
+          "value": "#edf1fb",
+          "type": "color"
+        },
+        "100": {
+          "value": "#e1e6f4",
+          "type": "color"
+        },
+        "150": {
+          "value": "#ced5ed",
+          "type": "color"
+        },
+        "200": {
+          "value": "#c1c8e4",
+          "type": "color"
+        },
+        "250": {
+          "value": "#b7bedc",
+          "type": "color"
+        },
+        "300": {
+          "value": "#b2b6cc",
+          "type": "color"
+        },
+        "350": {
+          "value": "#a2a7c3",
+          "type": "color"
+        },
+        "400": {
+          "value": "#959bbb",
+          "type": "color"
+        },
+        "450": {
+          "value": "#858cb2",
+          "type": "color"
+        },
+        "500": {
+          "value": "#7179a8",
+          "type": "color"
+        },
+        "550": {
+          "value": "#666e99",
+          "type": "color"
+        },
+        "600": {
+          "value": "#5b638f",
+          "type": "color"
+        },
+        "650": {
+          "value": "#50567c",
+          "type": "color"
+        },
+        "700": {
+          "value": "#41486c",
+          "type": "color"
+        },
+        "750": {
+          "value": "#353b5f",
+          "type": "color"
+        },
+        "800": {
+          "value": "#2b314f",
+          "type": "color"
+        },
+        "850": {
+          "value": "#242942",
+          "type": "color"
+        },
+        "900": {
+          "value": "#1b1e32",
+          "type": "color"
+        },
+        "950": {
+          "value": "#121421",
+          "type": "color"
+        },
+        "1000": {
+          "value": "#0d0f17",
+          "type": "color"
+        }
       }
     }
   },
@@ -1420,23 +1506,23 @@
         "description": "Text highlight color."
       },
       "selected-text-color": {
-        "value": "{core.base.100}",
+        "value": "{core.main.100}",
         "type": "color",
         "description": "Selected text color."
       },
       "selected-placeholder-color": {
-        "value": "{core.base.350}",
+        "value": "{core.main.350}",
         "type": "color",
         "description": "Selected placeholder color."
       },
       "fg": {
         "primary-color": {
-          "value": "{core.base.100}",
+          "value": "{core.main.100}",
           "type": "color",
           "description": "This is primary text?"
         },
         "secondary-color": {
-          "value": "{core.base.350}",
+          "value": "{core.main.350}",
           "type": "color",
           "description": "This is secondary text?"
         },
@@ -1518,17 +1604,17 @@
       },
       "bg": {
         "primary": {
-          "value": "{core.base.1000}",
+          "value": "{core.main.1000}",
           "type": "color",
           "description": "Typically represents the application's background color."
         },
         "secondary": {
-          "value": "{core.base.900}",
+          "value": "{core.main.900}",
           "type": "color",
           "description": "Typically represents the widget background color."
         },
         "tertiary": {
-          "value": "{core.base.800}",
+          "value": "{core.main.800}",
           "type": "color",
           "description": "Typically represents the widget header, menu background color."
         },
@@ -1594,43 +1680,43 @@
       },
       "layers": {
         "l1": {
-          "value": "{core.base.900}",
+          "value": "{core.main.900}",
           "type": "color"
         },
         "l2": {
-          "value": "{core.base.850}",
+          "value": "{core.main.850}",
           "type": "color"
         },
         "l3": {
-          "value": "{core.base.800}",
+          "value": "{core.main.800}",
           "type": "color"
         },
         "l4": {
-          "value": "{core.base.750}",
+          "value": "{core.main.750}",
           "type": "color"
         },
         "l5": {
-          "value": "{core.base.700}",
+          "value": "{core.main.700}",
           "type": "color"
         },
         "l6": {
-          "value": "{core.base.650}",
+          "value": "{core.main.650}",
           "type": "color"
         },
         "l7": {
-          "value": "{core.base.600}",
+          "value": "{core.main.600}",
           "type": "color"
         },
         "l8": {
-          "value": "{core.base.550}",
+          "value": "{core.main.550}",
           "type": "color"
         },
         "l9": {
-          "value": "{core.base.500}",
+          "value": "{core.main.500}",
           "type": "color"
         },
         "l10": {
-          "value": "{core.base.450}",
+          "value": "{core.main.450}",
           "type": "color"
         }
       },
@@ -1685,7 +1771,7 @@
         },
         "secondary": {
           "default-bg-color": {
-            "value": "{core.base.700}",
+            "value": "{core.main.700}",
             "type": "color"
           },
           "default-border-color": {
@@ -1697,7 +1783,7 @@
             "type": "color"
           },
           "hover-bg-color": {
-            "value": "{core.base.650}",
+            "value": "{core.main.650}",
             "type": "color"
           },
           "hover-border-color": {
@@ -1705,7 +1791,7 @@
             "type": "color"
           },
           "active-bg-color": {
-            "value": "{core.base.750}",
+            "value": "{core.main.750}",
             "type": "color"
           },
           "active-border-color": {
@@ -1727,11 +1813,11 @@
         },
         "tertiary": {
           "default-bg-color": {
-            "value": "{core.base.800}",
+            "value": "{core.main.800}",
             "type": "color"
           },
           "default-border-color": {
-            "value": "{core.base.700}",
+            "value": "{core.main.700}",
             "type": "color"
           },
           "default-fg-color": {
@@ -1739,19 +1825,19 @@
             "type": "color"
           },
           "hover-bg-color": {
-            "value": "{core.base.750}",
+            "value": "{core.main.750}",
             "type": "color"
           },
           "hover-border-color": {
-            "value": "{core.base.700}",
+            "value": "{core.main.700}",
             "type": "color"
           },
           "active-bg-color": {
-            "value": "{core.base.850}",
+            "value": "{core.main.850}",
             "type": "color"
           },
           "active-border-color": {
-            "value": "{core.base.750}",
+            "value": "{core.main.750}",
             "type": "color"
           },
           "disabled-bg-color": {
@@ -1823,7 +1909,7 @@
             "type": "color"
           },
           "hover-bg-color": {
-            "value": "{core.base.800}",
+            "value": "{core.main.800}",
             "type": "color"
           },
           "hover-border-color": {
@@ -1831,7 +1917,7 @@
             "type": "color"
           },
           "active-bg-color": {
-            "value": "{core.base.900}",
+            "value": "{core.main.900}",
             "type": "color"
           },
           "active-border-color": {
@@ -1943,7 +2029,7 @@
             "type": "color"
           },
           "default-icon-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           },
           "hover-icon-color": {
@@ -2005,7 +2091,7 @@
         },
         "alt-primary": {
           "default-bg-color": {
-            "value": "{core.base.700}",
+            "value": "{core.main.700}",
             "type": "color"
           },
           "default-border-color": {
@@ -2013,15 +2099,15 @@
             "type": "color"
           },
           "default-icon-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           },
           "hover-bg-color": {
-            "value": "{core.base.650}",
+            "value": "{core.main.650}",
             "type": "color"
           },
           "active-bg-color": {
-            "value": "{core.base.750}",
+            "value": "{core.main.750}",
             "type": "color"
           },
           "disabled-bg-color": {
@@ -2089,7 +2175,7 @@
             "type": "color"
           },
           "default-icon-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           },
           "hover-bg-color": {
@@ -2123,7 +2209,7 @@
             "type": "color"
           },
           "default-icon-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           },
           "hover-bg-color": {
@@ -2186,7 +2272,7 @@
           "type": "color"
         },
         "on-accent-color": {
-          "value": "{core.base.50}",
+          "value": "{core.main.50}",
           "type": "color",
           "description": "Color style for elements on top of accent background."
         },
@@ -2210,7 +2296,7 @@
             "description": "Disabled border for all form controls."
           },
           "fg-color": {
-            "value": "{core.base.300}",
+            "value": "{core.main.300}",
             "type": "color",
             "description": "Disabled foreground elements: placeholder, text input, icons, radio circle."
           }
@@ -2247,7 +2333,7 @@
           "type": "boxShadow"
         },
         "bg-color": {
-          "value": "{core.base.700}",
+          "value": "{core.main.700}",
           "type": "color"
         },
         "default-text-color": {
@@ -2275,7 +2361,7 @@
           "type": "color"
         },
         "hover-bg-color": {
-          "value": "{core.base.650}",
+          "value": "{core.main.650}",
           "type": "color"
         },
         "divider-color": {
@@ -2289,7 +2375,7 @@
       },
       "loader": {
         "primary-default-bg-color": {
-          "value": "{core.base.550}",
+          "value": "{core.main.550}",
           "type": "color"
         },
         "primary-default-spinner-color": {
@@ -2308,7 +2394,7 @@
             "type": "color"
           },
           "active-bg-color": {
-            "value": "{core.base.500}",
+            "value": "{core.main.500}",
             "type": "color"
           },
           "disabled-bg-color": {
@@ -2316,7 +2402,7 @@
             "type": "color"
           },
           "icon-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           }
         },
@@ -2330,7 +2416,7 @@
             "type": "color"
           },
           "active-bg-color": {
-            "value": "{core.base.500}",
+            "value": "{core.main.500}",
             "type": "color"
           },
           "disabled-bg-color": {
@@ -2338,21 +2424,21 @@
             "type": "color"
           },
           "icon-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           }
         },
         "tertiary": {
           "default-bg-color": {
-            "value": "{core.base.500}",
+            "value": "{core.main.500}",
             "type": "color"
           },
           "hover-bg-color": {
-            "value": "{core.base.450}",
+            "value": "{core.main.450}",
             "type": "color"
           },
           "active-bg-color": {
-            "value": "{core.base.500}",
+            "value": "{core.main.500}",
             "type": "color"
           },
           "disabled-bg-color": {
@@ -2360,7 +2446,7 @@
             "type": "color"
           },
           "icon-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           }
         },
@@ -2370,11 +2456,11 @@
             "type": "color"
           },
           "hover-bg-color": {
-            "value": "{core.base.450}",
+            "value": "{core.main.450}",
             "type": "color"
           },
           "active-bg-color": {
-            "value": "{core.base.500}",
+            "value": "{core.main.500}",
             "type": "color"
           },
           "disabled-bg-color": {
@@ -2382,16 +2468,16 @@
             "type": "color"
           },
           "icon-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           }
         },
         "knob-on-color": {
-          "value": "{core.base.50}",
+          "value": "{core.main.50}",
           "type": "color"
         },
         "knob-off-color": {
-          "value": "{core.base.100}",
+          "value": "{core.main.100}",
           "type": "color"
         },
         "knob-disabled-color": {
@@ -2620,7 +2706,7 @@
             "type": "color"
           },
           "default-text-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           },
           "default-icon-color": {
@@ -2658,7 +2744,7 @@
             "type": "color"
           },
           "default-text-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           },
           "default-icon-color": {
@@ -2696,11 +2782,11 @@
             "type": "color"
           },
           "default-text-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           },
           "default-icon-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           },
           "hover-bg-color": {
@@ -2734,11 +2820,11 @@
             "type": "color"
           },
           "default-text-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           },
           "default-icon-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           },
           "hover-bg-color": {
@@ -2904,20 +2990,20 @@
   "alias/web-light": {
     "base": {
       "outline-color": {
-        "value": "{core.red.200}",
+        "value": "{core.focused-border}",
         "type": "color"
       },
       "selection-color": {
-        "value": "{core.red.100}",
+        "value": "{core.accent.50}",
         "type": "color"
       },
       "selected-text-color": {
-        "value": "{core.base.50}",
+        "value": "{core.main.800}",
         "type": "color",
         "description": "Selected text color."
       },
       "selected-placeholder-color": {
-        "value": "{core.base.50}",
+        "value": "{core.main.50}",
         "type": "color",
         "description": "Selected placeholder color."
       },
@@ -2927,11 +3013,11 @@
           "type": "color"
         },
         "secondary-color": {
-          "value": "{core.base.950}",
+          "value": "{core.main.950}",
           "type": "color"
         },
         "tertiary-color": {
-          "value": "{core.base.700}",
+          "value": "{core.main.700}",
           "type": "color"
         },
         "brand-default-color": {
@@ -3001,17 +3087,17 @@
       },
       "bg": {
         "primary": {
-          "value": "{core.base.200}",
+          "value": "{core.main.200}",
           "type": "color",
           "description": "Typically represents the application's background color."
         },
         "secondary": {
-          "value": "{core.base.50}",
+          "value": "{core.main.50}",
           "type": "color",
           "description": "Typically represents the widget background color."
         },
         "tertiary": {
-          "value": "{core.base.300}",
+          "value": "{core.main.300}",
           "type": "color",
           "description": "Typically represents the widget header or popup elements background color."
         },
@@ -3108,11 +3194,11 @@
             "type": "color"
           },
           "disabled-bg-color": {
-            "value": "{core.base.300}",
+            "value": "{core.main.300}",
             "type": "color"
           },
           "disabled-border-color": {
-            "value": "{core.base.300}",
+            "value": "{core.main.300}",
             "type": "color"
           },
           "disabled-fg-color": {
@@ -3122,7 +3208,7 @@
         },
         "secondary": {
           "default-bg-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           },
           "default-border-color": {
@@ -3134,7 +3220,7 @@
             "type": "color"
           },
           "hover-bg-color": {
-            "value": "{core.base.100}",
+            "value": "{core.main.100}",
             "type": "color"
           },
           "hover-border-color": {
@@ -3142,7 +3228,7 @@
             "type": "color"
           },
           "active-bg-color": {
-            "value": "{core.base.200}",
+            "value": "{core.main.200}",
             "type": "color"
           },
           "active-border-color": {
@@ -3150,11 +3236,11 @@
             "type": "color"
           },
           "disabled-bg-color": {
-            "value": "{core.base.300}",
+            "value": "{core.main.300}",
             "type": "color"
           },
           "disabled-border-color": {
-            "value": "{core.base.300}",
+            "value": "{core.main.300}",
             "type": "color"
           },
           "disabled-fg-color": {
@@ -3164,11 +3250,11 @@
         },
         "tertiary": {
           "default-bg-color": {
-            "value": "{core.base.200}",
+            "value": "{core.main.200}",
             "type": "color"
           },
           "default-border-color": {
-            "value": "{core.base.500}",
+            "value": "{core.main.500}",
             "type": "color"
           },
           "default-fg-color": {
@@ -3176,27 +3262,27 @@
             "type": "color"
           },
           "hover-bg-color": {
-            "value": "{core.base.150}",
+            "value": "{core.main.150}",
             "type": "color"
           },
           "hover-border-color": {
-            "value": "{core.base.500}",
+            "value": "{core.main.500}",
             "type": "color"
           },
           "active-bg-color": {
-            "value": "{core.base.300}",
+            "value": "{core.main.300}",
             "type": "color"
           },
           "active-border-color": {
-            "value": "{core.base.500}",
+            "value": "{core.main.500}",
             "type": "color"
           },
           "disabled-bg-color": {
-            "value": "{core.base.300}",
+            "value": "{core.main.300}",
             "type": "color"
           },
           "disabled-border-color": {
-            "value": "{core.base.300}",
+            "value": "{core.main.300}",
             "type": "color"
           },
           "disabled-fg-color": {
@@ -3234,11 +3320,11 @@
             "type": "color"
           },
           "disabled-bg-color": {
-            "value": "{core.base.300}",
+            "value": "{core.main.300}",
             "type": "color"
           },
           "disabled-border-color": {
-            "value": "{core.base.300}",
+            "value": "{core.main.300}",
             "type": "color"
           },
           "disabled-fg-color": {
@@ -3256,7 +3342,7 @@
             "type": "color"
           },
           "default-fg-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           },
           "hover-bg-color": {
@@ -3276,11 +3362,11 @@
             "type": "color"
           },
           "disabled-bg-color": {
-            "value": "{core.base.300}",
+            "value": "{core.main.300}",
             "type": "color"
           },
           "disabled-border-color": {
-            "value": "{core.base.300}",
+            "value": "{core.main.300}",
             "type": "color"
           },
           "disabled-fg-color": {
@@ -3298,7 +3384,7 @@
             "type": "color"
           },
           "default-fg-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           },
           "hover-bg-color": {
@@ -3318,11 +3404,11 @@
             "type": "color"
           },
           "disabled-bg-color": {
-            "value": "{core.base.300}",
+            "value": "{core.main.300}",
             "type": "color"
           },
           "disabled-border-color": {
-            "value": "{core.base.300}",
+            "value": "{core.main.300}",
             "type": "color"
           },
           "disabled-fg-color": {
@@ -3340,7 +3426,7 @@
             "type": "color"
           },
           "default-fg-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           },
           "hover-bg-color": {
@@ -3360,11 +3446,11 @@
             "type": "color"
           },
           "disabled-bg-color": {
-            "value": "{core.base.300}",
+            "value": "{core.main.300}",
             "type": "color"
           },
           "disabled-border-color": {
-            "value": "{core.base.300}",
+            "value": "{core.main.300}",
             "type": "color"
           },
           "disabled-fg-color": {
@@ -3402,7 +3488,7 @@
             "type": "color"
           },
           "default-icon-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           },
           "hover-icon-color": {
@@ -3424,7 +3510,7 @@
             "type": "color"
           },
           "default-icon-color": {
-            "value": "{core.base.800}",
+            "value": "{core.main.800}",
             "type": "color"
           },
           "hover-icon-color": {
@@ -3450,7 +3536,7 @@
             "type": "color"
           },
           "default-icon-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           },
           "hover-bg-color": {
@@ -3470,7 +3556,7 @@
             "type": "color"
           },
           "disabled-icon-color": {
-            "value": "{core.base.800}",
+            "value": "{core.main.800}",
             "type": "color"
           }
         },
@@ -3484,7 +3570,7 @@
             "type": "color"
           },
           "default-icon-color": {
-            "value": "{core.base.800}",
+            "value": "{core.main.800}",
             "type": "color"
           },
           "hover-bg-color": {
@@ -3526,7 +3612,7 @@
             "type": "color"
           },
           "default-icon-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           },
           "hover-bg-color": {
@@ -3546,7 +3632,7 @@
             "type": "color"
           },
           "disabled-icon-color": {
-            "value": "{core.base.800}",
+            "value": "{core.main.800}",
             "type": "color"
           }
         },
@@ -3560,7 +3646,7 @@
             "type": "color"
           },
           "default-icon-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           },
           "hover-bg-color": {
@@ -3580,22 +3666,22 @@
             "type": "color"
           },
           "disabled-icon-color": {
-            "value": "{core.base.800}",
+            "value": "{core.main.800}",
             "type": "color"
           }
         }
       },
       "forms": {
         "default-bg-color": {
-          "value": "{core.base.50}",
+          "value": "{core.main.50}",
           "type": "color"
         },
         "hover-bg-color": {
-          "value": "{core.base.50}",
+          "value": "{core.main.50}",
           "type": "color"
         },
         "default-border-color": {
-          "value": "{core.base.700}",
+          "value": "{core.main.700}",
           "type": "color"
         },
         "hover-border-color": {
@@ -3623,7 +3709,7 @@
           "type": "color"
         },
         "on-accent-color": {
-          "value": "{core.base.50}",
+          "value": "{core.main.50}",
           "type": "color",
           "description": "Color style for elements on top of accent background."
         },
@@ -3632,22 +3718,22 @@
           "type": "color"
         },
         "focus-muted-fg-color": {
-          "value": "{core.base.400}",
+          "value": "{core.main.400}",
           "type": "color"
         },
         "disabled": {
           "bg-color": {
-            "value": "{core.base.100}",
+            "value": "{core.main.100}",
             "type": "color",
             "description": "Disabled background for all form controls."
           },
           "border-color": {
-            "value": "{core.base.450}",
+            "value": "{core.main.450}",
             "type": "color",
             "description": "Disabled border for all form controls."
           },
           "fg-color": {
-            "value": "{core.base.500}",
+            "value": "{core.main.500}",
             "type": "color",
             "description": "Disabled foreground elements: placeholder, text input, icons, radio circle."
           }
@@ -3673,7 +3759,7 @@
       },
       "dropdown": {
         "bg-color": {
-          "value": "{core.base.50}",
+          "value": "{core.main.50}",
           "type": "color"
         },
         "default-text-color": {
@@ -3701,7 +3787,7 @@
           "type": "color"
         },
         "hover-bg-color": {
-          "value": "{core.base.100}",
+          "value": "{core.main.100}",
           "type": "color"
         },
         "divider-color": {
@@ -3753,7 +3839,7 @@
             "type": "color"
           },
           "icon-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           }
         },
@@ -3775,7 +3861,7 @@
             "type": "color"
           },
           "icon-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           }
         },
@@ -3793,11 +3879,11 @@
             "type": "color"
           },
           "disabled-bg-color": {
-            "value": "{core.base.400}",
+            "value": "{core.main.400}",
             "type": "color"
           },
           "icon-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           }
         },
@@ -3815,51 +3901,51 @@
             "type": "color"
           },
           "disabled-bg-color": {
-            "value": "{core.base.400}",
+            "value": "{core.main.400}",
             "type": "color"
           },
           "icon-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           }
         },
         "knob-on-color": {
-          "value": "{core.base.50}",
+          "value": "{core.main.50}",
           "type": "color"
         },
         "knob-off-color": {
-          "value": "{core.base.50}",
+          "value": "{core.main.50}",
           "type": "color"
         },
         "knob-disabled-color": {
-          "value": "{core.base.200}",
+          "value": "{core.main.200}",
           "type": "color"
         },
         "icon-disabled-color": {
-          "value": "{core.base.200}",
+          "value": "{core.main.200}",
           "type": "color"
         }
       },
       "selectbox": {
         "primary": {
           "default-bg-color": {
-            "value": "{core.base.100}",
+            "value": "{core.main.100}",
             "type": "color"
           },
           "default-border-color": {
-            "value": "{core.base.450}",
+            "value": "{core.main.450}",
             "type": "color"
           },
           "hover-bg-color": {
-            "value": "{core.base.100}",
+            "value": "{core.main.100}",
             "type": "color"
           },
           "hover-border-color": {
-            "value": "{core.base.500}",
+            "value": "{core.main.500}",
             "type": "color"
           },
           "active-bg-color": {
-            "value": "{core.base.250}",
+            "value": "{core.main.250}",
             "type": "color"
           },
           "text-color": {
@@ -3881,23 +3967,23 @@
         },
         "secondary": {
           "default-bg-color": {
-            "value": "{core.base.300}",
+            "value": "{core.main.300}",
             "type": "color"
           },
           "default-border-color": {
-            "value": "{core.base.300}",
+            "value": "{core.main.300}",
             "type": "color"
           },
           "hover-bg-color": {
-            "value": "{core.base.150}",
+            "value": "{core.main.150}",
             "type": "color"
           },
           "hover-border-color": {
-            "value": "{core.base.300}",
+            "value": "{core.main.300}",
             "type": "color"
           },
           "active-bg-color": {
-            "value": "{core.base.400}",
+            "value": "{core.main.400}",
             "type": "color"
           },
           "text-color": {
@@ -3919,7 +4005,7 @@
         },
         "tertiary": {
           "default-bg-color": {
-            "value": "{core.base.200}",
+            "value": "{core.main.200}",
             "type": "color"
           },
           "default-border-color": {
@@ -3927,7 +4013,7 @@
             "type": "color"
           },
           "hover-bg-color": {
-            "value": "{core.base.150}",
+            "value": "{core.main.150}",
             "type": "color"
           },
           "hover-border-color": {
@@ -3935,7 +4021,7 @@
             "type": "color"
           },
           "active-bg-color": {
-            "value": "{core.base.400}",
+            "value": "{core.main.400}",
             "type": "color"
           },
           "text-color": {
@@ -4007,22 +4093,22 @@
         },
         "disabled": {
           "bg-color": {
-            "value": "{core.base.100}",
+            "value": "{core.main.100}",
             "type": "color"
           },
           "border-color": {
-            "value": "{core.base.300}",
+            "value": "{core.main.300}",
             "type": "color"
           },
           "fg-color": {
-            "value": "{core.base.700}",
+            "value": "{core.main.700}",
             "type": "color"
           }
         }
       },
       "stepper": {
         "default-bg-color": {
-          "value": "{core.base.200}",
+          "value": "{core.main.200}",
           "type": "color"
         },
         "default-icon-color": {
@@ -4030,15 +4116,15 @@
           "type": "color"
         },
         "hover-bg-color": {
-          "value": "{core.base.300}",
+          "value": "{core.main.300}",
           "type": "color"
         },
         "active-bg-color": {
-          "value": "{core.base.400}",
+          "value": "{core.main.400}",
           "type": "color"
         },
         "disabled-bg-color": {
-          "value": "{core.base.200}",
+          "value": "{core.main.200}",
           "type": "color"
         },
         "disabled-icon-color": {
@@ -4057,7 +4143,7 @@
             "type": "color"
           },
           "default-text-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           },
           "default-icon-color": {
@@ -4095,11 +4181,11 @@
             "type": "color"
           },
           "default-text-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           },
           "default-icon-color": {
-            "value": "{core.base.500}",
+            "value": "{core.main.500}",
             "type": "color"
           },
           "hover-bg-color": {
@@ -4133,11 +4219,11 @@
             "type": "color"
           },
           "default-text-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           },
           "default-icon-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           },
           "hover-bg-color": {
@@ -4171,11 +4257,11 @@
             "type": "color"
           },
           "default-text-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           },
           "default-icon-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           },
           "hover-bg-color": {
@@ -4211,17 +4297,17 @@
             "type": "color"
           },
           "text-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           }
         },
         "info": {
           "bg-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           },
           "border-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           },
           "text-color": {
@@ -4239,7 +4325,7 @@
             "type": "color"
           },
           "text-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           }
         },
@@ -6250,11 +6336,11 @@
           "type": "color"
         },
         "label-color": {
-          "value": "{core.base.50}",
+          "value": "{core.main.50}",
           "type": "color"
         },
         "hint-color": {
-          "value": "{core.base.500}",
+          "value": "{core.main.500}",
           "type": "color"
         },
         "label-font-weight": {
@@ -6395,7 +6481,7 @@
               "type": "color"
             },
             "default-text-color": {
-              "value": "{core.base.50}",
+              "value": "{core.main.50}",
               "type": "color",
               "description": "Day number color."
             },
@@ -6417,7 +6503,7 @@
               "type": "color"
             },
             "selected-text-color": {
-              "value": "{core.base.50}",
+              "value": "{core.main.50}",
               "type": "color"
             },
             "weekend-text-color": {
@@ -6457,7 +6543,7 @@
             "type": "fontSizes"
           },
           "label-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           },
           "label-font-size": {
@@ -6492,7 +6578,7 @@
               "type": "spacing"
             },
             "default-text-color": {
-              "value": "{core.base.50}",
+              "value": "{core.main.50}",
               "type": "color"
             },
             "hover-bg-color": {
@@ -6500,7 +6586,7 @@
               "type": "color"
             },
             "disabled-text-color": {
-              "value": "{core.base.600}",
+              "value": "{core.main.600}",
               "type": "color"
             }
           },
@@ -6646,16 +6732,16 @@
         "type": "color"
       },
       "header-icon-color": {
-        "value": "{core.base.800}",
+        "value": "{core.main.800}",
         "type": "color",
         "description": "Optional icon header color."
       },
       "body-text-color": {
-        "value": "{core.base.50}",
+        "value": "{core.main.50}",
         "type": "color"
       },
       "header-text-color": {
-        "value": "{core.base.50}",
+        "value": "{core.main.50}",
         "type": "color"
       },
       "min": {
@@ -10630,12 +10716,12 @@
             "description": "Default border color."
           },
           "default-text-color": {
-            "value": "{core.base.150}",
+            "value": "{core.main.150}",
             "type": "color",
             "description": "Default text color."
           },
           "default-icon-color": {
-            "value": "{core.base.600}",
+            "value": "{core.main.600}",
             "type": "color",
             "description": "Default icon color."
           },
@@ -10650,12 +10736,12 @@
             "description": "Hover border color."
           },
           "hover-text-color": {
-            "value": "{core.base.150}",
+            "value": "{core.main.150}",
             "type": "color",
             "description": "Hover text color."
           },
           "hover-icon-color": {
-            "value": "{core.base.600}",
+            "value": "{core.main.600}",
             "type": "color",
             "description": "Hover icon color."
           },
@@ -10670,12 +10756,12 @@
             "description": "Disabled border color."
           },
           "disabled-text-color": {
-            "value": "{core.base.800}",
+            "value": "{core.main.800}",
             "type": "color",
             "description": "Disabled text color."
           },
           "disabled-icon-color": {
-            "value": "{core.base.800}",
+            "value": "{core.main.800}",
             "type": "color",
             "description": "Disabled icon color."
           },
@@ -10685,7 +10771,7 @@
             "description": "Label background color."
           },
           "label-text-color": {
-            "value": "{core.base.450}",
+            "value": "{core.main.450}",
             "type": "color",
             "description": "Label text color."
           },
@@ -10726,12 +10812,12 @@
             "description": "Default border color."
           },
           "default-text-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color",
             "description": "Default text color."
           },
           "default-icon-color": {
-            "value": "{core.base.600}",
+            "value": "{core.main.600}",
             "type": "color",
             "description": "Default icon color."
           },
@@ -10746,12 +10832,12 @@
             "description": "Hover border color."
           },
           "hover-text-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color",
             "description": "Hover text color."
           },
           "hover-icon-color": {
-            "value": "{core.base.600}",
+            "value": "{core.main.600}",
             "type": "color",
             "description": "Hover icon color."
           },
@@ -10766,12 +10852,12 @@
             "description": "Disabled border color."
           },
           "disabled-text-color": {
-            "value": "{core.base.800}",
+            "value": "{core.main.800}",
             "type": "color",
             "description": "Disabled text color."
           },
           "disabled-icon-color": {
-            "value": "{core.base.800}",
+            "value": "{core.main.800}",
             "type": "color",
             "description": "Disabled icon color."
           },
@@ -10781,7 +10867,7 @@
             "description": "Label background color."
           },
           "label-text-color": {
-            "value": "{core.base.450}",
+            "value": "{core.main.450}",
             "type": "color",
             "description": "Label text color."
           },
@@ -10835,12 +10921,12 @@
             "description": "Default border color."
           },
           "default-text-color": {
-            "value": "{core.base.150}",
+            "value": "{core.main.150}",
             "type": "color",
             "description": "Default text color."
           },
           "default-icon-color": {
-            "value": "{core.base.600}",
+            "value": "{core.main.600}",
             "type": "color",
             "description": "Default icon color."
           },
@@ -10855,12 +10941,12 @@
             "description": "Hover border color."
           },
           "hover-text-color": {
-            "value": "{core.base.150}",
+            "value": "{core.main.150}",
             "type": "color",
             "description": "Hover text color."
           },
           "hover-icon-color": {
-            "value": "{core.base.600}",
+            "value": "{core.main.600}",
             "type": "color",
             "description": "Hover icon color."
           },
@@ -10875,12 +10961,12 @@
             "description": "Disabled border color."
           },
           "disabled-text-color": {
-            "value": "{core.base.800}",
+            "value": "{core.main.800}",
             "type": "color",
             "description": "Disabled text color."
           },
           "disabled-icon-color": {
-            "value": "{core.base.800}",
+            "value": "{core.main.800}",
             "type": "color",
             "description": "Disabled icon color."
           },
@@ -10890,7 +10976,7 @@
             "description": "Label background color."
           },
           "label-text-color": {
-            "value": "{core.base.300}",
+            "value": "{core.main.300}",
             "type": "color",
             "description": "Label text color."
           },
@@ -10932,12 +11018,12 @@
             "description": "Default border color."
           },
           "default-text-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color",
             "description": "Default text color."
           },
           "default-icon-color": {
-            "value": "{core.base.600}",
+            "value": "{core.main.600}",
             "type": "color",
             "description": "Default icon color."
           },
@@ -10952,12 +11038,12 @@
             "description": "Hover border color."
           },
           "hover-text-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color",
             "description": "Hover text color."
           },
           "hover-icon-color": {
-            "value": "{core.base.600}",
+            "value": "{core.main.600}",
             "type": "color",
             "description": "Hover icon color."
           },
@@ -10972,12 +11058,12 @@
             "description": "Disabled border color."
           },
           "disabled-text-color": {
-            "value": "{core.base.800}",
+            "value": "{core.main.800}",
             "type": "color",
             "description": "Disabled text color."
           },
           "disabled-icon-color": {
-            "value": "{core.base.800}",
+            "value": "{core.main.800}",
             "type": "color",
             "description": "Disabled icon color."
           },
@@ -10987,7 +11073,7 @@
             "description": "Label background color."
           },
           "label-text-color": {
-            "value": "{core.base.300}",
+            "value": "{core.main.300}",
             "type": "color",
             "description": "Label text color."
           },
@@ -11041,7 +11127,7 @@
             "description": "Default border color."
           },
           "default-text-color": {
-            "value": "{core.base.150}",
+            "value": "{core.main.150}",
             "type": "color",
             "description": "Default text color."
           },
@@ -11056,7 +11142,7 @@
             "description": "Hover border color."
           },
           "hover-text-color": {
-            "value": "{core.base.150}",
+            "value": "{core.main.150}",
             "type": "color",
             "description": "Hover text color."
           },
@@ -11071,7 +11157,7 @@
             "description": "Disabled border color."
           },
           "disabled-text-color": {
-            "value": "{core.base.800}",
+            "value": "{core.main.800}",
             "type": "color",
             "description": "Disabled text color."
           }
@@ -11088,7 +11174,7 @@
             "description": "Default border color."
           },
           "default-text-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color",
             "description": "Default text color."
           },
@@ -11103,7 +11189,7 @@
             "description": "Hover border color."
           },
           "hover-text-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color",
             "description": "Hover text color."
           },
@@ -11118,7 +11204,7 @@
             "description": "Disabled border color."
           },
           "disabled-text-color": {
-            "value": "{core.base.800}",
+            "value": "{core.main.800}",
             "type": "color",
             "description": "Disabled text color."
           },
@@ -11162,7 +11248,7 @@
             "description": "Default border color."
           },
           "default-text-color": {
-            "value": "{core.base.150}",
+            "value": "{core.main.150}",
             "type": "color",
             "description": "Default text color."
           },
@@ -11177,7 +11263,7 @@
             "description": "Hover border color."
           },
           "hover-text-color": {
-            "value": "{core.base.150}",
+            "value": "{core.main.150}",
             "type": "color",
             "description": "Hover text color."
           },
@@ -11192,7 +11278,7 @@
             "description": "Disabled border color."
           },
           "disabled-text-color": {
-            "value": "{core.base.800}",
+            "value": "{core.main.800}",
             "type": "color",
             "description": "Disabled text color."
           }
@@ -11209,7 +11295,7 @@
             "description": "Default border color."
           },
           "default-text-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color",
             "description": "Default text color."
           },
@@ -11224,7 +11310,7 @@
             "description": "Hover border color."
           },
           "hover-text-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color",
             "description": "Hover text color."
           },
@@ -11239,7 +11325,7 @@
             "description": "Disabled border color."
           },
           "disabled-text-color": {
-            "value": "{core.base.800}",
+            "value": "{core.main.800}",
             "type": "color",
             "description": "Disabled text color."
           },
@@ -33066,11 +33152,11 @@
           "type": "color"
         },
         "label-color": {
-          "value": "{core.base.50}",
+          "value": "{core.main.50}",
           "type": "color"
         },
         "hint-color": {
-          "value": "{core.base.500}",
+          "value": "{core.main.500}",
           "type": "color"
         }
       },
@@ -33088,7 +33174,7 @@
               "type": "color"
             },
             "default-text-color": {
-              "value": "{core.base.50}",
+              "value": "{core.main.50}",
               "type": "color",
               "description": "Day number color."
             },
@@ -33110,7 +33196,7 @@
               "type": "color"
             },
             "selected-text-color": {
-              "value": "{core.base.50}",
+              "value": "{core.main.50}",
               "type": "color"
             },
             "weekend-text-color": {
@@ -33134,14 +33220,14 @@
             "description": "Day number color."
           },
           "label-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color"
           }
         },
         "list": {
           "item": {
             "default-text-color": {
-              "value": "{core.base.50}",
+              "value": "{core.main.50}",
               "type": "color"
             },
             "hover-bg-color": {
@@ -33149,7 +33235,7 @@
               "type": "color"
             },
             "disabled-text-color": {
-              "value": "{core.base.600}",
+              "value": "{core.main.600}",
               "type": "color"
             }
           }
@@ -33190,16 +33276,16 @@
         "type": "color"
       },
       "header-icon-color": {
-        "value": "{core.base.800}",
+        "value": "{core.main.800}",
         "type": "color",
         "description": "Optional icon header color."
       },
       "body-text-color": {
-        "value": "{core.base.50}",
+        "value": "{core.main.50}",
         "type": "color"
       },
       "header-text-color": {
-        "value": "{core.base.50}",
+        "value": "{core.main.50}",
         "type": "color"
       },
       "footer-bg-color": {
@@ -35170,12 +35256,12 @@
             "description": "Default border color."
           },
           "default-text-color": {
-            "value": "{core.base.150}",
+            "value": "{core.main.150}",
             "type": "color",
             "description": "Default text color."
           },
           "default-icon-color": {
-            "value": "{core.base.600}",
+            "value": "{core.main.600}",
             "type": "color",
             "description": "Default icon color."
           },
@@ -35190,12 +35276,12 @@
             "description": "Hover border color."
           },
           "hover-text-color": {
-            "value": "{core.base.150}",
+            "value": "{core.main.150}",
             "type": "color",
             "description": "Hover text color."
           },
           "hover-icon-color": {
-            "value": "{core.base.600}",
+            "value": "{core.main.600}",
             "type": "color",
             "description": "Hover icon color."
           },
@@ -35210,12 +35296,12 @@
             "description": "Disabled border color."
           },
           "disabled-text-color": {
-            "value": "{core.base.800}",
+            "value": "{core.main.800}",
             "type": "color",
             "description": "Disabled text color."
           },
           "disabled-icon-color": {
-            "value": "{core.base.800}",
+            "value": "{core.main.800}",
             "type": "color",
             "description": "Disabled icon color."
           },
@@ -35225,7 +35311,7 @@
             "description": "Label background color."
           },
           "label-text-color": {
-            "value": "{core.base.450}",
+            "value": "{core.main.450}",
             "type": "color",
             "description": "Label text color."
           },
@@ -35256,12 +35342,12 @@
             "description": "Default border color."
           },
           "default-text-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color",
             "description": "Default text color."
           },
           "default-icon-color": {
-            "value": "{core.base.600}",
+            "value": "{core.main.600}",
             "type": "color",
             "description": "Default icon color."
           },
@@ -35276,12 +35362,12 @@
             "description": "Hover border color."
           },
           "hover-text-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color",
             "description": "Hover text color."
           },
           "hover-icon-color": {
-            "value": "{core.base.600}",
+            "value": "{core.main.600}",
             "type": "color",
             "description": "Hover icon color."
           },
@@ -35296,12 +35382,12 @@
             "description": "Disabled border color."
           },
           "disabled-text-color": {
-            "value": "{core.base.800}",
+            "value": "{core.main.800}",
             "type": "color",
             "description": "Disabled text color."
           },
           "disabled-icon-color": {
-            "value": "{core.base.800}",
+            "value": "{core.main.800}",
             "type": "color",
             "description": "Disabled icon color."
           },
@@ -35311,7 +35397,7 @@
             "description": "Label background color."
           },
           "label-text-color": {
-            "value": "{core.base.450}",
+            "value": "{core.main.450}",
             "type": "color",
             "description": "Label text color."
           },
@@ -35345,12 +35431,12 @@
             "description": "Default border color."
           },
           "default-text-color": {
-            "value": "{core.base.150}",
+            "value": "{core.main.150}",
             "type": "color",
             "description": "Default text color."
           },
           "default-icon-color": {
-            "value": "{core.base.600}",
+            "value": "{core.main.600}",
             "type": "color",
             "description": "Default icon color."
           },
@@ -35365,12 +35451,12 @@
             "description": "Hover border color."
           },
           "hover-text-color": {
-            "value": "{core.base.150}",
+            "value": "{core.main.150}",
             "type": "color",
             "description": "Hover text color."
           },
           "hover-icon-color": {
-            "value": "{core.base.600}",
+            "value": "{core.main.600}",
             "type": "color",
             "description": "Hover icon color."
           },
@@ -35385,12 +35471,12 @@
             "description": "Disabled border color."
           },
           "disabled-text-color": {
-            "value": "{core.base.800}",
+            "value": "{core.main.800}",
             "type": "color",
             "description": "Disabled text color."
           },
           "disabled-icon-color": {
-            "value": "{core.base.800}",
+            "value": "{core.main.800}",
             "type": "color",
             "description": "Disabled icon color."
           },
@@ -35400,7 +35486,7 @@
             "description": "Label background color."
           },
           "label-text-color": {
-            "value": "{core.base.300}",
+            "value": "{core.main.300}",
             "type": "color",
             "description": "Label text color."
           },
@@ -35432,12 +35518,12 @@
             "description": "Default border color."
           },
           "default-text-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color",
             "description": "Default text color."
           },
           "default-icon-color": {
-            "value": "{core.base.600}",
+            "value": "{core.main.600}",
             "type": "color",
             "description": "Default icon color."
           },
@@ -35452,12 +35538,12 @@
             "description": "Hover border color."
           },
           "hover-text-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color",
             "description": "Hover text color."
           },
           "hover-icon-color": {
-            "value": "{core.base.600}",
+            "value": "{core.main.600}",
             "type": "color",
             "description": "Hover icon color."
           },
@@ -35472,12 +35558,12 @@
             "description": "Disabled border color."
           },
           "disabled-text-color": {
-            "value": "{core.base.800}",
+            "value": "{core.main.800}",
             "type": "color",
             "description": "Disabled text color."
           },
           "disabled-icon-color": {
-            "value": "{core.base.800}",
+            "value": "{core.main.800}",
             "type": "color",
             "description": "Disabled icon color."
           },
@@ -35487,7 +35573,7 @@
             "description": "Label background color."
           },
           "label-text-color": {
-            "value": "{core.base.300}",
+            "value": "{core.main.300}",
             "type": "color",
             "description": "Label text color."
           },
@@ -35521,7 +35607,7 @@
             "description": "Default border color."
           },
           "default-text-color": {
-            "value": "{core.base.150}",
+            "value": "{core.main.150}",
             "type": "color",
             "description": "Default text color."
           },
@@ -35536,7 +35622,7 @@
             "description": "Hover border color."
           },
           "hover-text-color": {
-            "value": "{core.base.150}",
+            "value": "{core.main.150}",
             "type": "color",
             "description": "Hover text color."
           },
@@ -35551,7 +35637,7 @@
             "description": "Disabled border color."
           },
           "disabled-text-color": {
-            "value": "{core.base.800}",
+            "value": "{core.main.800}",
             "type": "color",
             "description": "Disabled text color."
           }
@@ -35568,7 +35654,7 @@
             "description": "Default border color."
           },
           "default-text-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color",
             "description": "Default text color."
           },
@@ -35583,7 +35669,7 @@
             "description": "Hover border color."
           },
           "hover-text-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color",
             "description": "Hover text color."
           },
@@ -35598,7 +35684,7 @@
             "description": "Disabled border color."
           },
           "disabled-text-color": {
-            "value": "{core.base.800}",
+            "value": "{core.main.800}",
             "type": "color",
             "description": "Disabled text color."
           },
@@ -35622,7 +35708,7 @@
             "description": "Default border color."
           },
           "default-text-color": {
-            "value": "{core.base.150}",
+            "value": "{core.main.150}",
             "type": "color",
             "description": "Default text color."
           },
@@ -35637,7 +35723,7 @@
             "description": "Hover border color."
           },
           "hover-text-color": {
-            "value": "{core.base.150}",
+            "value": "{core.main.150}",
             "type": "color",
             "description": "Hover text color."
           },
@@ -35652,7 +35738,7 @@
             "description": "Disabled border color."
           },
           "disabled-text-color": {
-            "value": "{core.base.800}",
+            "value": "{core.main.800}",
             "type": "color",
             "description": "Disabled text color."
           }
@@ -35669,7 +35755,7 @@
             "description": "Default border color."
           },
           "default-text-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color",
             "description": "Default text color."
           },
@@ -35684,7 +35770,7 @@
             "description": "Hover border color."
           },
           "hover-text-color": {
-            "value": "{core.base.50}",
+            "value": "{core.main.50}",
             "type": "color",
             "description": "Hover text color."
           },
@@ -35699,7 +35785,7 @@
             "description": "Disabled border color."
           },
           "disabled-text-color": {
-            "value": "{core.base.800}",
+            "value": "{core.main.800}",
             "type": "color",
             "description": "Disabled text color."
           },
@@ -38076,20 +38162,6 @@
         "common.selection-color": "9325506b8776a5ca8aa468a0eb413a95034eddfe",
         "common.selected-text-color": "98ac079893d655a118a3161510f393ff4013d056",
         "common.selected-placeholder-color": "db930df3a54b2daba2dfe0c18830cebb0712d447",
-        "core.base.50": "99c6b442a4719620c163ef6445e5bbf418d5a114",
-        "core.base.100": "407a979a4a14906fcb0fda3d62ce0f81188a8c94",
-        "core.base.150": "0a72e09ec51b8226d84789e66516ec00b409485f",
-        "core.base.200": "99fd5dcef23b70fb575e68274b6a76fa0c8f2543",
-        "core.base.250": "43eb5ddb1c95f42f6b661523a4346bd58c156808",
-        "core.base.300": "890c786e5c83da1c0264c3e6f80a6afb1e25a5b4",
-        "core.base.400": "57c1e35d8f8387c660aaae00f2f33650feaa1164",
-        "core.base.450": "54883d551efe955f8d4bb105dc4387499daddf27",
-        "core.base.500": "1005f3c2647dc38c81c0e471afe7f441845219ce",
-        "core.base.600": "038f691b2e1bef63eece477d4be8894773b5df57",
-        "core.base.700": "afa5871f0ca14a363090eb665294610a27291817",
-        "core.base.800": "d62cf8e9b9217201e365d3d67efc894a9888f6f4",
-        "core.base.900": "c1bdb2dcd1b9fa7d26173c4d46ca29c6bdb55d49",
-        "core.base.950": "53a9018194c21c40ada8ed50430e055f93481849",
         "core.muted.50": "af2b283cbfeb33176ff245da15e314ed9b2c1b68",
         "core.muted.100": "64be7d9cdcd165e9799dc018931e49e85c8b54c9",
         "core.muted.200": "3c910b79bbbaa7aac43a31f0067cb47a9e7fc219",
@@ -38143,7 +38215,21 @@
         "core.red-op.30": "1c01459848fe5b967b92dff15e38f7e1fe9c268d",
         "core.red-op.45": "27ac668cf9d631b091113d693095b6b7e9dec546",
         "core.red-op.60": "d190d012e717028635e1100a476ba92947603838",
-        "core.red-op.75": "d98a6aec61a4eacb20226053b3731c8635af2d15"
+        "core.red-op.75": "d98a6aec61a4eacb20226053b3731c8635af2d15",
+        "core.main.50": "99c6b442a4719620c163ef6445e5bbf418d5a114",
+        "core.main.100": "407a979a4a14906fcb0fda3d62ce0f81188a8c94",
+        "core.main.150": "0a72e09ec51b8226d84789e66516ec00b409485f",
+        "core.main.200": "99fd5dcef23b70fb575e68274b6a76fa0c8f2543",
+        "core.main.250": "43eb5ddb1c95f42f6b661523a4346bd58c156808",
+        "core.main.300": "890c786e5c83da1c0264c3e6f80a6afb1e25a5b4",
+        "core.main.400": "57c1e35d8f8387c660aaae00f2f33650feaa1164",
+        "core.main.450": "54883d551efe955f8d4bb105dc4387499daddf27",
+        "core.main.500": "1005f3c2647dc38c81c0e471afe7f441845219ce",
+        "core.main.600": "038f691b2e1bef63eece477d4be8894773b5df57",
+        "core.main.700": "afa5871f0ca14a363090eb665294610a27291817",
+        "core.main.800": "d62cf8e9b9217201e365d3d67efc894a9888f6f4",
+        "core.main.900": "c1bdb2dcd1b9fa7d26173c4d46ca29c6bdb55d49",
+        "core.main.950": "53a9018194c21c40ada8ed50430e055f93481849"
       },
       "$figmaCollectionId": "VariableCollectionId:8935:5164",
       "$figmaModeId": "8935:0"
@@ -39934,20 +40020,6 @@
         "common.selection-color": "86392e2f2833754db4b78c955809f648f14a21f1",
         "common.selected-text-color": "ea7b2f37f3bb094b85fff33a52a6a6f48b95dbd5",
         "common.selected-placeholder-color": "017dc7450d61486be11c82924449da5bbae5d2f7",
-        "core.base.50": "66c8f0575540911be57fe62caa2d1b1fc4e7255a",
-        "core.base.100": "0c61e313d5249421c69aa5aebc58a8aaea06ad15",
-        "core.base.150": "88dc8dbfda465cecc59686d0364beaff9cded877",
-        "core.base.200": "c7ef658b5cb82e72a1d321ba6defad1f345ec4f6",
-        "core.base.250": "adb7ebfc0b81365e250e481051bdef3fa6ecbc1f",
-        "core.base.300": "38626309ba283b756b93ed5a34f05287cfaddef5",
-        "core.base.400": "b5bd8281c909306fad4a3ab703652f21e1f694f0",
-        "core.base.450": "0ad3da56f1d02bf447e569e22fca0690deb951db",
-        "core.base.500": "62a2741e791d1911cc6072ab80f11004edbd1b38",
-        "core.base.600": "1fb0c8c600289f5a38de92e6a34d1ea1364211b0",
-        "core.base.700": "e13931637dcc09b0325361f72031cecf58951912",
-        "core.base.800": "19b0143838b5772270ff9c52d194d1712ab22bdd",
-        "core.base.900": "60e7b025221e96edeaebc26fca8e8d6e6e549160",
-        "core.base.950": "1e0aabc376b0bcd729ee66d4459f20e4dbb16dc4",
         "core.muted.50": "c7fde17de61eb6d0845630fade349b165900578d",
         "core.muted.100": "0fd8a1bb3f00bf6838a7052a99b495c390235514",
         "core.muted.200": "27a595a2d22a1e82867560a9ddd587e4407c6c69",
@@ -40001,7 +40073,21 @@
         "core.red-op.30": "a049240f384eed0bf13a8a7996e36e1893ffd77b",
         "core.red-op.45": "10817255283f5a2ae2aabe2cb38aae918daf93b0",
         "core.red-op.60": "33d486b17c03cd3463d28cf70dc6d20cad744b49",
-        "core.red-op.75": "760e9ea479fb5099f75628f46b43d9146cd525d2"
+        "core.red-op.75": "760e9ea479fb5099f75628f46b43d9146cd525d2",
+        "core.main.50": "66c8f0575540911be57fe62caa2d1b1fc4e7255a",
+        "core.main.100": "0c61e313d5249421c69aa5aebc58a8aaea06ad15",
+        "core.main.150": "88dc8dbfda465cecc59686d0364beaff9cded877",
+        "core.main.200": "c7ef658b5cb82e72a1d321ba6defad1f345ec4f6",
+        "core.main.250": "adb7ebfc0b81365e250e481051bdef3fa6ecbc1f",
+        "core.main.300": "38626309ba283b756b93ed5a34f05287cfaddef5",
+        "core.main.400": "b5bd8281c909306fad4a3ab703652f21e1f694f0",
+        "core.main.450": "0ad3da56f1d02bf447e569e22fca0690deb951db",
+        "core.main.500": "62a2741e791d1911cc6072ab80f11004edbd1b38",
+        "core.main.600": "1fb0c8c600289f5a38de92e6a34d1ea1364211b0",
+        "core.main.700": "e13931637dcc09b0325361f72031cecf58951912",
+        "core.main.800": "19b0143838b5772270ff9c52d194d1712ab22bdd",
+        "core.main.900": "60e7b025221e96edeaebc26fca8e8d6e6e549160",
+        "core.main.950": "1e0aabc376b0bcd729ee66d4459f20e4dbb16dc4"
       },
       "$figmaCollectionId": "VariableCollectionId:8935:5165",
       "$figmaModeId": "8935:1"
