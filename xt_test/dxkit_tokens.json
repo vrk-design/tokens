@@ -1633,6 +1633,10 @@
           "value": "{core.base.450}",
           "type": "color"
         }
+      },
+      "hover-overlay": {
+        "value": "{core.light-op.12}",
+        "type": "color"
       }
     },
     "alias": {
@@ -2162,19 +2166,19 @@
           "type": "color"
         },
         "accent-default-color": {
-          "value": "{core.dark-op.30}",
+          "value": "{core.accent.400}",
           "type": "color"
         },
         "accent-hover-color": {
-          "value": "{core.dark-op.30}",
+          "value": "{core.accent.300}",
           "type": "color"
         },
         "accent-default-border-color": {
-          "value": "{core.focused-border}",
+          "value": "{core.accent.500}",
           "type": "color"
         },
         "accent-hover-border-color": {
-          "value": "{core.focused-border}",
+          "value": "{core.accent.600}",
           "type": "color"
         },
         "default-fg-color": {
@@ -5527,7 +5531,7 @@
       "primary": {
         "unselected": {
           "default-bg-color": {
-            "value": "{core.muted.450}",
+            "value": "{base.layers.l4}",
             "type": "color"
           },
           "default-text-color": {
@@ -6405,7 +6409,7 @@
               "type": "color"
             },
             "hover-bg-color": {
-              "value": "{core.muted.650}",
+              "value": "{base.hover-overlay}",
               "type": "color"
             },
             "hover-selected-bg-color": {
@@ -6630,15 +6634,15 @@
         "type": "color"
       },
       "border-color": {
-        "value": "{core.muted.650}",
+        "value": "{base.layers.l5}",
         "type": "color"
       },
       "header-bg-color": {
-        "value": "{core.muted.650}",
+        "value": "{base.layers.l4}",
         "type": "color"
       },
       "header-bottom-border-color": {
-        "value": "{core.muted.750}",
+        "value": "{base.layers.l5}",
         "type": "color"
       },
       "header-icon-color": {
@@ -13016,7 +13020,7 @@
           "type": "color"
         },
         "negative-count-color": {
-          "value": "{core.green.300}",
+          "value": "{core.red.300}",
           "type": "color",
           "description": "Color of the counter with a negative value when the character limit is exceeded. For example, '-5'."
         }
